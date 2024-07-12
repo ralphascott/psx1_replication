@@ -1,0 +1,2241 @@
+﻿Category,JACS3_code,JACS3_Label,Relation,HECoS_code,HECoS_Label
+4,A000,Medicine & dentistry,Related match,100268,dentistry
+4,A000,Medicine & dentistry,Related match,100271,medicine
+2,A100,Pre-clinical medicine,Related match,101334,allergy
+2,A100,Pre-clinical medicine,Related match,101337,endocrinology
+2,A100,Pre-clinical medicine,Related match,101335,epidemiology
+2,A100,Pre-clinical medicine,Related match,101327,oncology
+2,A100,Pre-clinical medicine,Close match,100276,pre-clinical medicine
+1,A200,Pre-clinical dentistry,Close match,100275,pre-clinical dentistry
+2,A300,Clinical medicine,Related match,101334,allergy
+2,A300,Clinical medicine,Related match,101336,anaesthesia
+2,A300,Clinical medicine,Close match,100267,clinical medicine
+2,A300,Clinical medicine,Related match,101339,dermatology
+2,A300,Clinical medicine,Related match,101337,endocrinology
+2,A300,Clinical medicine,Related match,101335,epidemiology
+2,A300,Clinical medicine,Related match,101331,gastroenterology
+2,A300,Clinical medicine,Related match,101309,obstetrics and gynaecology
+2,A300,Clinical medicine,Related match,101327,oncology
+2,A300,Clinical medicine,Related match,101324,orthopaedics
+2,A300,Clinical medicine,Related match,101325,paediatrics
+2,A300,Clinical medicine,Related match,101330,ultrasound
+1,A400,Clinical dentistry,Close match,100266,clinical dentistry
+4,A900,Others in medicine & dentistry,Related match,101334,allergy
+4,A900,Others in medicine & dentistry,Related match,100268,dentistry
+4,A900,Others in medicine & dentistry,Related match,101339,dermatology
+4,A900,Others in medicine & dentistry,Related match,101338,diabetes
+4,A900,Others in medicine & dentistry,Related match,101337,endocrinology
+4,A900,Others in medicine & dentistry,Related match,101331,gastroenterology
+4,A900,Others in medicine & dentistry,Related match,100271,medicine
+4,A990,Medicine & dentistry not elsewhere classified,Related match,100268,dentistry
+4,A990,Medicine & dentistry not elsewhere classified,Related match,100271,medicine
+4,B000,Subjects allied to medicine,Related match,100234,alternative medicines and therapies
+4,B000,Subjects allied to medicine,Related match,100242,complementary medicines and therapies
+4,B000,Subjects allied to medicine,Related match,100246,health sciences
+4,B000,Subjects allied to medicine,Related match,100260,healthcare science
+4,B000,Subjects allied to medicine,Related match,100270,medical sciences
+4,B000,Subjects allied to medicine,Related match,100391,natural sciences
+4,B000,Subjects allied to medicine,Related match,100290,nursing
+4,B100,"Anatomy, physiology & pathology",Related match,100350,human biology
+4,B100,"Anatomy, physiology & pathology",Related match,100270,medical sciences
+1,B110,Anatomy,Close match,100264,anatomy
+2,B120,Physiology,Related match,101309,obstetrics and gynaecology
+2,B120,Physiology,Close match,100262,physiology
+1,B121,Clinical physiology,Close match,100258,clinical physiology
+2,B130,Pathology,Related match,101327,oncology
+2,B130,Pathology,Close match,100274,pathology
+1,B131,Cellular pathology,Close match,100540,cellular pathology
+1,B132,Pathobiology,Close match,100038,pathobiology
+1,B140,Neuroscience,Close match,100272,neuroscience
+2,B160,Physiotherapy,Related match,101290,neurological rehabilitation
+2,B160,Physiotherapy,Close match,100252,physiotherapy
+2,B160,Physiotherapy,Related match,101289,rehabilitation studies
+1,B170,Podiatry,Close match,100253,podiatry
+3,B190,"Anatomy, physiology & pathology not elsewhere classified",Related match,100270,medical sciences
+4,B200,"Pharmacology, toxicology & pharmacy",Related match,101332,drug and alcohol studies
+4,B200,"Pharmacology, toxicology & pharmacy",Related match,100250,pharmacology
+4,B200,"Pharmacology, toxicology & pharmacy",Related match,100251,pharmacy
+4,B200,"Pharmacology, toxicology & pharmacy",Related match,100277,toxicology
+1,B210,Pharmacology,Close match,100250,pharmacology
+1,B220,Toxicology,Close match,100277,toxicology
+1,B230,Pharmacy,Close match,100251,pharmacy
+4,B290,"Pharmacology, toxicology & pharmacy not elsewhere classified",Related match,100250,pharmacology
+4,B290,"Pharmacology, toxicology & pharmacy not elsewhere classified",Related match,100251,pharmacy
+4,B290,"Pharmacology, toxicology & pharmacy not elsewhere classified",Related match,100277,toxicology
+1,B300,"Complementary medicines, therapies & well-being",Close match,100242,complementary medicines and therapies
+1,B310,Osteopathy,Close match,100243,osteopathy
+1,B320,Chiropractic,Close match,100241,chiropractic
+1,B340,Alternative medicine & therapies,Close match,100234,alternative medicines and therapies
+1,B341,Chinese,Close match,100236,Chinese medical techniques
+1,B342,Herbalism,Close match,100237,herbal medicine
+1,B343,Acupuncture,Close match,100233,acupuncture
+1,B344,Aromatherapy,Close match,100235,aromatherapy
+1,B345,Hypnotherapy,Close match,101340,hypnotherapy
+1,B346,Reflexology,Close match,100239,reflexology
+2,B350,Hair & beauty science,Close match,101373,hair and beauty sciences
+2,B350,Hair & beauty science,Related match,100706,hair and make-up
+2,B351,Hair services,Related match,100706,hair and make-up
+2,B351,Hair services,Close match,101374,hair services
+1,B352,Beauty therapies,Close match,100739,beauty therapy
+3,B353,Make-up,Related match,100706,hair and make-up
+2,B360,Spa & water-based therapies,Related match,100242,complementary medicines and therapies
+2,B360,Spa & water-based therapies,Close match,101375,spa and water-based therapies
+3,B390,"Complementary medicines, therapies & well-being not elsewhere classified",Related match,100242,complementary medicines and therapies
+1,B400,Nutrition,Close match,100247,nutrition
+1,B410,Dietetics,Close match,100744,dietetics
+3,B490,Nutrition not elsewhere classified,Related match,100247,nutrition
+2,B500,Ophthalmics,Close match,101511,ophthalmic dispensing
+2,B500,Ophthalmics,Related match,100261,ophthalmology
+1,B510,Optometry,Close match,100036,optometry
+1,B520,Orthoptics,Close match,100037,orthoptics
+4,B590,Ophthalmics not elsewhere classified,Related match,101511,ophthalmic dispensing
+4,B590,Ophthalmics not elsewhere classified,Related match,100261,ophthalmology
+4,B600,Aural & oral sciences,Related match,100257,audiology
+4,B600,Aural & oral sciences,Related match,100255,speech and language therapy
+1,B610,Audiology,Close match,100257,audiology
+1,B620,Speech science,Close match,100255,speech and language therapy
+3,B630,Language pathology,Related match,100255,speech and language therapy
+4,B690,Aural & oral sciences not elsewhere classified,Related match,100257,audiology
+4,B690,Aural & oral sciences not elsewhere classified,Related match,100255,speech and language therapy
+2,B700,Nursing,Related match,101329,dementia studies
+2,B700,Nursing,Related match,101338,diabetes
+2,B700,Nursing,Related match,101333,epilepsy care
+2,B700,Nursing,Related match,101331,gastroenterology
+2,B700,Nursing,Related match,100476,health and social care
+2,B700,Nursing,Related match,100473,health studies
+2,B700,Nursing,Related match,101322,mentorship
+2,B700,Nursing,Related match,101290,neurological rehabilitation
+2,B700,Nursing,Close match,100290,nursing
+2,B700,Nursing,Related match,101324,orthopaedics
+2,B700,Nursing,Related match,101325,paediatrics
+1,B701,Palliative care nursing,Close match,100292,palliative care nursing
+1,B702,Clinical practice nursing,Close match,100746,clinical practice nursing
+2,B710,Community nursing,Close match,100281,community nursing
+2,B710,Community nursing,Related match,100473,health studies
+1,B712,Health visiting,Close match,100295,health visiting
+1,B713,School nursing,Close match,100293,school nursing
+1,B714,Practice nursing,Close match,100285,general practice nursing
+1,B720,Midwifery,Close match,100288,midwifery
+2,B730,Children's nursing,Close match,100280,children's nursing
+2,B730,Children's nursing,Related match,101325,paediatrics
+1,B731,Neonatal care,Close match,100289,neonatal nursing
+1,B740,Adult nursing,Close match,100279,adult nursing
+2,B741,Older people nursing,Related match,101329,dementia studies
+2,B741,Older people nursing,Close match,100291,older people nursing
+1,B750,Dental nursing,Close match,100283,dental nursing
+2,B760,Mental health nursing,Related match,101329,dementia studies
+2,B760,Mental health nursing,Related match,100473,health studies
+2,B760,Mental health nursing,Close match,100287,mental health nursing
+1,B761,Learning disability nursing,Close match,100286,learning disabilities nursing
+1,B770,Medical nursing,Close match,100747,medical nursing
+1,B771,Critical care nursing,Close match,100282,critical care nursing
+2,B772,Surgical nursing,Related match,100273,operating department practice
+2,B772,Surgical nursing,Close match,100294,theatre nursing
+1,B773,Emergency nursing,Close match,100284,emergency nursing
+4,B790,Nursing not elsewhere classified,Related match,100476,health and social care
+4,B790,Nursing not elsewhere classified,Related match,100473,health studies
+4,B790,Nursing not elsewhere classified,Related match,101322,mentorship
+4,B790,Nursing not elsewhere classified,Related match,100290,nursing
+4,B790,Nursing not elsewhere classified,Related match,100273,operating department practice
+4,B800,Medical technology,Related match,101243,bioengineering
+4,B800,Medical technology,Related match,101210,biomaterials
+4,B800,Medical technology,Related match,100127,biomedical engineering
+4,B800,Medical technology,Related match,101330,ultrasound
+1,B810,Cardiography,Close match,100748,cardiology
+1,B820,Radiology,Close match,100131,radiology
+2,B821,"Radiography, diagnostic",Close match,100129,diagnostic imaging
+2,B821,"Radiography, diagnostic",Related match,101330,ultrasound
+2,B822,"Radiography, therapeutic",Related match,101327,oncology
+2,B822,"Radiography, therapeutic",Close match,100132,therapeutic imaging
+2,B830,Biomechanics & prosthetics (non-clinical),Related match,101243,bioengineering
+2,B830,Biomechanics & prosthetics (non-clinical),Related match,101210,biomaterials
+2,B830,Biomechanics & prosthetics (non-clinical),Close match,100126,biomechanics
+2,B830,Biomechanics & prosthetics (non-clinical),Related match,101289,rehabilitation studies
+1,B840,Dental technology,Close match,100128,dental technology
+3,B850,Mortuary technology,Related match,100127,biomedical engineering
+4,B890,Medical technology not elsewhere classified,Related match,100127,biomedical engineering
+4,B890,Medical technology not elsewhere classified,Related match,100005,clinical engineering
+4,B890,Medical technology not elsewhere classified,Related match,101330,ultrasound
+4,B900,Others in subjects allied to medicine,Related match,101320,art psychotherapy
+4,B900,Others in subjects allied to medicine,Related match,101291,cardiovascular rehabilitation
+4,B900,Others in subjects allied to medicine,Related match,100456,childhood studies
+4,B900,Others in subjects allied to medicine,Related match,101329,dementia studies
+4,B900,Others in subjects allied to medicine,Related match,101339,dermatology
+4,B900,Others in subjects allied to medicine,Related match,101338,diabetes
+4,B900,Others in subjects allied to medicine,Related match,100457,early childhood studies
+4,B900,Others in subjects allied to medicine,Related match,101335,epidemiology
+4,B900,Others in subjects allied to medicine,Related match,101333,epilepsy care
+4,B900,Others in subjects allied to medicine,Related match,100476,health and social care
+4,B900,Others in subjects allied to medicine,Related match,100473,health studies
+4,B900,Others in subjects allied to medicine,Related match,100260,healthcare science
+4,B900,Others in subjects allied to medicine,Related match,101241,music therapy
+4,B900,Others in subjects allied to medicine,Related match,101327,oncology
+4,B900,Others in subjects allied to medicine,Related match,100273,operating department practice
+4,B900,Others in subjects allied to medicine,Related match,101324,orthopaedics
+4,B900,Others in subjects allied to medicine,Related match,101325,paediatrics
+4,B900,Others in subjects allied to medicine,Related match,101330,ultrasound
+2,B910,Environmental health,Close match,101317,environmental and public health
+2,B910,Environmental health,Related match,101335,epidemiology
+1,B920,Occupational health,Close match,100248,occupational health
+1,B930,Occupational therapy,Close match,100249,occupational therapy
+2,B940,Counselling,Close match,100495,counselling
+2,B940,Counselling,Related match,101332,drug and alcohol studies
+1,B950,Paramedical science,Close match,100749,paramedic science
+1,B960,Physician assistant studies,Close match,100750,physician associate studies
+4,B990,Subjects allied to medicine not elsewhere classified,Related match,101336,anaesthesia
+4,B990,Subjects allied to medicine not elsewhere classified,Related match,101338,diabetes
+4,B990,Subjects allied to medicine not elsewhere classified,Related match,100476,health and social care
+4,B990,Subjects allied to medicine not elsewhere classified,Related match,100246,health sciences
+4,B990,Subjects allied to medicine not elsewhere classified,Related match,100473,health studies
+4,B990,Subjects allied to medicine not elsewhere classified,Related match,101327,oncology
+4,B990,Subjects allied to medicine not elsewhere classified,Related match,100273,operating department practice
+1,C000,Biological sciences,Close match,100345,biological sciences
+2,C100,Biology,Close match,100346,biology
+2,C100,Biology,Related match,100386,forensic biology
+2,C100,Biology,Related match,100350,human biology
+2,C100,Biology,Related match,100354,molecular biology
+2,C110,Applied biology,Close match,100343,applied biology
+2,C110,Applied biology,Related match,100350,human biology
+1,C111,Parasitology,Close match,100826,parasitology
+2,C120,Behavioural biology,Related match,100522,animal behaviour
+2,C120,Behavioural biology,Close match,100829,behavioural biology
+2,C130,Cell biology,Close match,100822,cell biology
+2,C130,Cell biology,Related match,100354,molecular biology
+3,C131,Applied cell biology,Related match,100822,cell biology
+4,C140,Developmental/Reproductive biology,Related match,100834,developmental biology
+4,C140,Developmental/Reproductive biology,Related match,101309,obstetrics and gynaecology
+4,C140,Developmental/Reproductive biology,Related match,100847,reproductive biology
+1,C141,Developmental biology,Close match,100834,developmental biology
+2,C142,Reproductive biology,Related match,100834,developmental biology
+2,C142,Reproductive biology,Close match,100847,reproductive biology
+1,C150,Environmental biology,Close match,100348,environmental biology
+1,C160,Marine/Freshwater biology,Close match,100848,aquatic biology
+1,C161,Marine biology,Close match,100351,marine biology
+1,C162,Freshwater biology,Close match,100849,freshwater biology
+1,C170,Population biology,Close match,100850,population biology
+1,C180,Ecology,Close match,100347,ecology
+3,C181,Biodiversity,Related match,101318,biodiversity conservation
+1,C182,Evolution,Close match,100858,evolution
+1,C183,Community ecology,Close match,101457,community ecology
+3,C184,Conservation ecology,Related match,101318,biodiversity conservation
+1,C185,Ecosystem ecology & land use,Close match,100864,ecosystem ecology and land use
+1,C186,Population ecology,Close match,101458,population ecology
+1,C187,Ecotoxicology,Close match,101459,ecotoxicology
+4,C190,Biology not elsewhere classified,Related match,100346,biology
+4,C190,Biology not elsewhere classified,Related match,100386,forensic biology
+1,C191,Biometry,Close match,100865,biometry
+1,C200,Botany,Close match,100355,plant sciences
+2,C210,Applied botany,Close match,101376,applied botany
+2,C210,Applied botany,Related match,100355,plant sciences
+1,C220,Mycology,Close match,100872,mycology
+1,C230,Plant biotechnology,Close match,100139,plant biotechnology
+1,C240,Plant cell science,Close match,100873,plant cell science
+1,C250,Plant pathology,Close match,100874,plant pathology
+2,C260,Plant physiology,Close match,101460,plant physiology
+2,C260,Plant physiology,Related match,100355,plant sciences
+3,C270,Developmental & reproductive plant biology,Related match,100355,plant sciences
+3,C280,Systematic botany,Related match,100355,plant sciences
+3,C290,Botany not elsewhere classified,Related match,100355,plant sciences
+2,C300,Zoology,Related match,100522,animal behaviour
+2,C300,Zoology,Close match,100356,zoology
+1,C310,Applied zoology,Close match,100880,applied zoology
+2,C320,Cell zoology,Close match,100881,cell zoology
+2,C320,Cell zoology,Related match,100356,zoology
+3,C330,Developmental & reproductive zoology,Related match,100356,zoology
+1,C340,Entomology,Close match,100882,entomology
+1,C350,Marine zoology,Close match,100883,marine zoology
+1,C360,Pest science,Close match,100884,pest management
+3,C380,Systematic zoology,Related match,100356,zoology
+3,C390,Zoology not elsewhere classified,Related match,100356,zoology
+2,C400,Genetics,Close match,100259,genetics
+2,C400,Genetics,Related match,100354,molecular biology
+3,C410,Applied genetics,Related match,100259,genetics
+1,C420,Human genetics,Close match,100898,human genetics
+3,C430,Medical & veterinary genetics,Related match,100899,medical genetics
+1,C431,Medical genetics,Close match,100899,medical genetics
+3,C432,Veterinary genetics,Related match,100259,genetics
+1,C440,Molecular genetics,Close match,100900,molecular genetics
+1,C441,Transcriptomics,Close match,101377,transcriptomics
+1,C450,Genomics,Close match,100901,genomics
+3,C451,Functional genomics,Related match,100901,genomics
+3,C452,Genome organisation,Related match,100901,genomics
+1,C460,Genetic engineering,Close match,101378,genetic engineering
+1,C470,Population genetics & evolution,Close match,100902,population genetics
+3,C490,Genetics not elsewhere classified,Related match,100259,genetics
+1,C500,Microbiology,Close match,100353,microbiology
+1,C510,Applied microbiology,Close match,100906,applied microbiology
+4,C520,Medical & veterinary microbiology,Related match,100907,medical microbiology
+4,C520,Medical & veterinary microbiology,Related match,100908,veterinary microbiology
+1,C521,Medical microbiology,Close match,100907,medical microbiology
+1,C522,Veterinary microbiology,Close match,100908,veterinary microbiology
+1,C530,Bacteriology,Close match,100909,bacteriology
+1,C540,Virology,Close match,100910,virology
+1,C550,Immunology,Close match,100911,immunology
+1,C570,Serology,Close match,100912,blood sciences
+3,C590,Microbiology not elsewhere classified,Related match,100353,microbiology
+2,C600,Sport & exercise science,Related match,101294,coaching psychology
+2,C600,Sport & exercise science,Related match,101319,exercise for health
+2,C600,Sport & exercise science,Related match,100350,human biology
+2,C600,Sport & exercise science,Close match,100433,sport and exercise sciences
+1,C610,Sport coaching,Close match,100095,sports coaching
+1,C620,Sport development,Close match,100096,sports development
+1,C630,"Sport conditioning, rehabilitation & therapy",Close match,100475,sports therapy
+1,C640,Sport studies,Close match,100098,sports studies
+1,C650,Sport technology,Close match,101379,sport technology
+3,C690,Sport & exercise science not elsewhere classified,Related match,100433,sport and exercise sciences
+4,C700,"Molecular biology, biophysics & biochemistry",Related match,100344,biochemistry
+4,C700,"Molecular biology, biophysics & biochemistry",Related match,100354,molecular biology
+4,C710,"Applied molecular biology, biophysics & biochemistry",Related match,100344,biochemistry
+4,C710,"Applied molecular biology, biophysics & biochemistry",Related match,100354,molecular biology
+3,C720,Biological chemistry,Related match,100344,biochemistry
+1,C730,Metabolic biochemistry,Close match,101380,metabolic biochemistry
+4,C740,Medical & veterinary biochemistry,Related match,100352,medical biochemistry
+4,C740,Medical & veterinary biochemistry,Related match,101461,veterinary biochemistry
+1,C741,Medical biochemistry,Close match,100352,medical biochemistry
+1,C742,Veterinary biochemistry,Close match,101461,veterinary biochemistry
+1,C750,Plant biochemistry,Close match,100932,plant biochemistry
+1,C760,Biomolecular science,Close match,100948,biomolecular science
+1,C770,Biophysical science,Close match,100949,biophysical science
+3,C790,"Molecular biology, biophysics & biochemistry not elsewhere classified",Related match,100344,biochemistry
+2,C800,Psychology,Related match,100456,childhood studies
+2,C800,Psychology,Related match,101294,coaching psychology
+2,C800,Psychology,Close match,100497,psychology
+2,C810,Applied psychology,Close match,100493,applied psychology
+2,C810,Applied psychology,Related match,101320,art psychotherapy
+1,C811,Occupational psychology,Close match,100950,occupational psychology
+1,C812,Educational psychology,Close match,100496,educational psychology
+1,C813,Sport psychology,Close match,100499,sport and exercise psychology
+3,C814,Organisational psychology,Related match,100954,business psychology
+1,C815,Business psychology,Close match,100954,business psychology
+1,C816,Forensic psychology,Close match,100387,forensic psychology
+1,C820,Developmental psychology,Close match,100952,developmental psychology
+1,C821,Child psychology,Close match,100953,child psychology
+1,C822,The psychology of ageing,Close match,100958,psychology of ageing
+3,C830,Methodological & conceptual issues in psychology,Related match,100959,research methods in psychology
+1,C831,Research methods in psychology,Close match,100959,research methods in psychology
+1,C832,Quantitative psychology,Close match,101462,quantitative psychology
+1,C833,Qualitative psychology,Close match,101463,qualitative psychology
+4,C834,History of psychology,Related match,100302,history
+4,C834,History of psychology,Related match,100497,psychology
+4,C835,Philosophy of psychology,Related match,100337,philosophy
+4,C835,Philosophy of psychology,Related match,100497,psychology
+3,C840,Psychology in health & medicine,Related match,100985,health psychology
+2,C841,Health psychology,Related match,101294,coaching psychology
+2,C841,Health psychology,Close match,100985,health psychology
+1,C842,Clinical psychology,Close match,100494,clinical psychology
+3,C843,Counselling psychology,Related match,100495,counselling
+2,C844,Psychotherapy,Related match,101320,art psychotherapy
+2,C844,Psychotherapy,Close match,100254,psychotherapy
+3,C845,Clinical neuropsychology,Related match,100494,clinical psychology
+3,C846,Community psychology,Related match,100498,social psychology
+3,C847,Psychoanalytical studies,Related match,100493,applied psychology
+3,C848,Psychology of mental health,Related match,100985,health psychology
+1,C850,Cognitive & affective psychology,Close match,100993,cognitive psychology
+3,C851,Psychological modelling,Related match,100993,cognitive psychology
+1,C852,Psychology of communication,Close match,101341,psychology of communication
+1,C853,Psychology of memory & learning,Close match,101342,psychology of memory and learning
+3,C854,Psychology of perception,Related match,100993,cognitive psychology
+3,C855,Psychology of higher cognitive processes,Related match,100993,cognitive psychology
+3,C856,Experimental psychology,Related match,100959,research methods in psychology
+3,C857,Affective psychology,Related match,100497,psychology
+1,C858,Transpersonal psychology,Close match,101343,transpersonal psychology
+1,C860,Psychobiology,Close match,101344,psychobiology
+1,C861,Cognitive neuroscience,Close match,101381,cognitive neuroscience
+1,C862,Affective neuroscience,Close match,101382,affective neuroscience
+1,C863,Psychopharmacology,Close match,101464,psychopharmacology
+1,C864,Evolutionary psychology,Close match,101345,evolutionary psychology
+4,C865,Animal psychology,Related match,100523,animal science
+4,C865,Animal psychology,Related match,100993,cognitive psychology
+3,C870,Personality & individual differences,Related match,100497,psychology
+1,C871,Psychometrics,Close match,101383,psychometrics
+4,C872,Psychology of gender,Related match,100621,gender studies
+4,C872,Psychology of gender,Related match,100497,psychology
+4,C873,Cross-cultural psychology,Related match,101233,cultural studies
+4,C873,Cross-cultural psychology,Related match,100497,psychology
+2,C880,Social psychology,Related match,101294,coaching psychology
+2,C880,Social psychology,Close match,100498,social psychology
+3,C881,Social cognition,Related match,100498,social psychology
+4,C890,Psychology not elsewhere classified,Related match,100497,psychology
+4,C890,Psychology not elsewhere classified,Related match,101003,psychology of religion
+4,C900,Others in Biological Sciences,Related match,100345,biological sciences
+4,C900,Others in Biological Sciences,Related match,100391,natural sciences
+4,C910,Applied biological sciences,Related match,100392,applied science
+4,C910,Applied biological sciences,Related match,100345,biological sciences
+3,C990,Biological sciences not elsewhere classified,Related match,100345,biological sciences
+3,D000,"Veterinary sciences, agriculture & related subjects",Related match,100517,agriculture
+2,D100,Pre-clinical veterinary medicine,Close match,101384,pre-clinical veterinary medicine
+2,D100,Pre-clinical veterinary medicine,Related match,100531,veterinary medicine
+3,D190,Pre-clinical veterinary medicine not elsewhere classified,Related match,100531,veterinary medicine
+4,D200,Clinical veterinary medicine & dentistry,Related match,101220,veterinary epidemiology
+4,D200,Clinical veterinary medicine & dentistry,Related match,100531,veterinary medicine
+1,D210,Clinical veterinary medicine,Close match,100531,veterinary medicine
+1,D220,Clinical veterinary dentistry,Close match,101347,veterinary dentistry
+3,D290,Clinical veterinary medicine & dentistry not elsewhere classified,Related match,100531,veterinary medicine
+2,D300,Animal science,Related match,100522,animal behaviour
+2,D300,Animal science,Related match,100518,animal management
+2,D300,Animal science,Close match,100523,animal science
+2,D300,Animal science,Related match,101220,veterinary epidemiology
+1,D310,Veterinary nursing,Close match,100532,veterinary nursing
+2,D320,Animal health,Close match,100936,animal health
+2,D320,Animal health,Related match,100518,animal management
+4,D321,Animal anatomy,Related match,100264,anatomy
+4,D321,Animal anatomy,Related match,100523,animal science
+1,D322,Animal physiology,Close match,100937,animal physiology
+1,D323,Animal pathology,Close match,100938,veterinary pathology
+1,D324,Animal pharmacology,Close match,100939,veterinary pharmacology
+4,D325,Animal toxicology,Related match,100936,animal health
+4,D325,Animal toxicology,Related match,100277,toxicology
+1,D326,Animal pharmacy,Close match,100941,veterinary pharmacy
+1,D327,Animal nutrition,Close match,100940,animal nutrition
+4,D328,Animal welfare,Related match,100522,animal behaviour
+4,D328,Animal welfare,Related match,100936,animal health
+4,D328,Animal welfare,Related match,100518,animal management
+1,D330,Veterinary public health,Close match,100942,veterinary public health
+3,D340,Overseas veterinary development,Related match,100531,veterinary medicine
+3,D390,Animal sciences not elsewhere classified,Related match,100523,animal science
+2,D400,Agriculture,Close match,100517,agriculture
+2,D400,Agriculture,Related match,100468,countryside management
+3,D410,Arable & fruit farming,Related match,100947,crop production
+3,D411,Agricultural pests & diseases,Related match,100945,crop protection
+3,D412,Crop physiology,Related match,100947,crop production
+1,D413,Crop nutrition,Close match,100946,crop nutrition
+1,D414,Crop protection,Close match,100945,crop protection
+1,D415,Crop production,Close match,100947,crop production
+3,D416,Glasshouse culture,Related match,100529,horticulture
+3,D417,Amenity horticulture,Related match,100529,horticulture
+1,D418,Exotic plants & crops,Close match,101348,exotic plants and crops
+1,D420,Livestock,Close match,100974,livestock
+3,D421,Livestock husbandry,Related match,100974,livestock
+1,D422,Equine studies,Close match,100519,equine studies
+3,D423,Poultry keeping,Related match,100974,livestock
+4,D424,Game keeping,Related match,100974,livestock
+4,D424,Game keeping,Related match,100977,rural estate management
+3,D425,Exotic livestock,Related match,100974,livestock
+3,D430,Fish farming,Related match,100976,aquaculture
+3,D431,Fish husbandry,Related match,100976,aquaculture
+4,D432,Freshwater fish,Related match,100976,aquaculture
+4,D432,Freshwater fish,Related match,100356,zoology
+4,D433,Saltwater fish,Related match,100976,aquaculture
+4,D433,Saltwater fish,Related match,100356,zoology
+4,D434,Ornamental fish,Related match,100976,aquaculture
+4,D434,Ornamental fish,Related match,100356,zoology
+1,D435,Aquaculture,Close match,100976,aquaculture
+1,D440,Rural estate management,Close match,100977,rural estate management
+1,D441,Farm management,Close match,100978,farm management
+1,D442,Game keeping management,Close match,100979,game keeping management
+1,D443,Water resource management,Close match,100986,water resource management
+1,D444,Land management for recreation,Close match,100990,land management for recreation
+3,D445,Biological heritage site management,Related match,100807,heritage management
+3,D446,Wilderness management,Related match,101318,biodiversity conservation
+4,D447,Environmental conservation,Related match,100468,countryside management
+4,D447,Environmental conservation,Related match,100469,environmental management
+1,D448,Sustainable agricultural & landscape development,Close match,100998,sustainable agriculture and landscape development
+1,D450,International agriculture,Close match,101001,international agriculture
+1,D460,Organic farming,Close match,101004,organic farming
+3,D461,Organic arable & fruit farming,Related match,101004,organic farming
+4,D462,Organic livestock,Related match,100974,livestock
+4,D462,Organic livestock,Related match,101004,organic farming
+4,D463,Organic fish farming,Related match,100976,aquaculture
+4,D463,Organic fish farming,Related match,101004,organic farming
+1,D470,Agricultural technology,Close match,101006,agricultural technology
+2,D471,Agricultural machinery,Close match,101010,agricultural machinery
+2,D471,Agricultural machinery,Related match,101006,agricultural technology
+2,D472,Agricultural irrigation & drainage,Close match,101385,agricultural irrigation and drainage
+2,D472,Agricultural irrigation & drainage,Related match,101006,agricultural technology
+3,D490,Agriculture not elsewhere classified,Related match,100517,agriculture
+1,D500,Forestry & arboriculture,Close match,100520,forestry and arboriculture
+3,D510,Trees & shrubs,Related match,100520,forestry and arboriculture
+4,D511,Forestry pests & diseases,Related match,100945,crop protection
+4,D511,Forestry pests & diseases,Related match,100520,forestry and arboriculture
+3,D512,Tree physiology,Related match,100520,forestry and arboriculture
+3,D513,Tree nutrition,Related match,100520,forestry and arboriculture
+3,D514,Tree protection,Related match,100520,forestry and arboriculture
+3,D515,Tree production,Related match,100520,forestry and arboriculture
+1,D516,Timber production,Close match,101013,timber engineering
+1,D517,Community forestry,Close match,101014,community forestry
+3,D520,International forestry,Related match,100520,forestry and arboriculture
+4,D530,Organic forestry,Related match,100520,forestry and arboriculture
+4,D530,Organic forestry,Related match,101004,organic farming
+3,D540,Forestry technology,Related match,101006,agricultural technology
+4,D541,Forestry irrigation & drainage,Related match,101006,agricultural technology
+4,D541,Forestry irrigation & drainage,Related match,100520,forestry and arboriculture
+3,D590,Forestry not elsewhere classified,Related match,100520,forestry and arboriculture
+1,D600,Food & beverage studies,Close match,101017,food and beverage studies
+1,D610,Food science,Close match,100527,food science
+1,D611,Meat science,Close match,101387,meat science
+1,D612,Cereal science,Close match,101388,cereal science
+3,D613,Vegetable science,Related match,100527,food science
+3,D614,Fruit science,Related match,100527,food science
+1,D620,Food hygiene,Close match,101018,food safety
+1,D630,Food & beverage production,Close match,100526,food and beverage production
+3,D631,Food & beverage manufacture,Related match,100526,food and beverage production
+3,D632,Food & beverage processing,Related match,100526,food and beverage production
+3,D633,Food & beverage technology,Related match,100526,food and beverage production
+1,D634,Industrial baking,Close match,101021,baking technology management
+1,D635,Industrial brewing,Close match,101022,brewing
+1,D640,Food & beverages for the consumer,Close match,101215,food marketing
+4,D641,Food & beverage packaging,Related match,100526,food and beverage production
+4,D641,Food & beverage packaging,Related match,101215,food marketing
+4,D642,Food & beverage delivery,Related match,100526,food and beverage production
+4,D642,Food & beverage delivery,Related match,101215,food marketing
+3,D690,Food & beverage studies not elsewhere classified,Related match,101017,food and beverage studies
+1,D700,Agricultural sciences,Close match,100516,agricultural sciences
+4,D710,Agricultural biology,Related match,100516,agricultural sciences
+4,D710,Agricultural biology,Related match,100346,biology
+4,D711,Agricultural microbiology,Related match,100516,agricultural sciences
+4,D711,Agricultural microbiology,Related match,100353,microbiology
+1,D720,Agricultural chemistry,Close match,101024,agricultural chemistry
+4,D721,Agricultural biochemistry,Related match,100516,agricultural sciences
+4,D721,Agricultural biochemistry,Related match,100344,biochemistry
+2,D730,Agricultural botany,Close match,101025,agricultural botany
+2,D730,Agricultural botany,Related match,100355,plant sciences
+4,D740,Agricultural zoology,Related match,100516,agricultural sciences
+4,D740,Agricultural zoology,Related match,100356,zoology
+3,D750,Soil as an agricultural medium,Related match,101067,soil science
+3,D790,Agricultural sciences not elsewhere classified,Related match,100516,agricultural sciences
+3,D900,"Others in veterinary sciences, agriculture & related subjects",Related match,100516,agricultural sciences
+3,D990,"Veterinary sciences, agriculture & related subjects not elsewhere classified",Related match,100516,agricultural sciences
+2,F000,Physical sciences,Related match,100391,natural sciences
+2,F000,Physical sciences,Close match,100424,physical sciences
+2,F100,Chemistry,Related match,100392,applied science
+2,F100,Chemistry,Close match,100417,chemistry
+1,F110,Applied chemistry,Close match,101038,applied chemistry
+1,F111,Industrial chemistry,Close match,101041,industrial chemistry
+1,F112,Colour chemistry,Close match,101042,colour chemistry
+1,F120,Inorganic chemistry,Close match,101043,inorganic chemistry
+3,F130,Structural chemistry,Related match,101050,physical chemistry
+1,F131,Crystallography,Close match,101044,crystallography
+1,F140,Environmental chemistry,Close match,101045,environmental chemistry
+1,F141,Marine chemistry,Close match,101046,marine chemistry
+1,F150,Medicinal chemistry,Close match,100420,medicinal chemistry
+1,F151,Pharmaceutical chemistry,Close match,100423,pharmaceutical chemistry
+1,F160,Organic chemistry,Close match,100422,organic chemistry
+2,F161,Organometallic chemistry,Related match,100422,organic chemistry
+2,F161,Organometallic chemistry,Close match,101389,organometallic chemistry
+1,F162,Polymer chemistry,Close match,101053,polymer chemistry
+3,F163,Bio-organic chemistry,Related match,100344,biochemistry
+1,F164,Petrochemical chemistry,Close match,101054,oil and gas chemistry
+3,F165,Biomolecular chemistry,Related match,100265,biomedical sciences
+1,F170,Physical chemistry,Close match,101050,physical chemistry
+1,F180,Analytical chemistry,Close match,100413,analytical chemistry
+3,F190,Chemistry not elsewhere classified,Related match,100417,chemistry
+1,F200,Materials science,Close match,100225,materials science
+4,F290,Materials science not elsewhere classified,Related match,101210,biomaterials
+4,F290,Materials science not elsewhere classified,Related match,100225,materials science
+1,F300,Physics,Close match,100425,physics
+1,F310,Applied physics,Close match,101060,applied physics
+1,F311,Engineering physics,Close match,101061,engineering physics
+1,F320,Chemical physics,Close match,100416,chemical physics
+3,F321,Solid-state physics,Related match,101223,condensed matter physics
+4,F330,Environmental physics,Related match,101068,atmospheric physics
+4,F330,Environmental physics,Related match,100396,geophysics
+1,F331,Atmospheric physics,Close match,101068,atmospheric physics
+1,F332,Marine physics,Close match,101390,marine physics
+1,F340,Mathematical & theoretical physics,Close match,100426,theoretical physics
+1,F341,Electromagnetism,Close match,101391,electromagnetism
+1,F342,Quantum mechanics,Close match,101300,quantum theory and applications
+1,F343,Computational physics,Close match,101071,computational physics
+2,F350,Medical physics,Related match,101243,bioengineering
+2,F350,Medical physics,Close match,100419,medical physics
+1,F351,Radiation physics,Close match,101074,radiation physics
+1,F360,Optical physics,Close match,101075,photonics and optical physics
+1,F361,Laser physics,Close match,101076,laser physics
+1,F370,Nuclear & particle physics,Close match,101077,nuclear and particle physics
+3,F380,Acoustics,Related match,100427,acoustics
+4,F390,Physics not elsewhere classified,Related match,101234,nanotechnology
+4,F390,Physics not elsewhere classified,Related match,100425,physics
+4,F400,Forensic & archaeological sciences,Related match,100384,archaeological sciences
+4,F400,Forensic & archaeological sciences,Related match,101222,crime scene investigation
+4,F400,Forensic & archaeological sciences,Related match,101218,forensic anthropology
+4,F400,Forensic & archaeological sciences,Related match,101219,forensic archaeology
+4,F400,Forensic & archaeological sciences,Related match,100388,forensic science
+2,F410,Forensic science,Related match,101222,crime scene investigation
+2,F410,Forensic science,Related match,101218,forensic anthropology
+2,F410,Forensic science,Related match,100386,forensic biology
+2,F410,Forensic science,Close match,100388,forensic science
+2,F420,Archaeological science,Close match,100384,archaeological sciences
+2,F420,Archaeological science,Related match,101219,forensic archaeology
+4,F490,Forensic & archaeological sciences not elsewhere classified,Related match,100384,archaeological sciences
+4,F490,Forensic & archaeological sciences not elsewhere classified,Related match,101218,forensic anthropology
+4,F490,Forensic & archaeological sciences not elsewhere classified,Related match,100388,forensic science
+1,F500,Astronomy,Close match,100414,astronomy
+1,F510,Astrophysics,Close match,100415,astrophysics
+4,F520,Space & planetary sciences,Related match,101103,planetary science
+4,F520,Space & planetary sciences,Related match,101102,space science
+1,F521,Space science,Close match,101102,space science
+1,F522,Planetary science,Close match,101103,planetary science
+3,F530,Solar & solar terrestrial physics,Related match,101103,planetary science
+3,F540,Astronomy observation,Related match,100414,astronomy
+3,F550,Astronomy theory,Related match,100414,astronomy
+3,F590,Astronomy not elsewhere classified,Related match,100414,astronomy
+2,F600,Geology,Related match,100380,environmental geoscience
+2,F600,Geology,Close match,100395,geology
+2,F610,Applied geology,Close match,101104,applied geology
+2,F610,Applied geology,Related match,100380,environmental geoscience
+4,F611,Industrial geology,Related match,101104,applied geology
+4,F611,Industrial geology,Related match,101105,petroleum geology
+1,F612,Engineering geology,Close match,101106,engineering geology
+4,F620,Mining geology,Related match,101104,applied geology
+4,F620,Mining geology,Related match,100395,geology
+4,F620,Mining geology,Related match,100204,mining engineering
+1,F621,Exploration geology,Close match,101093,exploration geology
+4,F630,Geotechnology,Related match,100380,environmental geoscience
+4,F630,Geotechnology,Related match,100551,geotechnical engineering
+3,F631,Marine geotechnology,Related match,100551,geotechnical engineering
+1,F640,Earth science,Close match,100394,earth sciences
+1,F641,Palaeontology,Close match,100398,palaeontology
+4,F642,Geoscience,Related match,100394,earth sciences
+4,F642,Geoscience,Related match,100380,environmental geoscience
+1,F643,Quaternary studies,Close match,101091,quaternary studies
+1,F644,Hydrogeology,Close match,101089,hydrogeology
+3,F645,Mantle & core processes,Related match,100394,earth sciences
+3,F646,Land-atmosphere interactions,Related match,101068,atmospheric physics
+1,F650,Geological oceanography,Close match,101086,geological oceanography
+1,F660,Geophysics,Close match,100396,geophysics
+1,F661,Exploration geophysics,Close match,101084,exploration geophysics
+1,F670,Geochemistry,Close match,101083,geochemistry
+1,F680,Geohazards,Close match,101082,geological hazards
+4,F681,Seismology & tectonics,Related match,100394,earth sciences
+4,F681,Seismology & tectonics,Related match,100395,geology
+1,F682,Vulcanology,Close match,101081,volcanology
+3,F690,Geology not elsewhere classified,Related match,100395,geology
+3,F700,Science of aquatic & terrestrial environments,Related match,100410,physical geography
+1,F710,Marine sciences,Close match,100418,marine sciences
+1,F720,Hydrography,Close match,101073,hydrography
+1,F730,Ocean sciences,Close match,100421,ocean sciences
+3,F731,Ocean circulation,Related match,100421,ocean sciences
+4,F732,Oceanographic survey & monitoring,Related match,100421,ocean sciences
+4,F732,Oceanographic survey & monitoring,Related match,100219,surveying
+4,F733,Land-ocean interaction,Related match,100394,earth sciences
+4,F733,Land-ocean interaction,Related match,100421,ocean sciences
+1,F734,Atmosphere-ocean interactions,Close match,101351,atmosphere-ocean interactions
+2,F750,Environmental sciences,Related match,100468,countryside management
+2,F750,Environmental sciences,Close match,100381,environmental sciences
+1,F751,Applied environmental sciences,Close match,101078,applied environmental sciences
+1,F752,Hydrology,Close match,101079,hydrology
+1,F753,Pollution control,Close match,101072,pollution control
+4,F754,Biogeochemical cycles,Related match,100381,environmental sciences
+4,F754,Biogeochemical cycles,Related match,101083,geochemistry
+4,F755,Environmental informatics,Related match,100381,environmental sciences
+4,F755,Environmental informatics,Related match,100371,information systems
+4,F756,Environmental physiology,Related match,100937,animal physiology
+4,F756,Environmental physiology,Related match,100381,environmental sciences
+1,F760,Climatology,Close match,100379,climate science
+1,F761,Meteorology,Close match,100382,meteorology
+3,F762,Large-scale atmospheric dynamics & transport,Related match,101068,atmospheric physics
+3,F763,Boundary-layer meteorology,Related match,100382,meteorology
+1,F764,Climate & climate change,Close match,101070,climate change
+3,F765,Radiative processes & effects,Related match,101074,radiation physics
+1,F770,Soil science,Close match,101067,soil science
+1,F780,Glaciology & cryospheric systems,Close match,101394,glaciology and cryospheric systems
+3,F790,Science of aquatic & terrestrial environments not elsewhere classified,Related match,100410,physical geography
+3,F800,Physical geographical sciences,Related match,100410,physical geography
+1,F810,Environmental geography,Close match,100408,environmental geography
+1,F811,Biogeography,Close match,101352,biogeography
+1,F840,Physical geography,Close match,100410,physical geography
+1,F841,Maritime geography,Close match,101065,maritime geography
+1,F842,Geomorphology,Close match,101064,geomorphology
+3,F843,Topography,Related match,100410,physical geography
+1,F844,Cartography,Close match,101058,mapping science
+1,F845,Remote sensing,Close match,101056,remote sensing
+1,F846,Geographical information systems,Close match,100369,geographical information systems
+3,F890,Physical geographical sciences not elsewhere classified,Related match,100410,physical geography
+4,F900,Others in physical sciences,Related match,100392,applied science
+4,F900,Others in physical sciences,Related match,101048,environmental risk
+4,F900,Others in physical sciences,Related match,101234,nanotechnology
+4,F900,Others in physical sciences,Related match,100391,natural sciences
+4,F900,Others in physical sciences,Related match,100424,physical sciences
+4,F990,Physical sciences not elsewhere classified,Related match,100390,general science
+4,F990,Physical sciences not elsewhere classified,Related match,100424,physical sciences
+3,G000,Mathematical Sciences,Related match,100403,mathematics
+2,G100,Mathematics,Related match,100401,financial mathematics
+2,G100,Mathematics,Related match,100065,liberal arts
+2,G100,Mathematics,Close match,100403,mathematics
+1,G110,Pure mathematics,Close match,100405,pure mathematics
+2,G120,Applied mathematics,Close match,100400,applied mathematics
+2,G120,Applied mathematics,Related match,100401,financial mathematics
+4,G121,Mechanics (mathematical),Related match,100400,applied mathematics
+4,G121,Mechanics (mathematical),Related match,100430,mechanics
+3,G130,Mathematical methods,Related match,100403,mathematics
+1,G140,Numerical analysis,Close match,101027,numerical analysis
+1,G150,Mathematical modelling,Close match,100402,mathematical modelling
+1,G160,Engineering/industrial mathematics,Close match,101028,engineering and industrial mathematics
+1,G170,Computational mathematics,Close match,101029,computational mathematics
+4,G190,Mathematics not elsewhere classified,Related match,100401,financial mathematics
+4,G190,Mathematics not elsewhere classified,Related match,100390,general science
+4,G190,Mathematics not elsewhere classified,Related match,100403,mathematics
+1,G200,Operational research,Close match,100404,operational research
+3,G290,Operational research not elsewhere classified,Related match,100404,operational research
+1,G300,Statistics,Close match,100406,statistics
+1,G310,Applied statistics,Close match,101030,applied statistics
+1,G311,Medical statistics,Close match,101031,medical statistics
+1,G320,Probability,Close match,101032,probability
+1,G330,Stochastic processes,Close match,101033,stochastic processes
+1,G340,Statistical modelling,Close match,101034,statistical modelling
+3,G350,Mathematical statistics,Related match,100406,statistics
+3,G390,Statistics not elsewhere classified,Related match,100406,statistics
+3,G900,Others in mathematical sciences,Related match,100403,mathematics
+3,H000,Engineering,Related match,100184,general or integrated engineering
+2,H100,General engineering,Related match,100147,building services engineering
+2,H100,General engineering,Related match,100005,clinical engineering
+2,H100,General engineering,Close match,100184,general or integrated engineering
+3,H110,Integrated engineering,Related match,100184,general or integrated engineering
+1,H120,Safety engineering,Close match,100185,safety engineering
+1,H121,Fire safety engineering,Close match,100183,fire safety engineering
+1,H122,Water quality control,Close match,100573,water quality control
+1,H123,Public health engineering,Close match,100565,public health engineering
+1,H130,Computer-aided engineering,Close match,100160,computer aided engineering
+3,H131,Automated engineering design,Related match,100160,computer aided engineering
+1,H140,Mechanics,Close match,100430,mechanics
+1,H141,Fluid mechanics,Close match,100577,fluid mechanics
+1,H142,Solid mechanics,Close match,101396,solid mechanics
+1,H143,Structural mechanics,Close match,100579,structural mechanics
+1,H150,Engineering design,Close match,100182,engineering design
+2,H160,"Bioengineering, biomedical engineering & clinical engineering",Related match,101243,bioengineering
+2,H160,"Bioengineering, biomedical engineering & clinical engineering",Close match,100127,biomedical engineering
+2,H160,"Bioengineering, biomedical engineering & clinical engineering",Related match,100005,clinical engineering
+4,H161,Biomaterials,Related match,101243,bioengineering
+4,H161,Biomaterials,Related match,101210,biomaterials
+4,H162,Biomechanics (including fluid & solid mechanics),Related match,101243,bioengineering
+4,H162,Biomechanics (including fluid & solid mechanics),Related match,100430,mechanics
+4,H163,Bioelectronics & bioelectricity,Related match,101216,bioelectronics
+4,H163,Bioelectronics & bioelectricity,Related match,101243,bioengineering
+4,H163,Bioelectronics & bioelectricity,Related match,100163,electrical and electronic engineering
+1,H164,Rehabilitation engineering,Close match,100130,prosthetics and orthotics
+1,H165,Tissue engineering & regenerative medicine,Close match,100572,tissue engineering and regenerative medicine
+4,H166,Imaging,Related match,100131,radiology
+4,H166,Imaging,Related match,101056,remote sensing
+3,H167,Biosensors,Related match,100127,biomedical engineering
+4,H168,Medical devices & instrumentation,Related match,100127,biomedical engineering
+4,H168,Medical devices & instrumentation,Related match,100166,control systems
+4,H169,Neural engineering,Related match,100127,biomedical engineering
+4,H169,Neural engineering,Related match,100272,neuroscience
+3,H190,General engineering not elsewhere classified,Related match,100184,general or integrated engineering
+2,H200,Civil engineering,Related match,100120,architectural engineering
+2,H200,Civil engineering,Close match,100148,civil engineering
+1,H210,Structural engineering,Close match,100153,structural engineering
+1,H220,Environmental engineering,Close match,100180,environmental engineering
+1,H221,Energy resources,Close match,100175,energy engineering
+1,H222,Coastal decay,Close match,100544,marine engineering
+2,H223,Environmental impact assessment,Close match,100549,environmental impact assessment
+2,H223,Environmental impact assessment,Related match,101048,environmental risk
+1,H230,Transport engineering,Close match,100154,transport engineering
+1,H231,Permanent way engineering,Close match,100157,railway engineering
+1,H232,Pavement engineering,Close match,100156,highways engineering
+1,H240,Surveying science,Close match,100219,surveying
+3,H241,General practice surveying,Related match,100219,surveying
+1,H242,Engineering surveying,Close match,100548,engineering surveying
+1,H250,Geotechnical engineering,Close match,100551,geotechnical engineering
+3,H290,Civil engineering not elsewhere classified,Related match,100148,civil engineering
+2,H300,Mechanical engineering,Related match,100147,building services engineering
+2,H300,Mechanical engineering,Close match,100190,mechanical engineering
+2,H300,Mechanical engineering,Related match,100206,motorsport engineering
+1,H310,Dynamics,Close match,100429,dynamics
+1,H311,Thermodynamics,Close match,100431,thermodynamics
+3,H320,Mechanisms & machines,Related match,100190,mechanical engineering
+1,H321,Turbine technology,Close match,101397,turbine technology
+2,H330,Automotive engineering,Close match,100201,automotive engineering
+2,H330,Automotive engineering,Related match,100206,motorsport engineering
+4,H331,Road vehicle engineering,Related match,100201,automotive engineering
+4,H331,Road vehicle engineering,Related match,100205,motorcycle engineering
+2,H332,Rail vehicle engineering,Related match,100201,automotive engineering
+2,H332,Rail vehicle engineering,Close match,101398,rail vehicle engineering
+4,H333,Ship propulsion engineering,Related match,100201,automotive engineering
+4,H333,Ship propulsion engineering,Related match,100190,mechanical engineering
+4,H333,Ship propulsion engineering,Related match,100207,naval architecture
+1,H340,Acoustics & vibration,Close match,100580,acoustics and vibration
+1,H341,Acoustics,Close match,100427,acoustics
+3,H342,Vibration,Related match,100580,acoustics and vibration
+1,H350,Offshore engineering,Close match,100152,offshore engineering
+1,H360,Electromechanical engineering,Close match,100192,electromechanical engineering
+3,H390,Mechanical engineering not elsewhere classified,Related match,100190,mechanical engineering
+1,H400,Aerospace engineering,Close match,100115,aerospace engineering
+1,H410,Aeronautical engineering,Close match,100114,aeronautical engineering
+3,H411,Air passenger transport engineering,Related match,100115,aerospace engineering
+3,H412,Air freight transport engineering,Related match,100154,transport engineering
+4,H413,Air combat engineering,Related match,100114,aeronautical engineering
+4,H413,Air combat engineering,Related match,100115,aerospace engineering
+1,H420,Astronautical engineering,Close match,100116,space technology
+1,H430,Avionics,Close match,100117,avionics
+1,H440,Aerodynamics,Close match,100428,aerodynamics
+4,H441,Flight mechanics,Related match,100114,aeronautical engineering
+4,H441,Flight mechanics,Related match,100430,mechanics
+1,H450,Propulsion systems,Close match,100564,aerospace propulsion systems
+1,H460,Aviation studies,Close match,100229,aviation studies
+3,H490,Aerospace engineering not elsewhere classified,Related match,100115,aerospace engineering
+1,H500,Naval architecture,Close match,100207,naval architecture
+3,H510,Shipbuilding,Related match,100207,naval architecture
+4,H511,Surface passenger ship building,Related match,100207,naval architecture
+4,H511,Surface passenger ship building,Related match,100568,ship design
+4,H512,Surface freight ship building,Related match,100207,naval architecture
+4,H512,Surface freight ship building,Related match,100568,ship design
+4,H513,Surface combat ship building,Related match,100207,naval architecture
+4,H513,Surface combat ship building,Related match,100568,ship design
+4,H514,Submarine building,Related match,100207,naval architecture
+4,H514,Submarine building,Related match,100568,ship design
+1,H520,Ship design,Close match,100568,ship design
+3,H521,Surface passenger ship design,Related match,100568,ship design
+3,H522,Surface freight ship design,Related match,100568,ship design
+3,H523,Surface combat ship design,Related match,100568,ship design
+3,H524,Submarine design,Related match,100568,ship design
+3,H590,Naval architecture not elsewhere classified,Related match,100230,navigation
+2,H600,Electronic & electrical engineering,Related match,100162,computer systems engineering
+2,H600,Electronic & electrical engineering,Close match,100163,electrical and electronic engineering
+2,H600,Electronic & electrical engineering,Related match,101234,nanotechnology
+2,H610,Electronic engineering,Related match,101216,bioelectronics
+2,H610,Electronic engineering,Close match,100165,electronic engineering
+1,H611,Microelectronic engineering,Close match,100168,microelectronic engineering
+1,H612,Integrated circuit design,Close match,100553,integrated circuit design
+1,H620,Electrical engineering,Close match,100164,electrical engineering
+1,H630,Electrical power,Close match,100581,electrical power
+1,H631,Electrical power generation,Close match,101353,electrical power generation
+1,H632,Electrical power distribution,Close match,101354,electrical power distribution
+3,H640,Communications engineering,Related match,100159,telecommunications engineering
+1,H641,Telecommunications engineering,Close match,100159,telecommunications engineering
+1,H642,Broadcast engineering,Close match,100539,broadcast engineering
+1,H643,Satellite engineering,Close match,100118,satellite engineering
+1,H644,Microwave engineering,Close match,100177,microwave engineering
+2,H650,Systems engineering,Related match,100162,computer systems engineering
+2,H650,Systems engineering,Close match,100188,systems engineering
+1,H651,Digital circuit engineering,Close match,100546,digital circuit engineering
+1,H652,Analogue circuit engineering,Close match,101399,analogue circuit engineering
+1,H660,Control systems,Close match,100166,control systems
+3,H661,Instrumentation control,Related match,100166,control systems
+3,H662,Control by light systems,Related match,100166,control systems
+3,H670,Robotics & cybernetics,Related match,100170,mechatronics and robotics
+1,H671,Robotics,Close match,100170,mechatronics and robotics
+1,H672,Cybernetics,Close match,101355,cybernetics
+3,H674,Virtual reality engineering,Related match,100363,computer animation and visual effects
+1,H680,Optoelectronic engineering,Close match,100169,optoelectronic engineering
+4,H690,Electronic & electrical engineering not elsewhere classified,Related match,101216,bioelectronics
+4,H690,Electronic & electrical engineering not elsewhere classified,Related match,100163,electrical and electronic engineering
+1,H700,Production & manufacturing engineering,Close match,100209,production and manufacturing engineering
+1,H710,Manufacturing systems engineering,Close match,100202,manufacturing engineering
+3,H711,Manufacturing systems design,Related match,100202,manufacturing engineering
+3,H712,Manufacturing installation systems,Related match,100202,manufacturing engineering
+3,H713,Production processes,Related match,100209,production and manufacturing engineering
+3,H714,Manufacturing systems maintenance,Related match,100202,manufacturing engineering
+3,H720,Quality assurance engineering,Related match,100213,quality management
+3,H730,Mechatronics,Related match,100170,mechatronics and robotics
+3,H790,Production & manufacturing engineering not elsewhere classified,Related match,100209,production and manufacturing engineering
+3,H800,"Chemical, process & energy engineering",Related match,100143,chemical engineering
+1,H810,Chemical engineering,Close match,100143,chemical engineering
+1,H811,Biochemical engineering,Close match,100141,biochemical engineering
+1,H812,Pharmaceutical engineering,Close match,100144,pharmaceutical engineering
+3,H820,Atomic engineering,Related match,100172,nuclear engineering
+1,H821,Nuclear engineering,Close match,100172,nuclear engineering
+3,H830,Chemical process engineering,Related match,100143,chemical engineering
+1,H831,Bioprocess engineering,Close match,100135,bioprocessing
+1,H840,Gas engineering,Close match,100176,gas engineering
+1,H850,Petroleum engineering,Close match,100178,petroleum engineering
+3,H890,"Chemical, process & energy engineering not elsewhere classified",Related match,100143,chemical engineering
+4,H900,Others in engineering,Related match,101243,bioengineering
+4,H900,Others in engineering,Related match,100184,general or integrated engineering
+3,H990,Engineering not elsewhere classified,Related match,100184,general or integrated engineering
+3,I000,Computer Sciences,Related match,100366,computer science
+2,I100,Computer science,Related match,100358,applied computing
+2,I100,Computer science,Related match,100360,business computing
+2,I100,Computer science,Related match,100361,business information systems
+2,I100,Computer science,Related match,100362,business information technology
+2,I100,Computer science,Related match,100376,computer and information security
+2,I100,Computer science,Related match,100385,computer forensics
+2,I100,Computer science,Close match,100366,computer science
+2,I100,Computer science,Related match,100162,computer systems engineering
+2,I100,Computer science,Related match,100367,computing and information technology
+2,I100,Computer science,Related match,100368,creative computing
+2,I100,Computer science,Related match,100372,information technology
+4,I110,Computer architectures & operating systems,Related match,100376,computer and information security
+4,I110,Computer architectures & operating systems,Related match,100734,computer architectures
+4,I110,Computer architectures & operating systems,Related match,100735,operating systems
+2,I111,Computer architectures,Close match,100734,computer architectures
+2,I111,Computer architectures,Related match,100162,computer systems engineering
+1,I112,Operating systems,Close match,100735,operating systems
+4,I113,Displays & imaging,Related match,100162,computer systems engineering
+4,I113,Displays & imaging,Related match,100736,human-computer interaction
+1,I114,High end computing,Close match,100741,high performance computing
+1,I115,Parallel computing,Close match,101400,parallel computing
+2,I120,Networks & communications,Related match,100376,computer and information security
+2,I120,Networks & communications,Close match,100365,computer networks
+3,I130,Computational science foundations,Related match,100366,computer science
+1,I140,Human-computer interaction,Close match,100736,human-computer interaction
+2,I150,Multimedia computing science,Related match,100368,creative computing
+2,I150,Multimedia computing science,Close match,100737,multimedia computing science
+1,I160,Internet,Close match,100373,internet technologies
+2,I161,e-business,Related match,100360,business computing
+2,I161,e-business,Close match,100738,e-business
+3,I190,Computer science not elsewhere classified,Related match,100366,computer science
+2,I200,Information systems,Related match,100360,business computing
+2,I200,Information systems,Related match,100361,business information systems
+2,I200,Information systems,Related match,100362,business information technology
+2,I200,Information systems,Related match,100385,computer forensics
+2,I200,Information systems,Related match,100367,computing and information technology
+2,I200,Information systems,Close match,100371,information systems
+2,I200,Information systems,Related match,100372,information technology
+1,I210,Information modelling,Close match,100751,information modelling
+4,I220,Systems design methodologies,Related match,100821,requirements engineering
+4,I220,Systems design methodologies,Related match,100753,systems analysis and design
+2,I230,Systems analysis & design,Related match,100821,requirements engineering
+2,I230,Systems analysis & design,Close match,100753,systems analysis and design
+1,I240,Databases,Close match,100754,databases
+2,I250,Systems auditing,Related match,100385,computer forensics
+2,I250,Systems auditing,Close match,100756,systems auditing
+2,I260,Data management,Close match,100755,data management
+2,I260,Data management,Related match,100372,information technology
+1,I270,Intelligent & expert systems,Close match,100757,intelligent systems
+4,I290,Systems analysis & design not elsewhere classified,Related match,100821,requirements engineering
+4,I290,Systems analysis & design not elsewhere classified,Related match,100753,systems analysis and design
+2,I300,Software engineering,Related match,100821,requirements engineering
+2,I300,Software engineering,Close match,100374,software engineering
+3,I310,Software design,Related match,100374,software engineering
+1,I320,Programming,Close match,100956,programming
+3,I321,Procedural programming,Related match,100956,programming
+1,I322,Object-oriented programming,Close match,100960,object-oriented programming
+3,I323,Declarative programming,Related match,100956,programming
+3,I390,Software engineering not elsewhere classified,Related match,100374,software engineering
+1,I400,Artificial intelligence,Close match,100359,artificial intelligence
+1,I410,Speech & natural language processing,Close match,100961,natural language processing
+1,I420,Knowledge representation,Close match,100963,knowledge and information systems
+1,I430,Neural computing,Close match,100966,neural computing
+1,I440,Computer vision,Close match,100968,computer vision
+1,I450,Cognitive modelling,Close match,100989,cognitive modelling
+1,I460,Machine learning,Close match,100992,machine learning
+3,I461,Automated reasoning,Related match,100359,artificial intelligence
+3,I490,Artificial intelligence not elsewhere classified,Related match,100359,artificial intelligence
+1,I500,Health informatics,Close match,100994,health informatics
+3,I510,Health technologies,Related match,100260,healthcare science
+1,I520,Bioinformatics,Close match,100869,bioinformatics
+3,I530,Tele healthcare,Related match,100260,healthcare science
+3,I590,Health informatics not elsewhere classified,Related match,100869,bioinformatics
+1,I600,Games,Close match,101267,computer games
+2,I610,Computer games programming,Related match,101267,computer games
+2,I610,Computer games programming,Close match,101020,computer games programming
+2,I620,Computer games design,Related match,101267,computer games
+2,I620,Computer games design,Close match,101268,computer games design
+2,I630,Computer games graphics,Related match,101267,computer games
+2,I630,Computer games graphics,Close match,101019,computer games graphics
+3,I700,Computer generated visual & audio effects,Related match,100363,computer animation and visual effects
+1,I710,Computer generated imagery,Close match,100363,computer animation and visual effects
+3,I900,Others in Computer sciences,Related match,100366,computer science
+3,I990,Computer sciences not elsewhere classified,Related match,100366,computer science
+3,J000,Technologies,Related match,100184,general or integrated engineering
+1,J100,Minerals technology,Close match,100155,minerals technology
+3,J110,Mining,Related match,100204,mining engineering
+2,J120,Quarrying,Related match,100204,mining engineering
+2,J120,Quarrying,Close match,100566,quarrying
+3,J130,Rock mechanics,Related match,100204,mining engineering
+1,J140,Minerals processing,Close match,100212,minerals processing
+4,J150,Minerals surveying,Related match,100155,minerals technology
+4,J150,Minerals surveying,Related match,100219,surveying
+4,J160,Petrochemical technology,Related match,100155,minerals technology
+4,J160,Petrochemical technology,Related match,101054,oil and gas chemistry
+3,J190,Minerals technology not elsewhere classified,Related match,100155,minerals technology
+1,J200,Metallurgy,Close match,100033,metallurgy
+4,J210,Applied metallurgy,Related match,100203,materials engineering
+4,J210,Applied metallurgy,Related match,100033,metallurgy
+1,J220,Metallic fabrication,Close match,100211,fabrication
+3,J221,Pattern making,Related match,100211,fabrication
+1,J230,Corrosion technology,Close match,100545,corrosion technology
+3,J290,Metallurgy not elsewhere classified,Related match,100033,metallurgy
+3,J300,Ceramics & glass,Related match,100225,materials science
+3,J310,Ceramics,Related match,100225,materials science
+3,J320,Glass technology,Related match,100225,materials science
+3,J390,Ceramics & glass not elsewhere classified,Related match,100225,materials science
+4,J400,Polymers & textiles,Related match,100145,polymer science and technology
+4,J400,Polymers & textiles,Related match,100214,textiles technology
+1,J410,Polymers technology,Close match,100145,polymer science and technology
+3,J411,Plastics,Related match,100145,polymer science and technology
+1,J420,Textiles technology,Close match,100214,textiles technology
+4,J421,Textile chemistry,Related match,100417,chemistry
+4,J421,Textile chemistry,Related match,100214,textiles technology
+3,J422,Dying & colouring of textiles,Related match,100214,textiles technology
+1,J430,Leather technology,Close match,100210,leather technology
+3,J431,Tanning,Related match,100210,leather technology
+1,J440,Clothing production,Close match,100109,clothing production
+3,J441,Machine knitting,Related match,100109,clothing production
+3,J442,Commercial tailoring,Related match,100109,clothing production
+3,J443,Pattern cutting,Related match,100109,clothing production
+3,J444,Millinery,Related match,100109,clothing production
+1,J445,Footwear production,Close match,100110,footwear production
+4,J490,Polymers & textiles not elsewhere classified,Related match,100145,polymer science and technology
+4,J490,Polymers & textiles not elsewhere classified,Related match,100214,textiles technology
+4,J500,Materials technology not otherwise specified,Related match,101210,biomaterials
+4,J500,Materials technology not otherwise specified,Related match,100225,materials science
+1,J510,Materials technology,Close match,100203,materials engineering
+4,J511,Engineering materials,Related match,101217,composite materials
+4,J511,Engineering materials,Related match,100203,materials engineering
+1,J512,Paper technology,Close match,101356,paper technology
+3,J513,Furniture technology,Related match,100633,furniture design and making
+3,J520,Printing,Related match,100443,media production
+3,J521,Offset lithography,Related match,100443,media production
+3,J522,Photo-lithography,Related match,100443,media production
+3,J523,Reprographic techniques,Related match,100443,media production
+3,J524,Screen process printing,Related match,100443,media production
+1,J530,Gemmology,Close match,100550,gemmology
+3,J590,Materials technology not elsewhere classified,Related match,100225,materials science
+3,J600,Maritime technology,Related match,100194,marine technology
+1,J610,Marine technology,Close match,100194,marine technology
+1,J611,Marine navigation,Close match,100230,navigation
+4,J612,Marine radar,Related match,100194,marine technology
+4,J612,Marine radar,Related match,100230,navigation
+4,J613,Marine radio,Related match,100194,marine technology
+4,J613,Marine radio,Related match,100230,navigation
+3,J614,Marine plumbing,Related match,100194,marine technology
+3,J690,Maritime technology not elsewhere classified,Related match,100194,marine technology
+1,J700,Biotechnology,Close match,100134,biotechnology
+3,J710,"Plant biotechnology (crops, trees, shrubs etc.)",Related match,100139,plant biotechnology
+3,J720,Animal biotechnology,Related match,100134,biotechnology
+1,J730,Environmental biotechnology,Close match,100136,environmental biotechnology
+1,J740,Industrial biotechnology,Close match,100137,industrial biotechnology
+1,J750,Medical biotechnology,Close match,100138,medical biotechnology
+4,J790,Biotechnology not elsewhere classified,Related match,101216,bioelectronics
+4,J790,Biotechnology not elsewhere classified,Related match,100134,biotechnology
+4,J900,Others in technology,Related match,100222,audio technology
+4,J900,Others in technology,Related match,100134,biotechnology
+4,J900,Others in technology,Related match,100362,business information technology
+4,J900,Others in technology,Related match,100186,emergency and disaster technologies
+4,J900,Others in technology,Related match,100175,energy engineering
+4,J900,Others in technology,Related match,100136,environmental biotechnology
+4,J900,Others in technology,Related match,100052,ergonomics
+4,J900,Others in technology,Related match,100211,fabrication
+4,J900,Others in technology,Related match,100633,furniture design and making
+4,J900,Others in technology,Related match,100137,industrial biotechnology
+4,J900,Others in technology,Related match,100194,marine technology
+4,J900,Others in technology,Related match,100203,materials engineering
+4,J900,Others in technology,Related match,100225,materials science
+4,J900,Others in technology,Related match,100443,media production
+4,J900,Others in technology,Related match,100138,medical biotechnology
+4,J900,Others in technology,Related match,100221,music technology
+4,J900,Others in technology,Related match,101356,paper technology
+4,J900,Others in technology,Related match,100139,plant biotechnology
+4,J900,Others in technology,Related match,100145,polymer science and technology
+4,J900,Others in technology,Related match,100743,systems thinking
+4,J900,Others in technology,Related match,100214,textiles technology
+3,J910,Energy technologies,Related match,100175,energy engineering
+1,J920,Ergonomics,Close match,100052,ergonomics
+1,J930,Audio technology,Close match,100222,audio technology
+3,J931,Music recording,Related match,100223,music production
+3,J940,Machinery maintenance,Related match,100193,maintenance engineering
+1,J942,Industrial machinery maintenance,Close match,100193,maintenance engineering
+2,J950,Musical instrument technology,Related match,100221,music technology
+2,J950,Musical instrument technology,Close match,100560,musical instrument manufacture
+1,J960,Transport logistics,Close match,100093,logistics
+1,J970,Emergency & disaster technologies,Close match,100186,emergency and disaster technologies
+4,J990,Technologies not elsewhere classified,Related match,100222,audio technology
+4,J990,Technologies not elsewhere classified,Related match,100134,biotechnology
+4,J990,Technologies not elsewhere classified,Related match,100186,emergency and disaster technologies
+4,J990,Technologies not elsewhere classified,Related match,100175,energy engineering
+4,J990,Technologies not elsewhere classified,Related match,100136,environmental biotechnology
+4,J990,Technologies not elsewhere classified,Related match,100633,furniture design and making
+4,J990,Technologies not elsewhere classified,Related match,100137,industrial biotechnology
+4,J990,Technologies not elsewhere classified,Related match,100194,marine technology
+4,J990,Technologies not elsewhere classified,Related match,100203,materials engineering
+4,J990,Technologies not elsewhere classified,Related match,100443,media production
+4,J990,Technologies not elsewhere classified,Related match,100138,medical biotechnology
+4,J990,Technologies not elsewhere classified,Related match,100221,music technology
+4,J990,Technologies not elsewhere classified,Related match,101356,paper technology
+4,J990,Technologies not elsewhere classified,Related match,100139,plant biotechnology
+4,J990,Technologies not elsewhere classified,Related match,100145,polymer science and technology
+4,J990,Technologies not elsewhere classified,Related match,100214,textiles technology
+4,K000,"Architecture, building & planning",Related match,100122,architecture
+4,K000,"Architecture, building & planning",Related match,100150,construction and the built environment
+4,K000,"Architecture, building & planning",Related match,100196,housing
+2,K100,Architecture,Related match,100120,architectural engineering
+2,K100,Architecture,Close match,100122,architecture
+1,K110,Architectural design theory,Close match,100583,architectural design
+3,K120,Interior architecture,Related match,101316,interior design and architecture
+1,K130,Architectural technology,Close match,100121,architectural technology
+3,K190,Architecture not elsewhere classified,Related match,100122,architecture
+2,K200,Building,Related match,100120,architectural engineering
+2,K200,Building,Related match,100147,building services engineering
+2,K200,Building,Close match,100149,construction
+2,K200,Building,Related match,101308,facilities management
+2,K210,Building technology,Related match,100147,building services engineering
+2,K210,Building technology,Close match,100584,building technology
+1,K220,Construction management,Close match,100151,construction management
+2,K230,Building surveying,Related match,100120,architectural engineering
+2,K230,Building surveying,Close match,100216,building surveying
+1,K240,Quantity surveying,Close match,100217,quantity surveying
+1,K250,Conservation of buildings,Close match,100585,conservation of buildings
+1,K251,Property development,Close match,100586,property development
+3,K290,Building not elsewhere classified,Related match,100149,construction
+4,K300,Landscape & garden design,Related match,100590,garden design
+4,K300,Landscape & garden design,Related match,100124,landscape architecture and design
+3,K310,Landscape architecture,Related match,100124,landscape architecture and design
+1,K320,Landscape studies,Close match,100588,landscape studies
+3,K330,Landscape design,Related match,100124,landscape architecture and design
+1,K340,Garden design,Close match,100590,garden design
+3,K341,Garden horticulture,Related match,100529,horticulture
+4,K390,Landscape & garden design not elsewhere classified,Related match,100590,garden design
+4,K390,Landscape & garden design not elsewhere classified,Related match,100124,landscape architecture and design
+1,K400,"Planning (urban, rural & regional)",Close match,100197,planning
+3,K410,Regional planning,Related match,100199,urban and regional planning
+1,K420,Urban & rural planning,Close match,100199,urban and regional planning
+3,K421,Urban planning,Related match,100199,urban and regional planning
+1,K422,Rural planning,Close match,100593,rural planning
+3,K430,Planning studies,Related match,100197,planning
+1,K440,Urban studies,Close match,100594,urban studies
+1,K450,Housing,Close match,100196,housing
+1,K460,Transport planning,Close match,100198,transport planning
+3,K490,"Planning (urban, rural & regional) not elsewhere classified",Related match,100197,planning
+4,K900,"Others in architecture, building & planning",Related match,100122,architecture
+4,K900,"Others in architecture, building & planning",Related match,100150,construction and the built environment
+4,K900,"Others in architecture, building & planning",Related match,101308,facilities management
+4,K900,"Others in architecture, building & planning",Related match,100196,housing
+4,K990,"Architecture, building & planning not elsewhere classified",Related match,100122,architecture
+4,K990,"Architecture, building & planning not elsewhere classified",Related match,100150,construction and the built environment
+4,K990,"Architecture, building & planning not elsewhere classified",Related match,100196,housing
+3,L000,Social studies,Related match,100471,social sciences
+2,L100,Economics,Related match,100449,business economics
+2,L100,Economics,Close match,100450,economics
+2,L110,Applied economics,Close match,100597,applied economics
+2,L110,Applied economics,Related match,100449,business economics
+2,L111,Financial economics,Related match,100449,business economics
+2,L111,Financial economics,Close match,100451,financial economics
+1,L112,Agricultural economics,Close match,100600,agricultural economics
+1,L113,Economic policy,Close match,100601,economic policy
+1,L120,Microeconomics,Close match,101401,microeconomics
+1,L130,Macroeconomics,Close match,101402,macroeconomics
+1,L140,Econometrics,Close match,100604,econometrics
+3,L150,Political economics,Related match,100601,economic policy
+1,L160,International economics,Close match,100452,international economics
+1,L170,Economic systems,Close match,100606,economic systems
+4,L171,Capitalism,Related match,100450,economics
+4,L171,Capitalism,Related match,100491,politics
+4,L172,Monetarism,Related match,100450,economics
+4,L172,Monetarism,Related match,100491,politics
+4,L173,Keynesianism,Related match,100450,economics
+4,L173,Keynesianism,Related match,100491,politics
+4,L174,Collectivism,Related match,100450,economics
+4,L174,Collectivism,Related match,100491,politics
+3,L190,Economics not elsewhere classified,Related match,100450,economics
+2,L200,Politics,Related match,101233,cultural studies
+2,L200,Politics,Related match,101288,international studies
+2,L200,Politics,Close match,100491,politics
+3,L210,Political theories,Related match,100491,politics
+1,L211,Liberalism,Close match,101506,liberalism
+1,L212,Conservatism,Close match,101507,conservatism
+1,L213,Socialism,Close match,101508,socialism
+1,L214,Nationalism,Close match,101357,nationalism
+1,L215,Fascism,Close match,101509,fascism
+1,L216,Feminism,Close match,101403,feminism
+1,L217,Environmentalism,Close match,101510,environmentalism
+1,L218,Anarchism,Close match,101404,anarchism
+3,L220,Political systems,Related match,100491,politics
+3,L221,Autocracy,Related match,100491,politics
+1,L222,Democracy,Close match,100609,democracy
+3,L223,Plutocracy,Related match,100491,politics
+3,L224,Oligarchy,Related match,100491,politics
+1,L230,UK government/parliamentary studies,Close match,100610,UK government/parliamentary studies
+2,L231,Public administration,Close match,100090,public administration
+2,L231,Public administration,Related match,100091,public services
+3,L232,UK constitutional studies,Related match,100610,UK government/parliamentary studies
+2,L240,International politics,Close match,100489,international politics
+2,L240,International politics,Related match,101288,international studies
+1,L241,European Union politics,Close match,100612,European Union politics
+3,L242,Commonwealth politics,Related match,100489,international politics
+3,L243,Politics of a specific country/region,Related match,100491,politics
+3,L244,International constitutional studies,Related match,100489,international politics
+2,L250,International relations,Close match,100490,international relations
+2,L250,International relations,Related match,101288,international studies
+1,L251,Strategic studies,Close match,100616,strategic studies
+1,L252,War & peace studies,Close match,100617,war and peace studies
+3,L253,International criminology,Related match,100484,criminology
+1,L260,Comparative politics,Close match,100618,comparative politics
+3,L290,Politics not elsewhere classified,Related match,100491,politics
+2,L300,Sociology,Related match,101307,applied social science
+2,L300,Sociology,Related match,100455,childhood and youth studies
+2,L300,Sociology,Related match,100456,childhood studies
+2,L300,Sociology,Related match,101233,cultural studies
+2,L300,Sociology,Related match,100065,liberal arts
+2,L300,Sociology,Close match,100505,sociology
+2,L310,Applied sociology,Related match,101307,applied social science
+2,L310,Applied sociology,Close match,100619,applied sociology
+3,L311,Applied criminology,Related match,100484,criminology
+1,L312,Victimology,Close match,101405,victimology
+1,L320,Gender studies,Close match,100621,gender studies
+1,L321,Women's studies,Close match,100622,women's studies
+1,L322,Men's studies,Close match,100623,men's studies
+1,L330,Ethnic studies,Close match,100624,ethnicity
+1,L340,Disability in society,Close match,100625,disability studies
+1,L350,Religion in society,Close match,100626,religion in society
+1,L360,Socio-economics,Close match,100627,socio-economics
+1,L370,Social theory,Close match,100628,social theory
+3,L371,Social hierarchy,Related match,100471,social sciences
+1,L380,Political sociology,Close match,100629,political sociology
+3,L390,Sociology not elsewhere classified,Related match,100505,sociology
+1,L391,Sociology of science & technology,Close match,100631,sociology of science and technology
+2,L400,Social policy,Related match,101307,applied social science
+2,L400,Social policy,Related match,100473,health studies
+2,L400,Social policy,Related match,101040,risk management
+2,L400,Social policy,Close match,100502,social policy
+3,L410,UK social policy,Related match,100502,social policy
+1,L420,International social policy,Close match,100645,international social policy
+1,L430,Public policy,Close match,100647,public policy
+1,L431,Health policy,Close match,100648,health policy
+1,L432,Welfare policy,Close match,100649,welfare policy
+1,L433,Education policy,Close match,100651,education policy
+1,L434,Transport policy,Close match,101406,transport policy
+2,L435,Security policy,Related match,101040,risk management
+2,L435,Security policy,Close match,100652,security policy
+3,L436,Emergency services policy,Related match,100502,social policy
+1,L437,Criminal justice policy,Close match,100483,criminal justice
+4,L490,Social policy not elsewhere classified,Related match,101326,gerontology
+4,L490,Social policy not elsewhere classified,Related match,100502,social policy
+2,L500,Social work,Related match,101307,applied social science
+2,L500,Social work,Related match,100456,childhood studies
+2,L500,Social work,Related match,100476,health and social care
+2,L500,Social work,Related match,100473,health studies
+2,L500,Social work,Related match,100501,social care
+2,L500,Social work,Close match,100503,social work
+2,L510,Health & welfare,Related match,100456,childhood studies
+2,L510,Health & welfare,Related match,101329,dementia studies
+2,L510,Health & welfare,Related match,101332,drug and alcohol studies
+2,L510,Health & welfare,Related match,101326,gerontology
+2,L510,Health & welfare,Related match,100476,health and social care
+2,L510,Health & welfare,Close match,100653,health and welfare
+2,L510,Health & welfare,Related match,100473,health studies
+2,L510,Health & welfare,Related match,100501,social care
+2,L520,Child care,Close match,100654,child care
+2,L520,Child care,Related match,100456,childhood studies
+2,L520,Child care,Related match,100457,early childhood studies
+2,L530,Youth work,Related match,100455,childhood and youth studies
+2,L530,Youth work,Close match,100466,youth and community work
+1,L540,Community work,Close match,100655,community work
+1,L541,Community justice,Close match,100659,community justice
+2,L550,Careers guidance,Related match,101279,advice and guidance (personal learning)
+2,L550,Careers guidance,Close match,100658,careers guidance
+2,L550,Careers guidance,Related match,101278,employability skills (personal learning)
+1,L560,Probation/after-care,Close match,100662,probation/after-care
+4,L590,Social work not elsewhere classified,Related match,100455,childhood and youth studies
+4,L590,Social work not elsewhere classified,Related match,100456,childhood studies
+4,L590,Social work not elsewhere classified,Related match,100457,early childhood studies
+4,L590,Social work not elsewhere classified,Related match,100503,social work
+2,L600,Anthropology,Close match,100436,anthropology
+2,L600,Anthropology,Related match,101218,forensic anthropology
+2,L610,Social & cultural anthropology,Related match,101233,cultural studies
+2,L610,Social & cultural anthropology,Close match,100437,social anthropology
+1,L611,Criminological theory,Close match,100484,criminology
+1,L620,Physical & biological anthropology,Close match,100663,physical and biological anthropology
+3,L690,Anthropology not elsewhere classified,Related match,100436,anthropology
+1,L700,Human & social geography,Close match,100478,human geography
+4,L710,Human & social geography by area,Related match,100478,human geography
+4,L710,Human & social geography by area,Related match,100488,international development
+3,L711,Human & social geography of Europe,Related match,100478,human geography
+3,L712,Human & social geography of Asia,Related match,100478,human geography
+4,L713,Human & social geography of Africa,Related match,101358,development in Africa
+4,L713,Human & social geography of Africa,Related match,100478,human geography
+3,L714,Human & social geography of Australasia,Related match,100478,human geography
+4,L715,Human & social geography of the Americas,Related match,101359,development in the Americas
+4,L715,Human & social geography of the Americas,Related match,100478,human geography
+3,L716,Human & social geography of the Arctic/Antarctic,Related match,100478,human geography
+4,L720,Human & social geography by topic,Related match,100478,human geography
+4,L720,Human & social geography by topic,Related match,100488,international development
+1,L721,Economic geography,Close match,100665,economic geography
+1,L722,Urban geography,Close match,100666,urban geography
+1,L723,Political geography,Close match,100668,political geography
+2,L724,Transport geography,Close match,100669,transport geography
+2,L724,Transport geography,Related match,100198,transport planning
+1,L725,Historical geography,Close match,100670,environmental history
+1,L726,Cultural geography,Close match,100671,cultural geography
+2,L727,Agricultural geography,Close match,101407,agricultural geography
+2,L727,Agricultural geography,Related match,100409,geography
+2,L728,Human Demography,Close match,101408,human demography
+2,L728,Human Demography,Related match,100478,human geography
+4,L790,Human & social geography not elsewhere classified,Related match,100478,human geography
+4,L790,Human & social geography not elsewhere classified,Related match,100488,international development
+3,L800,Development studies,Related match,100488,international development
+4,L900,Others in social studies,Related match,101307,applied social science
+4,L900,Others in social studies,Related match,100314,humanities
+4,L900,Others in social studies,Related match,100471,social sciences
+3,L990,Social studies not elsewhere classified,Related match,100471,social sciences
+1,M000,Law,Close match,100485,law
+3,M100,Law by area,Related match,100485,law
+4,M110,UK legal systems,Related match,100676,English law
+4,M110,UK legal systems,Related match,100677,Northern Irish law
+4,M110,UK legal systems,Related match,100678,Scots law
+4,M110,UK legal systems,Related match,100485,law
+1,M111,English law,Close match,100676,English law
+3,M112,Welsh law,Related match,100485,law
+1,M113,Northern Irish law,Close match,100677,Northern Irish law
+1,M114,Scottish law,Close match,100678,Scots law
+1,M120,European Union law,Close match,100680,European Union law
+1,M130,Public international law,Close match,100681,public international law
+1,M140,Comparative law,Close match,100683,comparative law
+3,M190,Law by area not elsewhere classified,Related match,100485,law
+4,M200,Law by topic,Related match,101323,dispute resolution
+4,M200,Law by topic,Related match,100485,law
+1,M210,Public law,Close match,100684,public law
+1,M211,Criminal law,Close match,100685,criminal law
+1,M220,Private law,Close match,100686,private law
+1,M221,Business & commercial law,Close match,100482,business law
+3,M222,Contract law,Related match,100482,business law
+1,M223,Property law,Close match,100689,property law
+1,M224,Torts,Close match,100690,torts
+1,M240,Jurisprudence,Close match,100691,jurisprudence
+1,M250,Legal practice,Close match,100692,legal practice
+1,M260,Medical law,Close match,100693,medical law
+1,M270,Sociology of law,Close match,101465,sociology of law
+3,M290,Law by topic not elsewhere classified,Related match,100485,law
+4,M900,Others in law,Related match,101323,dispute resolution
+4,M900,Others in law,Related match,100485,law
+3,M990,Law not elsewhere classified,Related match,100485,law
+3,N000,Business & administrative studies,Related match,100079,business studies
+2,N100,Business studies,Related match,100360,business computing
+2,N100,Business studies,Related match,100449,business economics
+2,N100,Business studies,Related match,100362,business information technology
+2,N100,Business studies,Close match,100079,business studies
+2,N100,Business studies,Related match,101221,enterprise and entrepreneurship
+2,N100,Business studies,Related match,100088,leadership
+2,N100,Business studies,Related match,100743,systems thinking
+1,N110,European business studies,Close match,100808,European business studies
+1,N120,International business studies,Close match,100080,international business
+4,N190,Business studies not elsewhere classified,Related match,100449,business economics
+4,N190,Business studies not elsewhere classified,Related match,100079,business studies
+4,N190,Business studies not elsewhere classified,Related match,101221,enterprise and entrepreneurship
+2,N200,Management studies,Related match,100361,business information systems
+2,N200,Management studies,Related match,101221,enterprise and entrepreneurship
+2,N200,Management studies,Related match,101308,facilities management
+2,N200,Management studies,Related match,100088,leadership
+2,N200,Management studies,Close match,100089,management studies
+2,N200,Management studies,Related match,101040,risk management
+4,N210,Management techniques,Related match,100088,leadership
+4,N210,Management techniques,Related match,100089,management studies
+1,N211,Strategic management,Close match,100810,strategic management
+2,N212,Creative management,Close match,100811,creative management
+2,N212,Creative management,Related match,101221,enterprise and entrepreneurship
+1,N213,Project management,Close match,100812,project management
+1,N214,Change management,Close match,100813,change management
+2,N215,Organisational development,Close match,100814,organisational development
+2,N215,Organisational development,Related match,100743,systems thinking
+2,N220,Institutional management,Close match,100815,institutional management
+2,N220,Institutional management,Related match,100088,leadership
+3,N223,Domestic management,Related match,100815,institutional management
+2,N224,Management & organisation of education,Related match,100088,leadership
+2,N224,Management & organisation of education,Close match,100817,management and organisation of education
+3,N225,Criminal justice management,Related match,100486,policing
+1,N230,Land & property management,Close match,100218,real estate
+1,N231,Land management,Close match,100819,land management
+2,N232,Property management,Related match,101308,facilities management
+2,N232,Property management,Close match,100820,property management
+1,N234,Property valuation & auctioneering,Close match,100825,property valuation and auctioneering
+1,N240,Retail management,Close match,100092,retail management
+1,N250,Emergency & disaster management,Close match,100823,emergency and disaster management
+3,N251,Emergency services management,Related match,100823,emergency and disaster management
+3,N252,Disaster management,Related match,100823,emergency and disaster management
+4,N290,Management studies not elsewhere classified,Related match,100088,leadership
+4,N290,Management studies not elsewhere classified,Related match,100089,management studies
+2,N300,Finance,Close match,100107,finance
+2,N300,Finance,Related match,100401,financial mathematics
+2,N300,Finance,Related match,101040,risk management
+1,N310,Banking,Close match,100827,banking
+4,N320,Investment & insurance,Related match,100830,insurance
+4,N320,Investment & insurance,Related match,100828,investment
+1,N321,Investment,Close match,100828,investment
+1,N322,Insurance,Close match,100830,insurance
+1,N323,Actuarial science,Close match,100106,actuarial science
+1,N330,Taxation,Close match,100831,taxation
+1,N340,Financial management,Close match,100832,financial management
+2,N341,Financial risk,Close match,100835,financial risk
+2,N341,Financial risk,Related match,101040,risk management
+3,N390,Finance not elsewhere classified,Related match,100107,finance
+2,N400,Accounting,Close match,100105,accounting
+2,N400,Accounting,Related match,100449,business economics
+1,N410,Accountancy,Close match,100104,accountancy
+1,N411,Cost & management accountancy,Close match,100836,management accountancy
+1,N412,Public accountancy,Close match,100837,public accountancy
+1,N413,Book keeping,Close match,100838,book-keeping
+3,N420,Accounting theory,Related match,100105,accounting
+1,N421,Auditing of accounts,Close match,100840,audit management
+1,N422,Financial reporting,Close match,100845,financial reporting
+3,N490,Accounting not elsewhere classified,Related match,100105,accounting
+2,N500,Marketing,Related match,100449,business economics
+2,N500,Marketing,Close match,100075,marketing
+1,N510,Market research,Close match,100846,market research
+1,N520,Sales management,Close match,100851,sales management
+3,N530,Distribution,Related match,100093,logistics
+1,N550,International marketing,Close match,100853,international marketing
+1,N560,Promotion & advertising,Close match,100855,promotion and advertising
+1,N561,Advertising,Close match,100074,advertising
+1,N562,Corporate image,Close match,100856,corporate image
+3,N563,Sponsorship,Related match,100075,marketing
+3,N590,Marketing not elsewhere classified,Related match,100075,marketing
+1,N600,Human resource management,Close match,100085,human resource management
+3,N611,Industrial relations,Related match,100085,human resource management
+1,N612,Staff development,Close match,100861,staff development
+3,N613,Training methods,Related match,100861,staff development
+3,N614,Recruitment methods,Related match,100085,human resource management
+2,N620,Health & safety issues,Close match,100866,health and safety management
+2,N620,Health & safety issues,Related match,101049,health risk
+3,N690,Human resources management not elsewhere classified,Related match,100085,human resource management
+3,N700,Office skills,Related match,100868,office administration
+1,N710,Office administration,Close match,100868,office administration
+3,N720,Secretarial & typing skills,Related match,100868,office administration
+3,N721,Audio typing,Related match,100868,office administration
+1,N722,Shorthand & shorthand transcription,Close match,101409,shorthand and shorthand transcription
+3,N790,Office skills not elsewhere classified,Related match,100868,office administration
+4,N800,"Hospitality, leisure, sport, tourism & transport",Related match,100891,hospitality
+4,N800,"Hospitality, leisure, sport, tourism & transport",Related match,100087,international hospitality management
+4,N800,"Hospitality, leisure, sport, tourism & transport",Related match,100893,recreation and leisure studies
+4,N800,"Hospitality, leisure, sport, tourism & transport",Related match,100097,sports management
+4,N800,"Hospitality, leisure, sport, tourism & transport",Related match,100875,tourism
+4,N800,"Hospitality, leisure, sport, tourism & transport",Related match,100198,transport planning
+4,N800,"Hospitality, leisure, sport, tourism & transport",Related match,100101,travel and tourism
+2,N810,Travel management,Related match,100101,travel and tourism
+2,N810,Travel management,Close match,100102,travel management
+1,N820,Event management,Close match,100083,event management
+1,N830,Tourism,Close match,100875,tourism
+3,N831,Tourism studies,Related match,100875,tourism
+2,N832,Tourism management,Related match,100087,international hospitality management
+2,N832,Tourism management,Close match,100100,tourism management
+3,N850,Transport studies,Related match,100198,transport planning
+4,N851,Land travel,Related match,100198,transport planning
+4,N851,Land travel,Related match,100102,travel management
+4,N852,Sea travel,Related match,100198,transport planning
+4,N852,Sea travel,Related match,100102,travel management
+4,N853,Air travel,Related match,100198,transport planning
+4,N853,Air travel,Related match,100102,travel management
+2,N860,Hospitality,Close match,100891,hospitality
+2,N860,Hospitality,Related match,100087,international hospitality management
+3,N861,Hospitality studies,Related match,100891,hospitality
+2,N862,Hospitality management,Close match,100084,hospitality management
+2,N862,Hospitality management,Related match,100087,international hospitality management
+1,N870,Recreation & leisure studies,Close match,100893,recreation and leisure studies
+1,N871,Spa management,Close match,100894,spa management
+1,N872,Salon management,Close match,100896,salon management
+1,N880,Sport management,Close match,100097,sports management
+4,N890,"Hospitality, leisure, sport, tourism & transport not elsewhere classified",Related match,100891,hospitality
+4,N890,"Hospitality, leisure, sport, tourism & transport not elsewhere classified",Related match,100893,recreation and leisure studies
+4,N890,"Hospitality, leisure, sport, tourism & transport not elsewhere classified",Related match,100097,sports management
+4,N890,"Hospitality, leisure, sport, tourism & transport not elsewhere classified",Related match,100875,tourism
+4,N890,"Hospitality, leisure, sport, tourism & transport not elsewhere classified",Related match,100198,transport planning
+4,N900,Others in business & administrative studies,Related match,100078,business and management
+4,N900,Others in business & administrative studies,Related match,101278,employability skills (personal learning)
+4,N900,Others in business & administrative studies,Related match,100088,leadership
+3,N990,Business & administrative studies not elsewhere classified,Related match,100078,business and management
+3,P000,Mass communications & documentation,Related match,100444,media and communication studies
+1,P100,Information services,Close match,100916,information services
+1,P110,Information management,Close match,100370,information management
+1,P120,Librarianship,Close match,100913,librarianship
+3,P121,Library studies,Related match,100913,librarianship
+1,P130,Curatorial studies,Close match,100914,curatorial studies
+1,P131,Museum studies,Close match,100918,museum studies
+1,P132,Archive studies,Close match,100915,archives and records management
+3,P190,Information services not elsewhere classified,Related match,100916,information services
+1,P200,Publicity studies,Close match,100919,publicity studies
+1,P210,Public relations,Close match,100076,public relations
+3,P290,Publicity studies not elsewhere classified,Related match,100919,publicity studies
+2,P300,Media studies,Related match,100439,broadcast journalism
+2,P300,Media studies,Related match,101233,cultural studies
+2,P300,Media studies,Close match,100444,media and communication studies
+1,P301,Television studies,Close match,100920,television studies
+1,P302,Radio studies,Close match,100921,radio studies
+1,P303,Film studies,Close match,100058,film studies
+1,P304,Electronic media studies,Close match,100440,digital media
+1,P305,Paper-based media studies,Close match,100922,paper-based media studies
+1,P310,Media production,Close match,100443,media production
+1,P311,Television production,Close match,100923,television production
+1,P312,Radio production,Close match,100924,radio production
+1,P313,Film production,Close match,100441,film production
+4,P390,Media studies not elsewhere classified,Related match,101233,cultural studies
+4,P390,Media studies not elsewhere classified,Related match,100444,media and communication studies
+1,P400,Publishing,Close match,100925,publishing
+1,P410,Electronic publishing,Close match,100926,electronic publishing
+3,P411,Publishing on audio/video tape,Related match,100926,electronic publishing
+3,P412,Publishing on CD-ROM,Related match,100926,electronic publishing
+2,P413,Publishing via the World Wide Web,Related match,100926,electronic publishing
+2,P413,Publishing via the World Wide Web,Close match,100927,online publishing
+4,P420,Multimedia publishing,Related match,100926,electronic publishing
+4,P420,Multimedia publishing,Related match,100445,multimedia journalism
+3,P430,Interactive publishing,Related match,100926,electronic publishing
+3,P490,Publishing not elsewhere classified,Related match,100925,publishing
+2,P500,Journalism,Related match,100439,broadcast journalism
+2,P500,Journalism,Close match,100442,journalism
+2,P500,Journalism,Related match,100445,multimedia journalism
+3,P510,Factual reporting,Related match,100442,journalism
+3,P590,Journalism not elsewhere classified,Related match,100442,journalism
+3,P900,Others in mass communications & documentation,Related match,100444,media and communication studies
+3,P990,Mass communications & documentation not elsewhere classified,Related match,100444,media and communication studies
+4,Q000,"Linguistics, classics & related subjects",Related match,100300,classical studies
+4,Q000,"Linguistics, classics & related subjects",Related match,100328,linguistics
+2,Q100,Linguistics,Related match,100314,humanities
+2,Q100,Linguistics,Close match,100328,linguistics
+1,Q110,Applied linguistics,Close match,100970,applied linguistics
+1,Q120,Historical linguistics,Close match,101410,historical linguistics
+1,Q130,Phonetics & phonology,Close match,100971,phonetics and phonology
+1,Q131,Phonetics,Close match,100972,phonetics
+1,Q132,Phonology,Close match,100973,phonology
+1,Q140,Sociolinguistics,Close match,101016,sociolinguistics
+1,Q150,Psycholinguistics,Close match,101035,psycholinguistics
+1,Q160,British Sign Language,Close match,100317,British Sign Language studies
+3,Q190,Linguistics not elsewhere classified,Related match,100328,linguistics
+2,Q200,Comparative literary studies,Close match,101037,comparative literary studies
+2,Q200,Comparative literary studies,Related match,101233,cultural studies
+2,Q200,Comparative literary studies,Related match,100314,humanities
+3,Q210,Literature in translation,Related match,100319,English literature
+4,Q220,Literature in its original language,Related match,101188,African literature
+4,Q220,Literature in its original language,Related match,101432,Arabic literature
+4,Q220,Literature in its original language,Related match,101166,Chinese literature
+4,Q220,Literature in its original language,Related match,101132,French literature
+4,Q220,Literature in its original language,Related match,101497,Gaelic literature
+4,Q220,Literature in its original language,Related match,101134,German literature
+4,Q220,Literature in its original language,Related match,101430,Indian literature studies
+4,Q220,Literature in its original language,Related match,101413,Irish language literature
+4,Q220,Literature in its original language,Related match,101137,Italian literature
+4,Q220,Literature in its original language,Related match,101170,Japanese literature
+4,Q220,Literature in its original language,Related match,101125,Latin literature
+4,Q220,Literature in its original language,Related match,101433,Persian literature studies
+4,Q220,Literature in its original language,Related match,101157,Russian literature
+4,Q220,Literature in its original language,Related match,101425,Scandinavian literature
+4,Q220,Literature in its original language,Related match,101139,Spanish literature
+4,Q220,Literature in its original language,Related match,101434,Turkish literature
+4,Q220,Literature in its original language,Related match,101163,Welsh literature
+4,Q220,Literature in its original language,Related match,101423,classical Greek literature
+3,Q290,Comparative literary studies not elsewhere classified,Related match,101037,comparative literary studies
+2,Q300,English studies,Close match,100320,English studies
+2,Q300,English studies,Related match,101233,cultural studies
+2,Q300,English studies,Related match,100314,humanities
+2,Q300,English studies,Related match,100065,liberal arts
+1,Q310,English language,Close match,100318,English language
+1,Q320,English literature,Close match,100319,English literature
+4,Q321,English literature by period,Related match,101094,English literature 1200 - 1700
+4,Q321,English literature by period,Related match,101095,English literature 1700 - 1900
+4,Q322,English literature by author,Related match,101492,Bob Dylan studies
+4,Q322,English literature by author,Related match,101473,Brontës studies
+4,Q322,English literature by author,Related match,101483,Byron studies
+4,Q322,English literature by author,Related match,101477,Charles Dickens studies
+4,Q322,English literature by author,Related match,101472,Chaucer studies
+4,Q322,English literature by author,Related match,101487,Christopher Marlowe studies
+4,Q322,English literature by author,Related match,101476,D.H. Lawrence studies
+4,Q322,English literature by author,Related match,101493,Dylan Thomas studies
+4,Q322,English literature by author,Related match,101486,J. M. Coetzee studies
+4,Q322,English literature by author,Related match,101479,James Joyce studies
+4,Q322,English literature by author,Related match,101478,Jane Austen studies
+4,Q322,English literature by author,Related match,101468,John Donne studies
+4,Q322,English literature by author,Related match,101495,Joseph Conrad studies
+4,Q322,English literature by author,Related match,101480,Margaret Atwood studies
+4,Q322,English literature by author,Related match,101485,Milton studies
+4,Q322,English literature by author,Related match,101471,Oscar Wilde studies
+4,Q322,English literature by author,Related match,101475,Philip Larkin studies
+4,Q322,English literature by author,Related match,101490,Robert Burns studies
+4,Q322,English literature by author,Related match,101489,Robert Louis Stevenson studies
+4,Q322,English literature by author,Related match,101467,Ruskin studies
+4,Q322,English literature by author,Related match,101496,Salman Rushdie studies
+4,Q322,English literature by author,Related match,101481,Samuel Beckett studies
+4,Q322,English literature by author,Related match,101107,Shakespeare studies
+4,Q322,English literature by author,Related match,101484,Shelley studies
+4,Q322,English literature by author,Related match,101469,T.S. Eliot studies
+4,Q322,English literature by author,Related match,101470,Thomas Hardy studies
+4,Q322,English literature by author,Related match,101474,Thomas Pynchon studies
+4,Q322,English literature by author,Related match,101491,Virginia Woolf studies
+4,Q322,English literature by author,Related match,101494,W. B. Yeats studies
+4,Q322,English literature by author,Related match,101488,Walter Scott studies
+4,Q322,English literature by author,Related match,101482,Wilkie Collins studies
+3,Q323,English literature by topic,Related match,101108,colonial and post-colonial literature
+1,Q330,English as a second language,Close match,101109,English as a second language
+3,Q340,English literature written as a second language,Related match,100319,English literature
+2,Q350,Scots language,Related match,101118,Celtic studies
+2,Q350,Scots language,Close match,101412,Scots language
+2,Q360,Scots literature,Related match,101490,Robert Burns studies
+2,Q360,Scots literature,Related match,101489,Robert Louis Stevenson studies
+2,Q360,Scots literature,Close match,101111,Scottish literature
+1,Q370,Irish language,Close match,101121,Irish language
+2,Q380,Irish literature,Related match,100319,English literature
+2,Q380,Irish literature,Close match,101413,Irish language literature
+3,Q390,English studies not elsewhere classified,Related match,100320,English studies
+1,Q400,Ancient language studies,Close match,101112,ancient Middle Eastern languages
+1,Q410,Ancient Egyptian,Close match,101113,ancient Egyptian studies
+2,Q411,Coptic,Close match,101414,Coptic language
+2,Q411,Coptic,Related match,101112,ancient Middle Eastern languages
+2,Q420,Classical Arabic,Related match,101112,ancient Middle Eastern languages
+2,Q420,Classical Arabic,Close match,101114,classical Arabic
+2,Q430,Akkadian,Close match,101415,Akkadian language
+2,Q430,Akkadian,Related match,101112,ancient Middle Eastern languages
+2,Q440,Sumerian,Close match,101416,Sumerian language
+2,Q440,Sumerian,Related match,101112,ancient Middle Eastern languages
+1,Q450,Sanskrit,Close match,101115,Sanskrit studies
+3,Q460,Prakrit,Related match,101172,South Asian studies
+2,Q470,Aramaic,Close match,101417,Aramaic language
+2,Q470,Aramaic,Related match,101112,ancient Middle Eastern languages
+2,Q480,Hebrew,Close match,101117,ancient Hebrew language
+2,Q480,Hebrew,Related match,101269,modern Hebrew language
+3,Q490,Ancient language studies not elsewhere classified,Related match,101112,ancient Middle Eastern languages
+1,Q500,Celtic studies,Close match,101118,Celtic studies
+3,Q510,Ancient Celtic studies,Related match,101118,Celtic studies
+3,Q520,Modern Celtic studies,Related match,101118,Celtic studies
+3,Q521,Goidelic group of languages,Related match,101118,Celtic studies
+3,Q522,Brythonic group of languages,Related match,101118,Celtic studies
+1,Q530,Scottish Gaelic,Close match,101120,Gaelic language
+1,Q531,Scottish Gaelic literature,Close match,101497,Gaelic literature
+3,Q540,Irish Gaelic,Related match,101121,Irish language
+4,Q541,Irish Gaelic literature,Related match,101413,Irish language literature
+4,Q541,Irish Gaelic literature,Related match,101315,Irish studies
+3,Q550,Manx,Related match,101118,Celtic studies
+3,Q551,Manx literature,Related match,101118,Celtic studies
+1,Q560,Welsh,Close match,100333,Welsh language
+2,Q561,Welsh literature,Close match,101163,Welsh literature
+2,Q561,Welsh literature,Related match,100335,Welsh studies
+3,Q570,Cornish,Related match,101118,Celtic studies
+3,Q571,Cornish literature,Related match,101118,Celtic studies
+1,Q580,Breton,Close match,101419,Breton language
+3,Q581,Breton literature,Related match,101118,Celtic studies
+3,Q590,Celtic studies not elsewhere classified,Related match,101118,Celtic studies
+1,Q600,Latin studies,Close match,101124,Latin studies
+1,Q610,Latin language,Close match,101420,Latin language
+3,Q611,Church Latin,Related match,101124,Latin studies
+1,Q612,Medieval Latin,Close match,101421,medieval Latin language
+1,Q620,Latin literature,Close match,101125,Latin literature
+3,Q630,Latin literature in translation,Related match,101124,Latin studies
+3,Q690,Latin studies not elsewhere classified,Related match,101124,Latin studies
+1,Q700,Classical Greek studies,Close match,101126,classical Greek studies
+3,Q710,Classical Greek language,Related match,101126,classical Greek studies
+1,Q711,Classical Church Greek,Close match,101422,classical church Greek
+3,Q712,Late Greek,Related match,101126,classical Greek studies
+1,Q720,Classical Greek literature,Close match,101423,classical Greek literature
+3,Q730,Classical Greek literature in translation,Related match,101126,classical Greek studies
+3,Q790,Classical Greek studies not elsewhere classified,Related match,101126,classical Greek studies
+1,Q800,Classical studies,Close match,100300,classical studies
+1,Q810,Classical reception,Close match,101129,classical reception
+3,Q890,Classical studies not elsewhere classified,Related match,100300,classical studies
+4,Q900,"Others in linguistics, classics & related subjects",Related match,100300,classical studies
+4,Q900,"Others in linguistics, classics & related subjects",Related match,100328,linguistics
+1,Q910,Translation studies,Close match,101130,translation studies
+3,Q920,Translation theory,Related match,101130,translation studies
+4,Q990,"Linguistics, classics & related subjects not elsewhere classified",Related match,100300,classical studies
+4,Q990,"Linguistics, classics & related subjects not elsewhere classified",Related match,100065,liberal arts
+4,Q990,"Linguistics, classics & related subjects not elsewhere classified",Related match,100328,linguistics
+3,R000,"European languages, literature & related subjects",Related match,100329,modern languages
+1,R100,French studies,Close match,100322,French studies
+1,R110,French language,Close match,100321,French language
+2,R120,French literature,Close match,101132,French literature
+2,R120,French literature,Related match,101481,Samuel Beckett studies
+1,R130,French society & culture,Close match,101133,French society and culture
+3,R190,French studies not elsewhere classified,Related match,100322,French studies
+1,R200,German studies,Close match,100324,German studies
+1,R210,German language,Close match,100323,German language
+1,R220,German literature,Close match,101134,German literature
+1,R230,German society & culture,Close match,101135,German society and culture
+3,R290,German studies not elsewhere classified,Related match,100324,German studies
+1,R300,Italian studies,Close match,100327,Italian studies
+1,R310,Italian language,Close match,100326,Italian language
+1,R320,Italian literature,Close match,101137,Italian literature
+1,R330,Italian society & culture,Close match,101136,Italian society and culture
+3,R390,Italian studies not elsewhere classified,Related match,100327,Italian studies
+1,R400,Spanish studies,Close match,100325,Spanish studies
+1,R410,Spanish language,Close match,100332,Spanish language
+3,R411,Spanish languages in other countries,Related match,100332,Spanish language
+2,R420,Spanish literature,Close match,101139,Spanish literature
+2,R420,Spanish literature,Related match,100325,Spanish studies
+1,R430,Spanish society & culture,Close match,101138,Spanish society and culture
+3,R490,Spanish studies not elsewhere classified,Related match,100325,Spanish studies
+1,R500,Portuguese studies,Close match,101141,Portuguese studies
+1,R510,Portuguese language,Close match,101142,Portuguese language
+3,R511,Portuguese languages in other countries,Related match,101143,Brazilian studies
+3,R520,Portuguese literature,Related match,101141,Portuguese studies
+1,R530,Portuguese society & culture,Close match,101144,Portuguese society and culture
+3,R590,Portuguese studies not elsewhere classified,Related match,101141,Portuguese studies
+1,R600,Scandinavian studies,Close match,101145,Scandinavian studies
+4,R610,Scandinavian languages,Related match,101145,Scandinavian studies
+4,R610,Scandinavian languages,Related match,100329,modern languages
+1,R611,Swedish language,Close match,101148,Swedish language
+1,R612,Norwegian language,Close match,101149,Norwegian language
+1,R613,Finnish language,Close match,101150,Finnish language
+1,R614,Danish language,Close match,101424,Danish language
+1,R620,Scandinavian literature,Close match,101425,Scandinavian literature
+3,R621,Swedish literature,Related match,101148,Swedish language
+3,R622,Norwegian literature,Related match,101149,Norwegian language
+3,R623,Finnish literature,Related match,101150,Finnish language
+3,R624,Danish literature,Related match,101145,Scandinavian studies
+4,R630,Scandinavian society & culture,Related match,101498,Scandinavian history
+4,R630,Scandinavian society & culture,Related match,101145,Scandinavian studies
+3,R631,Swedish society & culture,Related match,101145,Scandinavian studies
+3,R632,Norwegian society & culture,Related match,101145,Scandinavian studies
+3,R633,Finnish society & culture,Related match,101145,Scandinavian studies
+3,R634,Danish society & culture,Related match,101145,Scandinavian studies
+3,R690,Scandinavian studies not elsewhere classified,Related match,101145,Scandinavian studies
+1,R700,Russian & East European studies,Close match,100331,Russian and East European studies
+1,R701,Russian studies,Close match,101151,Russian studies
+1,R702,Czech studies,Close match,101312,Czech studies
+1,R703,Polish studies,Close match,101152,Polish studies
+3,R704,Belarusian studies,Related match,100331,Russian and East European studies
+3,R705,Bulgarian studies,Related match,100331,Russian and East European studies
+1,R706,Hungarian studies,Close match,101311,Hungarian studies
+3,R707,Romanian studies,Related match,100331,Russian and East European studies
+3,R708,Slovak studies,Related match,100331,Russian and East European studies
+3,R709,Ukrainian studies,Related match,100331,Russian and East European studies
+4,R710,Russian & East European languages,Related match,101426,Estonian language
+4,R710,Russian & East European languages,Related match,101427,Hungarian language
+4,R710,Russian & East European languages,Related match,100331,Russian and East European studies
+4,R710,Russian & East European languages,Related match,101429,Ukranian language
+4,R710,Russian & East European languages,Related match,101428,south Slavonic languages
+1,R711,Russian language,Close match,100330,Russian languages
+1,R712,Polish language,Close match,101153,Polish language
+1,R713,Czech language,Close match,101155,Czech language
+3,R720,Russian & east European Literature,Related match,100331,Russian and East European studies
+2,R721,Russian literature,Related match,100331,Russian and East European studies
+2,R721,Russian literature,Close match,101157,Russian literature
+3,R722,Polish literature,Related match,101152,Polish studies
+3,R723,Czech literature,Related match,101312,Czech studies
+1,R730,Russian & east European society & culture,Close match,101158,Russian and East European society and culture
+1,R731,Russian society & culture,Close match,101499,Russian society and culture
+1,R732,Polish society & culture,Close match,101500,Polish society and culture
+1,R733,Czech society & culture,Close match,101501,Czech society and culture
+3,R790,Russian & east European studies not elsewhere classified,Related match,100331,Russian and East European studies
+1,R800,European studies,Close match,101159,European studies
+4,R900,"Others in European languages, literature & related subjects",Related match,101037,comparative literary studies
+4,R900,"Others in European languages, literature & related subjects",Related match,101288,international studies
+4,R900,"Others in European languages, literature & related subjects",Related match,100329,modern languages
+3,R910,Other European languages,Related match,100329,modern languages
+1,R911,Dutch,Close match,101161,Dutch studies
+4,R912,Flemish,Related match,101161,Dutch studies
+4,R912,Flemish,Related match,100329,modern languages
+3,R920,Other European literature,Related match,101037,comparative literary studies
+3,R930,Other European societies & cultures,Related match,101159,European studies
+4,R990,"European languages, literature & related subjects not elsewhere classified",Related match,101037,comparative literary studies
+4,R990,"European languages, literature & related subjects not elsewhere classified",Related match,100329,modern languages
+4,T000,"Eastern, Asiatic, African, American & Australasian languages, literature & related subjects",Related match,101184,African studies
+4,T000,"Eastern, Asiatic, African, American & Australasian languages, literature & related subjects",Related match,100316,American studies
+4,T000,"Eastern, Asiatic, African, American & Australasian languages, literature & related subjects",Related match,101180,Asian studies
+4,T000,"Eastern, Asiatic, African, American & Australasian languages, literature & related subjects",Related match,101206,Australasian studies
+4,T000,"Eastern, Asiatic, African, American & Australasian languages, literature & related subjects",Related match,101190,modern Middle Eastern studies
+1,T100,Chinese studies,Close match,101164,Chinese studies
+1,T110,Chinese language studies,Close match,101165,Chinese languages
+1,T120,Chinese literature studies,Close match,101166,Chinese literature
+1,T130,Chinese society & culture studies,Close match,101167,Chinese society and culture studies
+3,T190,Chinese studies not elsewhere classified,Related match,101164,Chinese studies
+1,T200,Japanese studies,Close match,101168,Japanese studies
+1,T210,Japanese language studies,Close match,101169,Japanese languages
+1,T220,Japanese literature studies,Close match,101170,Japanese literature
+1,T230,Japanese society & culture studies,Close match,101171,Japanese society and culture studies
+3,T290,Japanese studies not elsewhere classified,Related match,101168,Japanese studies
+1,T300,South Asian studies,Close match,101172,South Asian studies
+4,T310,South Asian language studies,Related match,101180,Asian studies
+4,T310,South Asian language studies,Related match,101177,Bengali language
+4,T310,South Asian language studies,Related match,101174,Hindi language
+4,T310,South Asian language studies,Related match,101258,Thai language
+4,T310,South Asian language studies,Related match,101175,Urdu language
+4,T311,Indian language studies,Related match,101174,Hindi language
+4,T311,Indian language studies,Related match,101175,Urdu language
+3,T312,Pakistani language studies,Related match,101175,Urdu language
+3,T313,Sri Lankan language studies,Related match,101172,South Asian studies
+3,T314,Bangladeshi language studies,Related match,101177,Bengali language
+1,T315,Nepali language studies,Close match,101371,Nepali language
+3,T320,South Asian literature studies,Related match,101172,South Asian studies
+2,T321,Indian literature studies,Close match,101430,Indian literature studies
+2,T321,Indian literature studies,Related match,101496,Salman Rushdie studies
+3,T322,Pakistani literature studies,Related match,101172,South Asian studies
+3,T323,Sri Lankan literature studies,Related match,101172,South Asian studies
+3,T324,Bangladeshi literature studies,Related match,101172,South Asian studies
+3,T325,Nepali literature studies,Related match,101172,South Asian studies
+3,T330,South Asian society & culture studies,Related match,101172,South Asian studies
+1,T331,Indian society & culture studies,Close match,101179,Indian society and culture studies
+3,T332,Pakistani society & culture studies,Related match,101172,South Asian studies
+3,T333,Sri Lankan society & culture studies,Related match,101172,South Asian studies
+3,T334,Bangladeshi society & culture studies,Related match,101172,South Asian studies
+3,T335,Nepali society & culture studies,Related match,101172,South Asian studies
+3,T390,South Asian studies not elsewhere classified,Related match,101172,South Asian studies
+2,T400,Other Asian studies,Close match,101180,Asian studies
+2,T400,Other Asian studies,Related match,101212,Korean studies
+4,T410,Other Asian language studies,Related match,101180,Asian studies
+4,T410,Other Asian language studies,Related match,101177,Bengali language
+4,T410,Other Asian language studies,Related match,101174,Hindi language
+4,T410,Other Asian language studies,Related match,101175,Urdu language
+4,T411,East Asian language studies,Related match,101271,East Asian studies
+4,T411,East Asian language studies,Related match,101212,Korean studies
+4,T411,East Asian language studies,Related match,101258,Thai language
+4,T412,South East Asian language studies,Related match,101180,Asian studies
+4,T412,South East Asian language studies,Related match,101368,Indonesian language
+4,T412,South East Asian language studies,Related match,101372,South East Asian studies
+4,T412,South East Asian language studies,Related match,101369,Vietnamese language
+3,T420,Other Asian literature studies,Related match,101180,Asian studies
+3,T421,East Asian literature studies,Related match,101271,East Asian studies
+3,T422,South East Asian literature studies,Related match,101372,South East Asian studies
+3,T430,Other Asian society & culture studies,Related match,101180,Asian studies
+1,T431,East Asian society & culture studies,Close match,101271,East Asian studies
+1,T432,South East Asian society & culture studies,Close match,101372,South East Asian studies
+3,T490,Other Asian studies not elsewhere classified,Related match,101180,Asian studies
+1,T500,African studies,Close match,101184,African studies
+1,T510,African language studies,Close match,101185,African languages
+4,T511,Eastern African language studies,Related match,101185,African languages
+4,T511,Eastern African language studies,Related match,101366,Swahili and other Bantu languages
+3,T512,Central African language studies,Related match,101366,Swahili and other Bantu languages
+3,T513,Northern African language studies,Related match,101184,African studies
+3,T514,Southern African language studies,Related match,101366,Swahili and other Bantu languages
+4,T515,Western African language studies,Related match,101185,African languages
+4,T515,Western African language studies,Related match,101367,Hausa language
+2,T520,African literature studies,Close match,101188,African literature
+2,T520,African literature studies,Related match,101486,J. M. Coetzee studies
+3,T521,Eastern African literature studies,Related match,101184,African studies
+3,T522,Central African literature studies,Related match,101184,African studies
+3,T523,Northern African literature studies,Related match,101184,African studies
+4,T524,Southern African literature studies,Related match,101184,African studies
+4,T524,Southern African literature studies,Related match,101486,J. M. Coetzee studies
+3,T525,Western African literature studies,Related match,101184,African studies
+1,T530,African society & culture studies,Close match,101189,African society and culture studies
+3,T531,Eastern African society & culture studies,Related match,101184,African studies
+3,T532,Central African society & culture studies,Related match,101184,African studies
+3,T533,Northern African society & culture studies,Related match,101184,African studies
+3,T534,Southern African society & culture studies,Related match,101184,African studies
+3,T535,Western African society & culture studies,Related match,101184,African studies
+3,T590,African studies not elsewhere classified,Related match,101184,African studies
+1,T600,Modern Middle Eastern studies,Close match,101190,modern Middle Eastern studies
+1,T610,Modern Middle Eastern language studies,Close match,101191,modern Middle Eastern languages
+1,T611,Arabic language studies,Close match,101192,Arabic languages
+3,T612,Modern Standard Arabic language studies,Related match,101191,modern Middle Eastern languages
+1,T613,Persian language studies,Close match,101193,Persian languages
+2,T614,Modern Hebrew language studies,Related match,101194,Israeli studies
+2,T614,Modern Hebrew language studies,Close match,101269,modern Hebrew language
+3,T615,Kurdish language studies,Related match,101191,modern Middle Eastern languages
+2,T616,Turkish language studies,Close match,101431,Turkish languages
+2,T616,Turkish language studies,Related match,101195,Turkish studies
+1,T620,Modern Middle Eastern literature studies,Close match,101196,modern Middle Eastern literature
+1,T621,Arabic literature studies,Close match,101432,Arabic literature
+1,T623,Persian literature studies,Close match,101433,Persian literature studies
+3,T624,Modern Hebrew literature studies,Related match,101269,modern Hebrew language
+3,T625,Kurdish literature studies,Related match,101190,modern Middle Eastern studies
+2,T626,Turkish literature studies,Close match,101434,Turkish literature
+2,T626,Turkish literature studies,Related match,101195,Turkish studies
+1,T630,Modern Middle Eastern society & culture studies,Close match,101197,modern Middle Eastern society and culture studies
+1,T631,Arab society & culture studies,Close match,101198,Arab society and culture studies
+1,T633,Persian society & culture studies,Close match,101503,Persian society and culture studies
+3,T634,Modern Hebrew society & culture studies,Related match,101269,modern Hebrew language
+3,T635,Kurdish society & culture studies,Related match,101190,modern Middle Eastern studies
+2,T636,Turkish society & culture studies,Close match,101504,Turkish society and culture studies
+2,T636,Turkish society & culture studies,Related match,101195,Turkish studies
+3,T690,Modern Middle Eastern studies not elsewhere classified,Related match,101190,modern Middle Eastern studies
+1,T700,American studies,Close match,100316,American studies
+3,T710,American language studies,Related match,100316,American studies
+3,T711,Latin American language studies,Related match,101199,Latin American studies
+3,T712,United States language studies,Related match,100316,American studies
+4,T713,Canadian language studies,Related match,101205,Canadian studies
+4,T713,Canadian language studies,Related match,101480,Margaret Atwood studies
+3,T714,Caribbean language studies,Related match,100316,American studies
+2,T720,American literature studies,Related match,101492,Bob Dylan studies
+2,T720,American literature studies,Related match,101480,Margaret Atwood studies
+2,T720,American literature studies,Close match,101203,North American literature studies
+2,T720,American literature studies,Related match,101469,T.S. Eliot studies
+2,T720,American literature studies,Related match,101474,Thomas Pynchon studies
+2,T721,Latin American literature studies,Close match,101201,Latin American literature
+2,T721,Latin American literature studies,Related match,101199,Latin American studies
+4,T722,United States literature studies,Related match,101492,Bob Dylan studies
+4,T722,United States literature studies,Related match,101203,North American literature studies
+4,T722,United States literature studies,Related match,101469,T.S. Eliot studies
+4,T722,United States literature studies,Related match,101474,Thomas Pynchon studies
+3,T723,Canadian literature studies,Related match,101205,Canadian studies
+3,T724,Caribbean literature studies,Related match,101203,North American literature studies
+1,T730,American society & culture studies,Close match,101204,North American society and culture studies
+2,T731,Latin American society & culture studies,Close match,101202,Latin American society and culture studies
+2,T731,Latin American society & culture studies,Related match,101199,Latin American studies
+3,T732,United States society & culture studies,Related match,101204,North American society and culture studies
+2,T733,Canadian society & culture studies,Close match,101205,Canadian studies
+2,T733,Canadian society & culture studies,Related match,101204,North American society and culture studies
+3,T734,Caribbean society & culture studies,Related match,101207,Caribbean studies
+3,T790,American studies not elsewhere classified,Related match,100316,American studies
+1,T800,Australasian studies,Close match,101206,Australasian studies
+3,T810,Australasian language studies,Related match,101206,Australasian studies
+3,T820,Australasian literature studies,Related match,101206,Australasian studies
+3,T830,Australasian society & culture studies,Related match,101206,Australasian studies
+3,T890,Australasian studies not elsewhere classified,Related match,101206,Australasian studies
+4,T900,"Others in Eastern, Asiatic, African, American & Australasian languages, literature & related subjects",Related match,101184,African studies
+4,T900,"Others in Eastern, Asiatic, African, American & Australasian languages, literature & related subjects",Related match,100316,American studies
+4,T900,"Others in Eastern, Asiatic, African, American & Australasian languages, literature & related subjects",Related match,101180,Asian studies
+4,T900,"Others in Eastern, Asiatic, African, American & Australasian languages, literature & related subjects",Related match,101206,Australasian studies
+4,T900,"Others in Eastern, Asiatic, African, American & Australasian languages, literature & related subjects",Related match,101190,modern Middle Eastern studies
+4,T910,"Others in Eastern, Asiatic, African, American & Australasian languages",Related match,101184,African studies
+4,T910,"Others in Eastern, Asiatic, African, American & Australasian languages",Related match,100316,American studies
+4,T910,"Others in Eastern, Asiatic, African, American & Australasian languages",Related match,101180,Asian studies
+4,T910,"Others in Eastern, Asiatic, African, American & Australasian languages",Related match,101206,Australasian studies
+4,T910,"Others in Eastern, Asiatic, African, American & Australasian languages",Related match,101190,modern Middle Eastern studies
+4,T920,"Others in Eastern, Asiatic, African, American & Australasian literature",Related match,101184,African studies
+4,T920,"Others in Eastern, Asiatic, African, American & Australasian literature",Related match,100316,American studies
+4,T920,"Others in Eastern, Asiatic, African, American & Australasian literature",Related match,101180,Asian studies
+4,T920,"Others in Eastern, Asiatic, African, American & Australasian literature",Related match,101206,Australasian studies
+4,T920,"Others in Eastern, Asiatic, African, American & Australasian literature",Related match,101190,modern Middle Eastern studies
+3,T930,"Others in Eastern, Asiatic, African, American & Australasian societies & culture",Related match,101207,Caribbean studies
+4,T990,"Eastern, Asiatic, African, American & Australasian languages, literature",Related match,101184,African studies
+4,T990,"Eastern, Asiatic, African, American & Australasian languages, literature",Related match,100316,American studies
+4,T990,"Eastern, Asiatic, African, American & Australasian languages, literature",Related match,101180,Asian studies
+4,T990,"Eastern, Asiatic, African, American & Australasian languages, literature",Related match,101206,Australasian studies
+4,T990,"Eastern, Asiatic, African, American & Australasian languages, literature",Related match,101190,modern Middle Eastern studies
+4,V000,Historical & philosophical studies,Related match,100302,history
+4,V000,Historical & philosophical studies,Related match,100314,humanities
+4,V000,Historical & philosophical studies,Related match,100337,philosophy
+4,V100,History by period,Related match,100302,history
+4,V100,History by period,Related match,100314,humanities
+1,V140,Modern history,Close match,100310,modern history
+3,V141,Modern history 1500-1599,Related match,100310,modern history
+3,V142,Modern history 1600-1699,Related match,100310,modern history
+3,V143,Modern history 1700-1799,Related match,100310,modern history
+3,V144,Modern history 1800-1899,Related match,100310,modern history
+3,V145,Modern history 1900-1919,Related match,100310,modern history
+3,V146,Modern history 1920-1949,Related match,100310,modern history
+3,V147,Modern history 1950-1999,Related match,100310,modern history
+3,V148,Modern history 2000-2099,Related match,100310,modern history
+1,V150,Medieval history,Close match,100309,medieval history
+1,V160,Ancient history,Close match,100298,ancient history
+3,V161,Late Antique history,Related match,100302,history
+3,V190,History by period not elsewhere classified,Related match,100302,history
+4,V200,History by area,Related match,101248,French history
+4,V200,History by area,Related match,100302,history
+1,V210,British history,Close match,100758,British history
+1,V211,Irish history,Close match,100759,Irish history
+1,V212,Scottish history,Close match,100311,Scottish history
+1,V213,Welsh history,Close match,100760,Welsh history
+1,V214,English history,Close match,100761,English history
+1,V220,European history,Close match,100762,European history
+1,V221,French history,Close match,101248,French history
+1,V222,German history,Close match,100763,German history
+1,V223,Italian history,Close match,100764,Italian history
+3,V224,Iberian history,Related match,100765,Iberian studies
+1,V225,Russian history,Close match,100766,Russian history
+1,V230,American history,Close match,100767,American history
+3,V231,Canadian history,Related match,100767,American history
+1,V232,USA history,Close match,100768,USA history
+2,V233,South American history,Close match,100769,Latin American history
+2,V233,South American history,Related match,101199,Latin American studies
+3,V234,Central American history,Related match,100769,Latin American history
+4,V240,Asian history,Related match,101180,Asian studies
+4,V240,Asian history,Related match,100302,history
+1,V241,Chinese history,Close match,100771,Chinese history
+1,V242,Indian history,Close match,100772,South Asian history
+1,V243,South East Asian history,Close match,100773,South East Asian history
+1,V244,Byzantine History,Close match,100774,Byzantine studies
+1,V250,African history,Close match,101360,African history
+4,V251,North African history,Related match,101184,African studies
+4,V251,North African history,Related match,100302,history
+4,V252,Central African history,Related match,101184,African studies
+4,V252,Central African history,Related match,100302,history
+4,V253,Southern African history,Related match,101184,African studies
+4,V253,Southern African history,Related match,100302,history
+4,V254,East African history,Related match,101184,African studies
+4,V254,East African history,Related match,100302,history
+4,V255,West African history,Related match,101184,African studies
+4,V255,West African history,Related match,100302,history
+4,V260,Australasian history,Related match,101206,Australasian studies
+4,V260,Australasian history,Related match,100302,history
+4,V261,Australian history,Related match,101206,Australasian studies
+4,V261,Australian history,Related match,100302,history
+4,V262,New Zealand history,Related match,101206,Australasian studies
+4,V262,New Zealand history,Related match,100302,history
+1,V270,World history,Close match,100777,world history
+1,V271,International history,Close match,100778,international history
+3,V290,History by area not elsewhere classified,Related match,100302,history
+4,V300,History by topic,Related match,101248,French history
+4,V300,History by topic,Related match,100302,history
+1,V310,Economic history,Close match,100301,economic history
+1,V320,Social history,Close match,100312,social history
+1,V321,Local history,Close match,100308,local history
+1,V322,Oral history,Close match,101435,oral history
+1,V323,Family history,Close match,100779,family history
+1,V324,Crime history,Close match,101436,crime history
+1,V330,History of religions,Close match,100780,history of religions
+1,V340,Intellectual history,Close match,100781,intellectual history
+1,V350,History of art,Close match,100306,history of art
+1,V360,History of architecture,Close match,100782,history of architecture
+1,V370,History of design,Close match,100783,history of design
+1,V380,History of science,Close match,100307,history of science
+3,V381,History of physics,Related match,100307,history of science
+3,V382,History of chemistry,Related match,100307,history of science
+1,V383,History of mathematics,Close match,100784,history of mathematics
+1,V384,History of medicine,Close match,100785,history of medicine
+3,V390,History by topic not elsewhere classified,Related match,100302,history
+1,V391,Military history,Close match,100786,military history
+2,V400,Archaeology,Close match,100299,archaeology
+2,V400,Archaeology,Related match,101261,maritime archaeology
+1,V410,Egyptology,Close match,100787,Egyptology
+1,V420,Stone Age,Close match,101437,Stone Age
+1,V430,Bronze Age,Close match,101438,Bronze Age
+1,V440,Iron Age,Close match,101439,Iron Age
+3,V450,Archaeological conservation,Related match,100299,archaeology
+3,V460,Archaeological techniques,Related match,100384,archaeological sciences
+1,V470,Classical art & archaeology,Close match,101440,classical art and archaeology
+3,V471,Roman art & archaeology,Related match,100299,archaeology
+3,V472,Greek art & archaeology,Related match,100299,archaeology
+3,V490,Archaeology not elsewhere classified,Related match,100299,archaeology
+2,V500,Philosophy,Related match,100314,humanities
+2,V500,Philosophy,Close match,100337,philosophy
+1,V510,Metaphysics,Close match,101441,metaphysics
+1,V511,Epistemology,Close match,101442,epistemology
+1,V520,Moral philosophy,Close match,100793,ethics
+1,V530,Scholastic philosophy,Close match,101443,scholastic philosophy
+1,V540,Social philosophy,Close match,100792,social philosophy
+1,V550,Philosophy of science,Close match,100338,philosophy of science
+1,V560,Mental philosophy,Close match,100791,mental philosophy
+4,V590,Philosophy not elsewhere classified,Related match,100065,liberal arts
+4,V590,Philosophy not elsewhere classified,Related match,100337,philosophy
+1,V600,Theology & religious studies,Close match,100794,theology and religious studies
+2,V610,Theology,Related match,101003,psychology of religion
+2,V610,Theology,Close match,100340,theology
+1,V620,Religious studies,Close match,100339,religious studies
+1,V621,Christian studies,Close match,100795,Christian studies
+1,V622,Islamic studies,Close match,100796,Islamic studies
+1,V623,Judaism,Close match,100797,Judaism
+1,V624,Hinduism,Close match,101444,hinduism
+1,V625,Buddhism,Close match,100798,buddhism
+3,V626,Other Asian religious studies,Related match,100339,religious studies
+1,V627,Comparative religious studies,Close match,100803,comparative religious studies
+1,V630,Divinity,Close match,100799,divinity
+1,V640,Religious writings,Close match,100800,religious writings
+1,V641,The Bible & Christian texts,Close match,100801,biblical studies
+1,V642,The Qur'an & Islamic texts,Close match,101445,the Qur'an and Islamic texts
+1,V643,The Torah & Judaic texts,Close match,101446,the Torah and Judaic texts
+3,V644,Asian religious texts,Related match,100800,religious writings
+3,V645,Comparative religious texts,Related match,100800,religious writings
+1,V650,Pastoral studies,Close match,100802,pastoral studies
+3,V690,Theology & religious studies not elsewhere classified,Related match,100794,theology and religious studies
+1,V700,Heritage studies,Close match,100805,heritage studies
+3,V710,Heritage theory,Related match,100805,heritage studies
+1,V720,Heritage site management,Close match,100807,heritage management
+3,V730,Natural heritage,Related match,100805,heritage studies
+4,V731,Coastal heritage management,Related match,100807,heritage management
+4,V731,Coastal heritage management,Related match,100805,heritage studies
+3,V740,Visitor management including interpretation,Related match,100807,heritage management
+3,V750,"Oral history, heritage & genealogy",Related match,100805,heritage studies
+4,V900,Others in historical & philosophical studies,Related match,101233,cultural studies
+4,V900,Others in historical & philosophical studies,Related match,100302,history
+4,V900,Others in historical & philosophical studies,Related match,100314,humanities
+4,V900,Others in historical & philosophical studies,Related match,100065,liberal arts
+4,V900,Others in historical & philosophical studies,Related match,100337,philosophy
+4,V990,Historical & philosophical studies not elsewhere classified,Related match,100302,history
+4,V990,Historical & philosophical studies not elsewhere classified,Related match,100337,philosophy
+1,W000,Creative arts & design,Close match,101361,creative arts and design
+1,W100,Fine art,Close match,100059,fine art
+1,W110,Drawing,Close match,100587,drawing
+1,W120,Painting,Close match,100589,painting
+1,W130,Sculpture,Close match,100592,sculpture
+1,W140,Printmaking,Close match,100595,printmaking
+1,W150,Calligraphy,Close match,101362,calligraphy
+1,W160,Fine art conservation,Close match,100599,fine art conservation
+3,W190,Fine art not elsewhere classified,Related match,100059,fine art
+1,W200,Design studies,Close match,100048,design
+2,W210,Graphic design,Related match,100060,graphic arts
+2,W210,Graphic design,Close match,100061,graphic design
+1,W211,Typography,Close match,100630,typography
+1,W212,Multimedia design,Close match,100375,web and multimedia design
+1,W213,Visual communication,Close match,100632,visual communication
+2,W220,Illustration,Related match,100060,graphic arts
+2,W220,Illustration,Close match,100062,illustration
+2,W230,Clothing/fashion design,Related match,100054,fashion
+2,W230,Clothing/fashion design,Close match,100055,fashion design
+1,W231,Textile design,Close match,100051,textile design
+1,W240,Industrial/product design,Close match,100050,product design
+3,W250,Interior design,Related match,101316,interior design and architecture
+1,W260,Furniture design,Close match,100633,furniture design and making
+1,W270,Ceramics design,Close match,100003,ceramics
+1,W280,Interactive & electronic design,Close match,100636,interactive and electronic design
+3,W290,Design studies not elsewhere classified,Related match,100048,design
+2,W300,Music,Close match,100070,music
+2,W300,Music,Related match,101241,music therapy
+1,W310,Musicianship/performance studies,Close match,100637,musicianship and performance studies
+2,W311,Instrumental or vocal performance,Close match,100639,instrumental or vocal performance
+2,W311,Instrumental or vocal performance,Related match,100071,performing arts
+1,W312,Musical theatre,Close match,100035,musical theatre
+1,W313,Conducting,Close match,100650,conducting
+2,W314,Jazz performance,Close match,100656,jazz performance
+2,W314,Jazz performance,Related match,100637,musicianship and performance studies
+2,W315,Popular music performance,Related match,100637,musicianship and performance studies
+2,W315,Popular music performance,Close match,100657,popular music performance
+3,W316,Electronic/electro-acoustic music performance,Related match,100637,musicianship and performance studies
+1,W317,Historical performance practice,Close match,100661,historical performance practice
+1,W320,Music education/teaching,Close match,100642,music education and teaching
+1,W330,History of music,Close match,100664,history of music
+3,W340,Types of music,Related match,100667,musicology
+1,W341,Popular music,Close match,100841,popular music
+1,W342,Film music/screen music,Close match,100842,film music and screen music
+1,W343,Jazz,Close match,100843,jazz
+1,W344,Folk music,Close match,101447,folk music
+1,W345,Opera,Close match,101448,opera
+1,W346,Sacred music,Close match,100844,sacred music
+1,W350,Musicology,Close match,100667,musicology
+1,W351,Ethnomusicology/world music,Close match,100674,ethnomusicology and world music
+1,W352,Community music,Close match,100854,community music
+4,W353,Music & gender,Related match,100621,gender studies
+4,W353,Music & gender,Related match,100070,music
+3,W354,"Philosophy, aesthetics & criticism of music",Related match,100070,music
+1,W355,Music psychology,Close match,101363,psychology of music
+1,W356,Music theory & analysis,Close match,101449,music theory and analysis
+4,W357,Sociology of music,Related match,100070,music
+4,W357,Sociology of music,Related match,100505,sociology
+3,W360,Musical instrument history,Related match,100664,history of music
+1,W370,Music technology & industry,Close match,100221,music technology
+3,W371,Sound design/commercial music recording,Related match,100223,music production
+3,W372,Creative music technology,Related match,100221,music technology
+3,W373,Electro-acoustic studies,Related match,100862,sonic arts
+1,W374,Music production,Close match,100223,music production
+1,W375,Music management/music industry management/arts management,Close match,100643,music and arts management
+1,W376,Music marketing,Close match,100644,music marketing
+1,W380,Composition,Close match,100695,music composition
+3,W381,Electracoustic composition/acousmatic composition,Related match,100695,music composition
+1,W382,Sonic arts,Close match,100862,sonic arts
+1,W383,Electronic music,Close match,100867,electronic music
+2,W384,Applied music/musicianship,Close match,101450,applied music and musicianship
+2,W384,Applied music/musicianship,Related match,100637,musicianship and performance studies
+3,W385,Commercial music composition,Related match,100695,music composition
+3,W386,Multimedia music composition,Related match,100695,music composition
+1,W387,Jazz composition,Close match,100870,jazz composition
+2,W388,Popular music composition,Related match,100695,music composition
+2,W388,Popular music composition,Close match,101451,popular music composition
+3,W390,Music not elsewhere classified,Related match,100070,music
+1,W400,Drama,Close match,100069,drama
+1,W410,Acting,Close match,100067,acting
+1,W420,Directing for theatre,Close match,100697,directing for theatre
+1,W430,Producing for theatre,Close match,100700,theatre production
+1,W440,Theatre studies,Close match,100698,theatre studies
+3,W441,Theatre & professional practice,Related match,100698,theatre studies
+3,W442,Contemporary theatre,Related match,100698,theatre studies
+1,W443,Technical arts & special effects for theatre,Close match,100702,technical theatre studies
+1,W450,Stage management,Close match,100703,stage management
+1,W451,Theatrical wardrobe design,Close match,100705,theatrical wardrobe design
+1,W452,Theatrical make-up,Close match,100706,hair and make-up
+1,W453,Technical stage management,Close match,100704,technical stage management
+3,W460,Theatre design,Related match,100708,stage design
+1,W461,Stage design,Close match,100708,stage design
+1,W470,Performance & live arts,Close match,100071,performing arts
+4,W471,European/world theatre arts,Related match,100071,performing arts
+4,W471,European/world theatre arts,Related match,100698,theatre studies
+1,W472,Circus arts,Close match,100707,circus arts
+1,W473,Community theatre,Close match,100710,community theatre
+3,W490,Drama not elsewhere classified,Related match,100069,drama
+1,W500,Dance,Close match,100068,dance
+1,W510,Choreography,Close match,100711,choreography
+1,W520,Body awareness,Close match,101452,body awareness
+4,W530,History of dance,Related match,100068,dance
+4,W530,History of dance,Related match,100302,history
+1,W531,Dance & culture,Close match,101453,dance and culture
+1,W532,Community dance,Close match,101454,community dance
+3,W540,Types of dance,Related match,100068,dance
+1,W541,Ballet,Close match,100885,ballet
+4,W542,Dance theatre,Related match,100068,dance
+4,W542,Dance theatre,Related match,100698,theatre studies
+1,W543,Contemporary dance,Close match,100886,contemporary dance
+3,W544,Jazz dance,Related match,100068,dance
+1,W550,Dance performance,Close match,100712,dance performance
+3,W590,Dance not elsewhere classified,Related match,100068,dance
+2,W600,Cinematics & photography,Close match,101214,cinematics
+2,W600,Cinematics & photography,Related match,101233,cultural studies
+1,W610,Moving image techniques,Close match,100887,moving image techniques
+1,W611,Directing motion pictures,Close match,100888,film directing
+3,W612,Producing motion pictures,Related match,100441,film production
+1,W613,Film & sound recording,Close match,100890,film and sound recording
+1,W614,Visual & audio effects,Close match,100717,visual and audio effects
+1,W615,Animation techniques,Close match,100057,animation
+1,W620,Cinematography,Close match,100716,cinematography
+3,W630,History of cinematics & photography,Related match,100714,history of photography
+3,W631,History of cinematics,Related match,100714,history of photography
+1,W632,History of photography,Close match,100714,history of photography
+1,W640,Photography,Close match,100063,photography
+4,W690,Cinematics & photography not elsewhere classified,Related match,101214,cinematics
+4,W690,Cinematics & photography not elsewhere classified,Related match,100063,photography
+1,W700,Crafts,Close match,100895,crafts
+3,W710,Fabric & leather crafts,Related match,100895,crafts
+3,W711,Needlecraft,Related match,100055,fashion design
+4,W712,Dressmaking,Related match,100109,clothing production
+4,W712,Dressmaking,Related match,100055,fashion design
+4,W713,Soft furnishing,Related match,100895,crafts
+4,W713,Soft furnishing,Related match,100633,furniture design and making
+3,W714,Weaving,Related match,100895,crafts
+3,W715,Leatherwork,Related match,100895,crafts
+1,W720,Metal crafts,Close match,100721,metal work
+1,W721,Silversmithing/goldsmithing,Close match,100725,silversmithing and goldsmithing
+3,W722,Blacksmithing,Related match,100721,metal work
+1,W723,Clock/watchmaking,Close match,100726,clock and watchmaking
+3,W730,Wood crafts,Related match,100895,crafts
+1,W731,Carpentry/joinery,Close match,101505,carpentry and joinery
+3,W732,Cabinet making,Related match,100633,furniture design and making
+3,W733,Marquetry & inlaying,Related match,100633,furniture design and making
+3,W734,Veneering,Related match,100633,furniture design and making
+1,W740,Surface decoration,Close match,100728,surface decoration
+3,W750,Clay & stone crafts,Related match,100003,ceramics
+3,W751,Pottery,Related match,100003,ceramics
+3,W752,Tile making,Related match,100003,ceramics
+1,W753,Stone crafts,Close match,101455,stone crafts
+3,W760,Reed crafts,Related match,100895,crafts
+3,W761,Basketry,Related match,100895,crafts
+3,W762,Thatching,Related match,100895,crafts
+1,W770,Glass crafts,Close match,100724,glass crafts
+3,W771,Glassblowing,Related match,100724,glass crafts
+4,W780,Paper crafts,Related match,100895,crafts
+4,W780,Paper crafts,Related match,101356,paper technology
+4,W781,Bookbinding,Related match,100895,crafts
+4,W781,Bookbinding,Related match,101356,paper technology
+3,W782,Origami,Related match,100895,crafts
+3,W790,Crafts not elsewhere classified,Related match,100895,crafts
+1,W800,Imaginative writing,Close match,100046,creative writing
+1,W810,Scriptwriting,Close match,100729,scriptwriting
+1,W820,Poetry writing,Close match,100730,poetry writing
+1,W830,Prose writing,Close match,100731,professional writing
+3,W890,Imaginative writing not elsewhere classified,Related match,100046,creative writing
+4,W900,Others in creative arts & design,Related match,101361,creative arts and design
+4,W900,Others in creative arts & design,Related match,100060,graphic arts
+3,W990,Creative arts & design not elsewhere classified,Related match,101361,creative arts and design
+3,X000,Education,Related match,100459,education studies
+4,X100,Training teachers,Related match,100510,early years teaching
+4,X100,Training teachers,Related match,100509,higher education teaching
+4,X100,Training teachers,Related match,100508,post compulsory education and training
+4,X100,Training teachers,Related match,100511,primary teaching
+4,X100,Training teachers,Related match,101246,professional practice in education
+4,X100,Training teachers,Related match,100512,secondary teaching
+1,X110,Training teachers - nursery,Close match,100510,early years teaching
+1,X120,Training teachers - primary,Close match,100511,primary teaching
+3,X121,Training teachers - infant (key stage 1),Related match,100510,early years teaching
+3,X122,Training teachers - junior (key stage 2),Related match,100511,primary teaching
+1,X130,Training teachers - secondary,Close match,100512,secondary teaching
+3,X131,Training teachers - key stage 3,Related match,100512,secondary teaching
+3,X132,Training teachers - key stage 4,Related match,100512,secondary teaching
+3,X140,Training teachers - tertiary,Related match,100508,post compulsory education and training
+1,X141,Training teachers - further education,Close match,100508,post compulsory education and training
+1,X142,Training teachers - higher education,Close match,100509,higher education teaching
+1,X150,Training teachers - adult education,Close match,100507,adult education teaching
+3,X151,Training teachers - coaching,Related match,100095,sports coaching
+1,X160,Training teachers - specialist,Close match,101085,specialist teaching
+1,X161,Training teachers - special needs,Close match,101087,special needs teaching
+1,X162,Teaching English as a Foreign Language (TEFL),Close match,100513,teaching English as a foreign language
+4,X190,Training teachers not elsewhere classified,Related match,100510,early years teaching
+4,X190,Training teachers not elsewhere classified,Related match,100509,higher education teaching
+4,X190,Training teachers not elsewhere classified,Related match,100508,post compulsory education and training
+4,X190,Training teachers not elsewhere classified,Related match,100511,primary teaching
+4,X190,Training teachers not elsewhere classified,Related match,100512,secondary teaching
+4,X190,Training teachers not elsewhere classified,Related match,101277,work-based learning
+1,X200,Research & study skills in education,Close match,101088,research and study skills in education
+1,X210,Research skills,Close match,100962,research skills
+2,X220,Study skills,Related match,100462,learning support
+2,X220,Study skills,Close match,101090,study skills
+4,X290,Research & study skills in education not elsewhere classified,Related match,101278,employability skills (personal learning)
+4,X290,Research & study skills in education not elsewhere classified,Related match,101088,research and study skills in education
+2,X300,Academic studies in education,Related match,100455,childhood and youth studies
+2,X300,Academic studies in education,Related match,100456,childhood studies
+2,X300,Academic studies in education,Related match,100457,early childhood studies
+2,X300,Academic studies in education,Close match,100459,education studies
+2,X300,Academic studies in education,Related match,100462,learning support
+2,X300,Academic studies in education,Related match,100065,liberal arts
+2,X300,Academic studies in education,Related match,101322,mentorship
+2,X300,Academic studies in education,Related match,101246,professional practice in education
+2,X310,Academic studies in nursery education,Related match,100456,childhood studies
+2,X310,Academic studies in nursery education,Related match,100457,early childhood studies
+2,X310,Academic studies in nursery education,Close match,100463,early years education
+2,X310,Academic studies in nursery education,Related match,100065,liberal arts
+2,X320,Academic studies in primary education,Related match,100456,childhood studies
+2,X320,Academic studies in primary education,Close match,100464,primary education
+1,X330,Academic studies in secondary education,Close match,100465,secondary education
+3,X340,Academic studies in tertiary education,Related match,100459,education studies
+1,X341,Academic studies in further education,Close match,100460,further education
+1,X342,Academic studies in higher education,Close match,100461,higher education
+1,X350,Academic studies in adult education,Close match,100454,adult education
+4,X360,Academic studies in specialist education,Related match,100459,education studies
+4,X360,Academic studies in specialist education,Related match,100462,learning support
+4,X370,Academic studies in education (across phases),Related match,100459,education studies
+4,X370,Academic studies in education (across phases),Related match,100462,learning support
+4,X390,Academic studies in education not elsewhere classified,Related match,100459,education studies
+4,X390,Academic studies in education not elsewhere classified,Related match,100462,learning support
+4,X900,Others in education,Related match,100459,education studies
+4,X900,Others in education,Related match,101246,professional practice in education
+4,X900,Others in education,Related match,101277,work-based learning
+4,X990,Education not elsewhere classified,Related match,100459,education studies
+4,X990,Education not elsewhere classified,Related match,101277,work-based learning
+4,Y000,Combined/general subject unspecified,Related match,100392,applied science
+4,Y000,Combined/general subject unspecified,Related match,101273,combined studies
+4,Y000,Combined/general subject unspecified,Related match,101274,general studies
+4,Y000,Combined/general subject unspecified,Related match,100314,humanities
+4,Y000,Combined/general subject unspecified,Related match,101288,international studies
+4,Y000,Combined/general subject unspecified,Related match,100391,natural sciences
+4,Y000,Combined/general subject unspecified,Related match,101275,negotiated studies
+4,Y000,Combined/general subject unspecified,Related match,101276,work placement experience (personal learning)

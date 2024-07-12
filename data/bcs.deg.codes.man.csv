@@ -1,0 +1,1964 @@
+bcsid,degsub,comb_code,HECoS_Label,dist,man_code
+B10015U,humanities,V1,humanities,0,NA
+B10036Z,business studies,N1,business studies,0,NA
+B10093J,engineering electronics,H1,engineering design,0.159319646,NA
+B10096M,electrical and electronic,H6,electrical and electronic engineering,0.108108108,H6
+B10099Q,english literature,Q3,English literature,0,NA
+B10100Q,english studies,Q3,English studies,0,NA
+B10103T,english,Q3,English law,0.121212121,NA
+B10108Y,primary education,X3,primary education,0,NA
+B10114W,computer systems engineer,I1,computer systems engineering,0.035714286,NA
+B10122W,fine art,W1,fine art,0,NA
+B10123X,information management an,P1,information management,0.04,NA
+B10124Y,nursingstudies,Q3,Ruskin studies,0.150793651,NA
+B10127B,sport in the community,C6,sport technology,0.2629662,NA
+B10128C,medicine,A0,medicine,0,A1
+B10148G,human biology,C1,human biology,0,NA
+B10152C,molecular biology,C1,molecular biology,0,NA
+B10164G,civil engineering,H2,civil engineering,0,NA
+B10198S,teaching design  technol,X1,teaching English as a foreign language,0.278091061,NA
+B10201U,mathematics,G1,mathematics,0,NA
+B10207A,modern languages,R0,modern languages,0,R0
+B10213Y,history and war studies w,V1,Thomas Hardy studies,0.219259259,NA
+B10216B,oceanography with chemist,F1,organic chemistry,0.27502451,NA
+B10241C,acting studies,Q6,Latin studies,0.073260073,W4
+B10243E,mechanical engineering,H3,mechanical engineering,0,NA
+B10262H,chemistry,F1,chemistry,0,NA
+B10264K,politics,L2,politics,0,NA
+B10268P,bsc in physicsastronomy,V2,Russian history,0.291936083,NA
+B10305B,mathematics,G1,mathematics,0,NA
+B10314C,law,M0,law,0,NA
+B10320A,law,M0,law,0,NA
+B10330C,mathematics,G1,mathematics,0,NA
+B10334G,english lit,Q3,English law,0.121212121,NA
+B10345K,business studies,N1,business studies,0,NA
+B10373P,physical education and g,L6,physical and biological anthropology,0.251984127,NA
+B10376S,bsc honours quantity surv,B7,school nursing,0.304285714,NA
+B10403C,pharmacology,B2,pharmacology,0,NA
+B10404D,geography,L7,geography,0,NA
+B10424H,landmanagement,N2,land management,0.022222222,NA
+B10430F,psychologysociologylaw,C8,psychology,0.181818182,NA
+B10440H,electrical electronics,H6,electrical power,0.198593074,NA
+B10442K,business studies,N1,business studies,0,NA
+B10448R,computor science,I1,computer science,0.141666667,NA
+B10451L,mathematics,G1,mathematics,0,NA
+B10458T,ecconomics,L1,economics,0.033333333,L1
+B10464R,historygovernment,V1,history,0.196078431,NA
+B10481S,applied biology,C1,applied biology,0,NA
+B10492V,physics,F3,physics,0,NA
+B10494X,communications,W5,community dance,0.205772006,NA
+B10495Y,librarianship and geograp,P1,librarianship,0.16,NA
+B10518N,textile design,W2,textile design,0,NA
+B10522J,modern studies,T4,Korean studies,0.123015873,NA
+B10533M,biology and geography,C1,biology,0.222222222,NA
+B10544Q,civil engineering,H2,civil engineering,0,NA
+B10546S,plant and environmental b,B9,environmental and public health,0.264862085,NA
+B10547T,medicine,A0,medicine,0,A1
+B10548U,biology and geology,C1,biology,0.210526316,NA
+B10562S,electronic and electrical,H6,electrical and electronic engineering,0.161441441,H6
+B10567X,business administrationg,N1,business information systems,0.234126984,NA
+B10574W,english literature,Q3,English literature,0,NA
+B10577Z,marketing management,N5,marketing,0.183333333,NA
+B10582W,english and sociology,Q3,applied sociology,0.190009337,NA
+B10586A,sports science and busine,C6,sport and exercise sciences,0.215364759,NA
+B10614M,technology and management,D6,baking technology management,0.192896825,NA
+B10636T,electrical and eloctronic,H6,electrical and electronic engineering,0.158228228,H6
+B10638V,education with geography,L4,education policy,0.204365079,NA
+B10639W,graphic design,W2,graphic design,0,NA
+B10646V,computor science,I1,computer science,0.141666667,NA
+B10658Z,information technology,I1,information technology,0,I1
+B10670V,financial services,N3,financial risk,0.154863655,NA
+B10675A,aeronautical engineering,H4,aeronautical engineering,0,NA
+B10677C,french and german,R2,French language,0.19248366,NA
+B10704N,law with marketing,M1,law,0.277777778,M1
+B10736W,fine art,W1,fine art,0,NA
+B10738Y,fine art,W1,fine art,0,NA
+B10746Y,french and history,V1,French history,0.074074074,NA
+B10783D,civil engineering,H2,civil engineering,0,NA
+B10785F,mathematics,G1,mathematics,0,NA
+B10793F,health science,F6,health sciences,0.022222222,NA
+B10805S,midwifery,B7,midwifery,0,NA
+B10815U,printing management,N3,financial management,0.220175439,NA
+B10818X,business econmics,N1,business economics,0.018518519,NA
+B10825W,environmental studioes,F7,environmental sciences,0.121212121,NA
+B10826X,german and history,V1,German history,0.074074074,NA
+B10850X,law,M0,law,0,NA
+B10853A,graphic design,W2,graphic design,0,NA
+B10854B,public administartion,L2,public administration,0.015873016,NA
+B10872D,industrial studies,V6,Christian studies,0.150326797,NA
+B10874F,psychology,C8,psychology,0,NA
+B10879L,economics and public poli,L1,economic policy,0.204444444,NA
+B10882F,german studies,R2,German studies,0,NA
+B10884H,business studies,N1,business studies,0,NA
+B10896M,mathematics and physics,G1,mathematics,0.173913043,G1
+B10898P,history and english lit,V1,history of design,0.221824382,NA
+B10904U,physiological sciences,F0,physical sciences,0.144385027,B1
+B10906W,chemistry,F1,chemistry,0,NA
+B10923X,accountancy,N4,accountancy,0,NA
+B10941Z,systems analysis,I2,systems analysis and design,0.135802469,NA
+B10943B,combined studies physics,Y0,combined studies,0.111111111,F3
+B10956G,electronics,W3,electronic music,0.104166667,NA
+B10958J,enviromeental studies,F7,environmental sciences,0.191558442,NA
+B10960C,social policy,L4,social policy,0,NA
+B10967K,mathematics,G1,mathematics,0,NA
+B10973H,nutrition and biology,C1,nutrition,0.19047619,NA
+B10985M,frenchgerman,R2,French literature,0.240196078,NA
+B11000R,linguistic and internatio,Q1,linguistics,0.23030303,Q1
+B11008Z,economics,L1,economics,0,NA
+B11022X,medecine,A0,medicine,0.130952381,A1
+B11024Z,mathematics,G1,mathematics,0,NA
+B11036D,mathematics,G1,mathematics,0,NA
+B11040Z,economics,L1,economics,0,NA
+B11042B,computer science,I1,computer science,0,NA
+B11060D,batchalor of education ed,X3,early years education,0.261865079,NA
+B11061E,law,M0,law,0,NA
+B11069N,sociology,L3,sociology,0,NA
+B11075L,humanities,V1,humanities,0,NA
+B11078P,mathematics,G1,mathematics,0,NA
+B11093N,hotel management,C3,pest management,0.13258547,N8
+B11113Z,quantity surveying,K2,quantity surveying,0,NA
+B11119F,retail and distribution m,N8,travel and tourism,0.272244009,NA
+B11130A,textile design,W2,textile design,0,NA
+B11135F,chemistry,F1,chemistry,0,NA
+B11166N,civil engineering,H2,civil engineering,0,NA
+B11170J,mechanical engineering,H3,mechanical engineering,0,NA
+B11175P,physics,F3,physics,0,NA
+B11186S,information technology,I1,information technology,0,I1
+B11187T,librarianship and informa,P1,librarianship,0.16,NA
+B11190N,business studies,N1,business studies,0,NA
+B11193R,nursing,B7,nursing,0,NA
+B11205C,englishmedia cultural st,Q3,English studies,0.232539683,NA
+B11212B,microbiology,C1,microbiology,0,NA
+B11222D,microbiology,C1,microbiology,0,NA
+B11226H,bachelor of education,D4,crop production,0.237301587,NA
+B11243J,leisure manaement,N2,retail management,0.200980392,NA
+B11246M,paper conservation,J5,paper technology,0.263888889,J5
+B11253L,politics,L2,politics,0,NA
+B11263N,bankinginsurance and fin,N3,banking,0.236111111,NA
+B11278V,art and teaching,W7,clock and watchmaking,0.253586691,NA
+B11282R,building surveying,K2,building surveying,0,NA
+B11283S,ba business economics  m,N1,business economics,0.148148148,NA
+B11285U,business studies,N1,business studies,0,NA
+B11289Y,engineering  mechanical,H1,engineering design,0.193719807,NA
+B11324J,vetinary medicine and sur,B0,alternative medicines and therapies,0.27863354,D1
+B11326L,hotel and catering manage,B7,health and social care,0.265050505,N8
+B11337P,medical sciences,B1,medical sciences,0,B1
+B11351M,social work,L5,social work,0,NA
+B11370Q,mathematics,G1,mathematics,0,NA
+B11379Z,fashion design,W2,fashion design,0,W2
+B11386Y,batch of educ,Q4,South Asian studies,0.352076773,X1
+B11389B,pharmacy,B2,pharmacy,0,NA
+B11395Z,civil engineering,H2,civil engineering,0,NA
+B11397B,law,M0,law,0,NA
+B11399D,combined arts psycology,C8,forensic psychology,0.190671692,NA
+B11406K,accountancy,N4,accountancy,0,NA
+B11427Q,teacher education,X3,further education,0.165266106,NA
+B11428R,cultural studies,P3,cultural studies,0,NA
+B11457W,civil engineering,H2,civil engineering,0,NA
+B11467Y,occupational therapy,B9,occupational therapy,0,NA
+B11493A,land economiss,C2,plant sciences,0.257142857,D4
+B11497E,telecommunications,H6,telecommunications engineering,0.133333333,NA
+B11502J,industrial design,F1,industrial chemistry,0.182633053,NA
+B11503K,ba in medicine,V3,history of medicine,0.242082479,NA
+B11510J,state management,W4,sales management,0.083333333,NA
+B11513M,gepgraphy,L7,geography,0.074074074,NA
+B11517R,law,M0,law,0,NA
+B11521M,fashion and knitwear desi,W2,fashion,0.24,NA
+B11526S,biology,C1,biology,0,NA
+B11541R,humanitiesenglish litera,Q3,humanities,0.194444444,NA
+B11560U,law,M0,law,0,NA
+B11567B,french and german with bu,R2,French language,0.267777778,NA
+B11569D,education and english,Q3,education studies,0.205648926,NA
+B11570W,mechanical engineering,H3,mechanical engineering,0,NA
+B11575B,b education,X0,education policy,0.206439394,NA
+B11578E,aeronautical engineering,H4,aeronautical engineering,0,NA
+B11580Y,town and country planning,L5,youth and community work,0.304027778,NA
+B11592C,history,V1,history,0,NA
+B11620P,interior design,W2,interior design and architecture,0.177083333,NA
+B11629Y,contemporary media practi,W5,contemporary dance,0.164400871,NA
+B11634V,psychology and sociology,C8,psychology of religion,0.19023569,C8
+B11644X,biooranic chemistry and,F1,inorganic chemistry,0.161259927,NA
+B11646Z,law,M0,law,0,NA
+B11647A,chemistry,F1,chemistry,0,NA
+B11686H,english studies,Q3,English studies,0,NA
+B11692F,cevil eng,H8,chemical engineering,0.237037037,NA
+B11704S,bsc antomycell biology,C1,community ecology,0.245276292,NA
+B11708W,history and politics,V1,history of art,0.208730159,NA
+B11716W,psychology,C8,psychology,0,NA
+B11729B,environmental earth scien,F6,environmental geoscience,0.122222222,NA
+B11740W,politics and philosophy,V5,scholastic philosophy,0.212675408,NA
+B11752A,electrical  information,H6,electrical power generation,0.188231347,NA
+B11761B,art,N5,marketing,0.222222222,NA
+B11765F,law,M0,law,0,NA
+B11776J,design illustration,W2,design,0.228070175,NA
+B11784J,physical education,F0,physical sciences,0.209485504,C6
+B11785K,dentistry,A0,dentistry,0,A4
+B11792J,architecture,K1,architecture,0,NA
+B11793K,electronic imaging and,H6,electronic engineering,0.180926916,NA
+B11810T,agraicultural science,D7,agricultural sciences,0.098412698,NA
+B11828D,geography,L7,geography,0,NA
+B11831Y,quantity surveying,K2,quantity surveying,0,NA
+B11838F,politics and law,L1,politics,0.166666667,L1
+B11849J,engineering,H0,engineering design,0.12962963,NA
+B11862F,mathematics,G1,mathematics,0,NA
+B11866K,art,N5,marketing,0.222222222,NA
+B11882K,mechanical engineering,H3,mechanical engineering,0,NA
+B11890K,theatre studies,W4,theatre studies,0,NA
+B11916C,sociology,L3,sociology,0,NA
+B11928G,computing,I1,conducting,0.174074074,NA
+B11929H,electronics computing and,I1,electronic music,0.1825,NA
+B11930A,business studies,N1,business studies,0,NA
+B11940C,biological sciences,C0,biological sciences,0,NA
+B11950E,history,V1,history,0,NA
+B11955K,economics and accountancy,L1,economics,0.213333333,NA
+B11977R,theology,V6,theology,0,NA
+B11979T,economics,L1,economics,0,NA
+B11990N,computor   science,I1,computer science,0.176388889,NA
+B12000V,sales and marketing,N5,sales management,0.200814536,NA
+B12002X,international history and,V1,international history,0.053333333,NA
+B12014B,economics,L1,economics,0,NA
+B12018F,french and german,R2,French language,0.19248366,NA
+B12022B,music and education,X3,secondary education,0.184795322,NA
+B12036H,land management,N2,land management,0,NA
+B12047L,electrical and electronic,H6,electrical and electronic engineering,0.108108108,H6
+B12073N,economics,L1,economics,0,NA
+B12074P,english,Q3,English law,0.121212121,NA
+B12076R,beducation,X0,education policy,0.179166667,NA
+B12087U,agricultrual economics,L1,agricultural economics,0.015151515,NA
+B12091Q,cultural studies,P3,cultural studies,0,NA
+B12097W,geography,L7,geography,0,NA
+B12100Y,mechanical engineering,H3,mechanical engineering,0,NA
+B12106E,biologicalm sciences,C0,biological sciences,0.016666667,NA
+B12113D,genetics,C4,genetics,0,NA
+B12133H,bachelor af arts b a hon,G1,liberal arts,0.316666667,Y1
+B12142J,mechanical engineering,H3,mechanical engineering,0,NA
+B12153M,psychology,C8,psychology,0,NA
+B12159T,occupational therapy,B9,occupational therapy,0,NA
+B12174S,mechanical engineering,H3,mechanical engineering,0,NA
+B12186W,geography,L7,geography,0,NA
+B12187X,french,R1,French studies,0.19047619,R1
+B12215J,american and commonwealth,D3,animal management,0.27254902,NA
+B12227N,mechanic engineering,H3,mechanical engineering,0.03030303,NA
+B12228P,graphic design,W2,graphic design,0,NA
+B12259W,civil engineering,H2,civil engineering,0,NA
+B12264T,micro electronics,L1,microeconomics,0.145658263,NA
+B12274V,accounting and finance,N4,accounting,0.181818182,NA
+B12298D,public art and design,L2,public administration,0.231646825,NA
+B12303H,clothing manufacture etc,J4,clothing production,0.250417711,J4
+B12306L,linguistics and language,Q1,linguistics,0.180555556,Q1
+B12321K,archaeology and anthropol,V4,archaeology,0.186666667,NA
+B12329T,civil engineering,H2,civil engineering,0,NA
+B12341P,geo chemistry,F6,geochemistry,0.025641026,NA
+B12342Q,medicine,A0,medicine,0,A1
+B12343R,real time computer system,I1,modern Middle Eastern studies,0.261781609,NA
+B12345T,business studies,N1,business studies,0,NA
+B12348W,theatre studies with qts,W4,theatre studies,0.125,W4
+B12351R,managerial and admin stud,N2,management and organisation of education,0.248043478,NA
+B12357X,modern languages,R0,modern languages,0,R0
+B12374Y,english and history,V1,English history,0.070175439,NA
+B12394C,sociology,L3,sociology,0,NA
+B12397F,mechanical engineering,H3,mechanical engineering,0,NA
+B12399H,export engineering,I3,software engineering,0.134953704,NA
+B12419U,mathematics,G1,mathematics,0,NA
+B12433S,law,M0,law,0,NA
+B12439Y,media production,P3,media production,0,NA
+B12467C,european business systems,N1,European business studies,0.102727273,NA
+B12484D,sociology,L3,sociology,0,NA
+B12496H,behavioural science,C8,animal science,0.170426065,C8
+B12498K,computer science,I1,computer science,0,NA
+B12505R,biomedical technology,J7,medical biotechnology,0.087301587,J7
+B12531T,biochemistry,F6,biochemistry,0,NA
+B12537Z,education,X0,education policy,0.145833333,NA
+B12542W,philosophy politics and e,V5,philosophy of science,0.196507937,NA
+B12548C,pharmacology,B2,pharmacology,0,NA
+B12549D,chemistry,F1,chemistry,0,NA
+B12554A,architecture,K1,architecture,0,NA
+B12563B,law,M0,law,0,NA
+B12583F,philosophy politics and e,V5,philosophy of science,0.196507937,NA
+B12619A,spanish and latinamerican,R4,Spanish language,0.260961538,NA
+B12635A,medical biochemistry,C7,medical biochemistry,0,NA
+B12636B,drama and education,W4,drama,0.245614035,NA
+B12638D,sociology,L3,sociology,0,NA
+B12654D,economics,L1,economics,0,NA
+B12661C,construction,K2,construction,0,NA
+B12675J,economics  spannish,L1,economics,0.175438596,NA
+B12694M,film and theatre,W3,musical theatre,0.219444444,NA
+B12702U,historyeducation,V1,history,0.1875,NA
+B12703V,combined   studies,Y0,combined studies,0.037037037,NA
+B12728E,english and related arts,Q3,English literature,0.210648148,NA
+B12738G,history,V1,history,0,NA
+B12746G,french and spanish,R1,French studies,0.231361231,NA
+B12768N,primary education,X3,primary education,0,NA
+B12769P,bio chemstry,C7,biochemistry,0.055555556,C7
+B12771H,business studies,N1,business studies,0,NA
+B12787R,business studies,N1,business studies,0,NA
+B12789T,mathematics,G1,mathematics,0,NA
+B12825E,opthalmic optics,L2,comparative politics,0.226388889,NA
+B12830B,personnel management,K2,construction management,0.209782609,NA
+B12846K,psycology,C8,psychology,0.033333333,C8
+B12849N,sociology,L3,sociology,0,NA
+B12858P,electronics,W3,electronic music,0.104166667,NA
+B12862K,joint welsh and social po,F3,photonics and optical physics,0.295114943,NA
+B12870K,midwifery,B7,midwifery,0,NA
+B12906E,accounting  finance,N4,accounting,0.157894737,NA
+B12908G,textile,W2,textile design,0.166666667,NA
+B12911B,economics,L1,economics,0,NA
+B12931F,building surveying,K2,building surveying,0,NA
+B12955P,dance and performong arts,W5,dance and culture,0.264072398,NA
+B12961M,modern chinese and japane,T6,modern Middle Eastern languages,0.251612903,NA
+B12967T,batchelor of medicine,B3,herbal medicine,0.217460317,NA
+B12970N,fine art,W1,fine art,0,NA
+B12977V,aeronautical engineering,H4,aeronautical engineering,0,NA
+B12990S,business administration a,N1,business and management,0.221352657,NA
+B12994W,pharmacology,B2,pharmacology,0,NA
+B12996Y,business economics and ac,N1,business economics,0.093333333,NA
+B13012D,german with history,V1,German history,0.135338346,NA
+B13015G,mediacommunication studi,P3,media and communication studies,0.193324373,P3
+B13017J,enviromental science,F7,environmental sciences,0.13030303,NA
+B13031G,medicine,A0,medicine,0,A1
+B13033J,pharmacology,B2,pharmacology,0,NA
+B13045N,accounting,N4,accounting,0,NA
+B13046P,geography and computer sc,I1,geography,0.213333333,NA
+B13047Q,graphic design,W2,graphic design,0,NA
+B13049S,accounting,N4,accounting,0,NA
+B13054P,banking finqance and ret,N3,banking,0.236111111,NA
+B13056R,economics,L1,economics,0,NA
+B13057S,modern european studies,T0,modern Middle Eastern studies,0.23025987,R8
+B13058T,historygeography,V1,history,0.1875,NA
+B13082T,occupational therapy,B9,occupational therapy,0,NA
+B13088Z,geographyart and design,L7,geography,0.202898551,NA
+B13101D,geography,L7,geography,0,NA
+B13117M,american studies literat,T7,American studies,0.111111111,NA
+B13126N,mathematics,G1,mathematics,0,NA
+B13129R,history and classics,V1,history,0.216666667,NA
+B13133M,chemistry and physics,F1,chemistry,0.19047619,F1
+B13146S,devinity,V6,divinity,0.178571429,NA
+B13150N,quality management,H7,quality management,0,NA
+B13151P,hotel and catering manage,B7,health and social care,0.265050505,N8
+B13153R,historicalpolitical stud,Q1,historical linguistics,0.218013468,NA
+B13181V,computing,I1,conducting,0.174074074,NA
+B13182W,mathematics and french,R1,mathematics,0.166666667,NA
+B13184Y,fashion and textiles,W2,fashion design,0.191758242,W2
+B13187B,management studies with r,N2,management studies,0.093333333,NA
+B13191X,american  studies,T7,American studies,0.019607843,NA
+B13194A,pathology,B1,pathology,0,NA
+B13205L,mathematics,G1,mathematics,0,NA
+B13264X,music and religious educa,W3,music education and teaching,0.23984127,NA
+B13270V,agriculture and land mana,D4,agriculture,0.186666667,D4
+B13279E,economics,L1,economics,0,NA
+B13323R,economics,L1,economics,0,NA
+B13339Z,frenchdrama,R1,French language,0.246464646,NA
+B13358C,accounting and management,N4,accounting,0.2,NA
+B13361X,software engineering,I3,software engineering,0,NA
+B13381B,mechanical engineering,H3,mechanical engineering,0,NA
+B13386G,integrated studies,Y0,negotiated studies,0.086056645,NA
+B13406T,psychology,C8,psychology,0,NA
+B13407U,batch of education,X3,further education,0.260767555,NA
+B13409W,theology,V6,theology,0,NA
+B13412R,computer science,I1,computer science,0,NA
+B13413S,mechanical engineering,H3,mechanical engineering,0,NA
+B13488M,english literature,Q3,English literature,0,NA
+B13489N,englishfrench,R1,English history,0.272934473,NA
+B13495L,business education,N1,business computing,0.166666667,NA
+B13504U,ecomics and politics,L1,economic policy,0.250854701,NA
+B13518A,property valuation and fi,N2,property valuation and auctioneering,0.124444444,NA
+B13523X,architecture,K1,architecture,0,NA
+B13540Y,english,Q3,English law,0.121212121,NA
+B13559K,education geography,L7,political geography,0.184795322,NA
+B13561D,business studies and psyc,N1,business studies,0.12,NA
+B13565H,biology,C1,biology,0,NA
+B13574J,nursing,B7,nursing,0,NA
+B13582J,construction management,K2,construction management,0,NA
+B13591K,financila services,N3,financial risk,0.180504681,NA
+B13608B,engineering with technolo,F6,engineering geology,0.172631579,NA
+B13613Y,social studies,L0,Polish studies,0.136904762,NA
+B13619E,germanspanish,R2,German studies,0.221611722,NA
+B13662H,physics,F3,physics,0,NA
+B13666M,english,Q3,English law,0.121212121,NA
+B13669Q,pharmacy,B2,pharmacy,0,NA
+B13671J,chemical process engineer,D6,cereal science,0.23,NA
+B13676P,illustration,W2,illustration,0,NA
+B13700W,woven textiles,B4,dietetics,0.301587302,NA
+B13716E,french and linguistics,R1,French studies,0.211455211,NA
+B13719H,art,N5,marketing,0.222222222,NA
+B13727H,psychology,C8,psychology,0,NA
+B13733F,english with media studie,Q3,English literature,0.188888889,NA
+B13735H,history and politics,V1,history of art,0.208730159,NA
+B13736J,design and technoloigy ed,J9,emergency and disaster technologies,0.243095238,NA
+B13743H,combined english and art,Q3,combined studies,0.266559829,NA
+B13756N,architectural visualisati,K1,architectural design,0.2075,NA
+B13759R,fine arts,W1,fine art,0.037037037,NA
+B13767R,computing science,I1,mapping science,0.122875817,NA
+B13770L,science and the enviromen,W2,interactive and electronic design,0.295050505,NA
+B13772N,chemistry with business s,N1,chemistry,0.213333333,NA
+B13788W,busiunees studies,N1,business studies,0.16004902,NA
+B13797X,computer science,I1,computer science,0,NA
+B13800Z,bachelor of accountancy,N4,public accountancy,0.282608696,NA
+B13853N,computor science,I1,computer science,0.141666667,NA
+B13855Q,politics,L2,politics,0,NA
+B13860M,mathematics and managment,G1,mathematics,0.186666667,G1
+B13864R,psychology,C8,psychology,0,NA
+B13874T,electonic engineering,H6,electronic engineering,0.015151515,NA
+B13877W,economics,L1,economics,0,NA
+B13921H,geography ba,L7,geography,0.083333333,NA
+B13927P,hotel  catering manageme,D4,heritage management,0.209795322,N8
+B13931K,nursing,B7,nursing,0,NA
+B13934N,law,M0,law,0,NA
+B13935P,business information syst,N1,business information systems,0.035714286,NA
+B13937R,marketing,N5,marketing,0,NA
+B13943P,bachelor of education,D4,crop production,0.237301587,NA
+B13957V,politics and history,V1,politics,0.2,NA
+B13970S,civil engineering,H2,civil engineering,0,NA
+B13982W,chemistry and business ad,N1,chemistry,0.213333333,NA
+B13986A,computer science,I1,computer science,0,NA
+B13988C,re,D6,brewing,0.238095238,V6
+B14005J,law with history,V1,ancient history,0.238510101,NA
+B14017N,dance studies,W3,gender studies,0.153013653,W5
+B14018P,mechanical engineering,H3,mechanical engineering,0,NA
+B14021J,electronic electriacl en,H6,electronic engineering,0.212195484,NA
+B14045S,computer sciences,I1,computer science,0.019607843,NA
+B14057W,business admin,N1,business law,0.150793651,NA
+B14063U,leisure management,N8,tourism management,0.177777778,NA
+B14072V,ba ed hist geog,A3,obstetrics and gynaecology,0.288034188,V1
+B14083Y,education with english an,Q3,education studies,0.241204482,NA
+B14084Z,graphic design,W2,graphic design,0,NA
+B14098F,computer science,I1,computer science,0,NA
+B14101H,engineering,H0,engineering design,0.12962963,NA
+B14102J,accounting,N4,accounting,0,NA
+B14108Q,computing,I1,conducting,0.174074074,NA
+B14110J,music,W3,music,0,NA
+B14112L,history,V1,history,0,NA
+B14132Q,politics,L2,politics,0,NA
+B14139X,psychology,C8,psychology,0,NA
+B14146W,business studies,N1,business studies,0,NA
+B14149Z,food science economics ad,D6,food science,0.173333333,NA
+B14155X,law,M0,law,0,NA
+B14175B,the built environment,F1,environmental chemistry,0.305814355,NA
+B14178E,music,W3,music,0,NA
+B14180Y,politics,L2,politics,0,NA
+B14184C,medical media,P3,digital media,0.153846154,NA
+B14206R,european business and fre,N1,European business studies,0.133333333,NA
+B14224T,zoo ology,C3,zoology,0.121693122,NA
+B14237Y,land economics,L1,economics,0.193121693,NA
+B14253Y,sociology  social physco,C8,social psychology,0.195261438,NA
+B14270Z,engineering  surveying,H2,engineering surveying,0.015151515,NA
+B14278H,sociology and sports scie,L3,sociology,0.213333333,L3
+B14283E,english,Q3,English law,0.121212121,NA
+B14310Q,humanities,V1,humanities,0,NA
+B14326Y,english literaturelang,Q3,English literature,0.060606061,NA
+B14330U,gaelicfrench,R1,general science,0.266666667,NA
+B14336A,business studies,N1,business studies,0,NA
+B14353B,information technoloigy,I1,information technology,0.014492754,I1
+B14380E,computing science,I1,mapping science,0.122875817,NA
+B14384J,history,V1,history,0,NA
+B14400R,medicine,A0,medicine,0,A1
+B14415Y,statistics,G3,statistics,0,NA
+B14421W,geography,L7,geography,0,NA
+B14431Y,construction mgt,K2,construction,0.083333333,NA
+B14460D,applied social studies,L3,applied social science,0.121212121,L3
+B14464H,english  physical educat,Q3,English studies,0.248504274,NA
+B14466K,bachelor of education,D4,crop production,0.237301587,NA
+B14476M,govermmentpolitics,H1,bioelectronics,0.261664262,L2
+B14490K,enviromental science,F7,environmental sciences,0.13030303,NA
+B14492M,english literature and dr,Q3,English literature,0.093333333,NA
+B14497S,electronic imaging and me,H6,electronic engineering,0.190976431,NA
+B14503X,computer science,I1,computer science,0,NA
+B14510W,building surveying,K2,building surveying,0,NA
+B14511X,geography,L7,geography,0,NA
+B14541D,humanities,V1,humanities,0,NA
+B14553H,geology,F6,geology,0,F6
+B14554J,podiatry,B1,podiatry,0,NA
+B14558N,history  archaeology,V1,history,0.216666667,V1
+B14559P,time based media,I6,computer games design,0.295634921,NA
+B14571K,bachelor of nursing,B7,school nursing,0.193175246,NA
+B14584Q,nursing,B7,nursing,0,NA
+B14592Q,design and applied techno,W2,design,0.253333333,NA
+B14595T,batchelor of engineering,H8,nuclear engineering,0.161721706,NA
+B14596U,economics and law,L1,economics,0.156862745,NA
+B14613C,art,N5,marketing,0.222222222,NA
+B14625G,business studies,N1,business studies,0,NA
+B14630D,law,M0,law,0,NA
+B14648P,economics and business fi,N1,economics,0.213333333,NA
+B14651J,business studies,N1,business studies,0,NA
+B14664P,health studies,B9,health studies,0,B9
+B14672P,fine art,W1,fine art,0,NA
+B14689Y,business computing system,N1,business computing,0.093333333,NA
+B14690R,combined studies,Y0,combined studies,0,NA
+B14694V,computer science,I1,computer science,0,NA
+B14698Z,biology,C1,biology,0,NA
+B14699A,mechanical engineering,H3,mechanical engineering,0,NA
+B14710C,financial economics,L1,financial economics,0,NA
+B14723H,economics and industrial,L1,economics,0.208333333,NA
+B14758U,architecture,K1,architecture,0,NA
+B14762Q,psychologybusiness admin,N1,psychology,0.194444444,NA
+B14779Z,history,V1,history,0,NA
+B14797B,business administration,N1,business information systems,0.222049689,NA
+B14812H,dietetetics,B4,dietetics,0.060606061,NA
+B14821J,combined arts,Y0,combined studies,0.185751748,W0
+B14830K,geography  education,L7,geography,0.183333333,NA
+B14839U,q8uantity surveying,K2,quantity surveying,0.01754386,NA
+B14847U,chemistry,F1,chemistry,0,NA
+B14890X,media and management,D3,animal management,0.138357843,NA
+B14903K,history,V1,history,0,NA
+B14906N,nutrition and dietetics,B4,nutrition,0.202898551,NA
+B14907P,geography,L7,geography,0,NA
+B14910J,biochemistry,F6,biochemistry,0,NA
+B14923P,biomedical science,F1,biomedical sciences,0.01754386,NA
+B14936U,american studies,T7,American studies,0,T7
+B14938W,graphic design,W2,graphic design,0,NA
+B14939X,electronics,W3,electronic music,0.104166667,NA
+B14940Q,eleccalelecic enging,H3,electromechanical engineering,0.22458493,NA
+B14944U,economics  social scienc,L1,economics,0.208333333,NA
+B14948Y,applied chemistry,F1,applied chemistry,0,NA
+B14955X,classical civilisation,Q8,classical reception,0.198458267,NA
+B14961V,civil engineering,H2,civil engineering,0,NA
+B14962W,accounting and finance,N4,accounting,0.181818182,NA
+B14976C,combined studies,Y0,combined studies,0,NA
+B14979F,pharmacy,B2,pharmacy,0,NA
+B14981Z,mathematics,G1,mathematics,0,NA
+B14993D,english and history,V1,English history,0.070175439,NA
+B14996G,physics,F3,physics,0,NA
+B15006P,physics,F3,physics,0,NA
+B15007Q,information  library stu,I2,information systems,0.217397661,P1
+B15009S,economics and sociology,L1,economic policy,0.176466529,NA
+B15024R,construction management,K2,construction management,0,NA
+B15028V,toxicology,B2,toxicology,0,NA
+B15029W,textiles and fashion embr,W2,textile design,0.290396825,NA
+B15044V,business admin and french,N1,business and management,0.202834138,NA
+B15053W,english lit and language,Q3,English language,0.142361111,NA
+B15056Z,bi0chemistry,C7,biochemistry,0.055555556,C7
+B15080Z,languages,T6,Arabic languages,0.238425926,NA
+B15094F,environmental science,F7,environmental sciences,0.015151515,NA
+B15111P,urban estate management,D4,rural estate management,0.07384403,NA
+B15113R,french with sport,R1,French history,0.153522948,NA
+B15124U,drama,W4,drama,0,NA
+B15128Y,mechanical engineering,H3,mechanical engineering,0,NA
+B15148C,business studies,N1,business studies,0,NA
+B15155B,radiography,B8,hydrography,0.158249158,NA
+B15169H,medicine mb bch,A0,medicine,0.155555556,A1
+B15171B,graphic design,W2,graphic design,0,NA
+B15190E,ophthalmic optics,B5,ophthalmic dispensing,0.205648926,NA
+B15194J,business administrration,N1,business information systems,0.234126984,NA
+B15199P,quantity surveying,K2,quantity surveying,0,NA
+B15208X,law,M0,law,0,NA
+B15221U,history and education,V1,secondary education,0.157403312,NA
+B15223W,business studies,N1,business studies,0,NA
+B15224X,construction management,K2,construction management,0,NA
+B15226Z,politics and government,L1,politics,0.217391304,L1
+B15247E,english and sociology,Q3,applied sociology,0.190009337,NA
+B15255E,chemistry,F1,chemistry,0,NA
+B15265G,graphic design animation,W2,graphic design,0.138888889,NA
+B15270D,music in education,W3,music education and teaching,0.23015873,NA
+B15271E,modern languages,R0,modern languages,0,R0
+B15277L,cell biology,C1,cell biology,0,NA
+B15284K,historymedia studies,V1,history,0.216666667,NA
+B15286M,bachlor of education,D4,crop production,0.227777778,NA
+B15287N,applied social studies,L3,applied social science,0.121212121,L3
+B15297Q,religion,V6,religious writings,0.185185185,NA
+B15303V,computer science,I1,computer science,0,NA
+B15309B,chemistry,F1,chemistry,0,NA
+B15324A,welsh  linguistics,Q1,psycholinguistics,0.209485504,NA
+B15328E,biology,C1,biology,0,NA
+B15339H,medical science,B1,medical sciences,0.020833333,B1
+B15342C,podiatric medicineNA,P3,digital media,0.231585082,NA
+B15350C,medieval history,V1,medieval history,0,NA
+B15369P,englishreligious studies,Q3,English studies,0.213888889,NA
+B15374L,biological sciences,C0,biological sciences,0,NA
+B15380J,bs c,I1,business computing,0.259259259,Y1
+B15386Q,aeronautical and astrolog,H4,aeronautical engineering,0.251944444,NA
+B15390L,history,V1,history,0,NA
+B15407C,accountancy and finance,N4,accountancy,0.173913043,NA
+B15433E,modern history,V1,modern history,0,NA
+B15436H,german,R2,German studies,0.19047619,R2
+B15440D,german and russian studie,R2,Salman Rushdie studies,0.237272727,NA
+B15445J,analytical  applied chem,F1,analytical chemistry,0.229861111,NA
+B15449N,economics,L1,economics,0,NA
+B15451G,religios studies with eng,V6,religious studies,0.191691176,NA
+B15454K,classics,J4,classical studies,0.176470588,NA
+B15479U,buisness studies,N1,business studies,0.020833333,NA
+B15493S,engineering,H0,engineering design,0.12962963,NA
+B15498X,business economics and fi,N1,business economics,0.093333333,NA
+B15538N,law,M0,law,0,NA
+B15540G,textile design,W2,textile design,0,NA
+B15545M,physics with medical phys,B1,physiotherapy,0.237948718,NA
+B15555P,trnasport management and,N8,hospitality management,0.221999406,NA
+B15566S,biological scince,C0,biological sciences,0.064499484,NA
+B15578W,business studies,N1,business studies,0,NA
+B15586W,computing,I1,conducting,0.174074074,NA
+B15596Y,mathematics,G1,mathematics,0,NA
+B15600B,applied chemistry,F1,applied chemistry,0,NA
+B15606H,sports studies in sport,C6,sports studies,0.130434783,NA
+B15607J,politics,L2,politics,0,NA
+B15608K,theology and pastoral stu,V6,theology and religious studies,0.193015873,NA
+B15615J,architecture,K1,architecture,0,NA
+B15622H,civil instructural engine,H6,digital circuit engineering,0.278201058,NA
+B15623J,goegraphy,L7,geography,0.037037037,NA
+B15624K,electrical engineering,H6,electrical engineering,0,NA
+B15665U,theology,V6,theology,0,NA
+B15666V,business and finance,N1,business and management,0.176172208,NA
+B15675W,archecture,K1,architecture,0.105555556,NA
+B15687A,business management,N1,business and management,0.128146453,NA
+B15704J,geography,L7,geography,0,NA
+B15716N,electrical and electronic,H6,electrical and electronic engineering,0.108108108,H6
+B15738U,bsc quantity surveying,K2,quantity surveying,0.143939394,NA
+B15745T,geography,L7,geography,0,NA
+B15752S,animal ssciences,D3,animal science,0.041666667,NA
+B15753T,electronics and communica,W3,electronic music,0.1825,NA
+B15757X,theology and education,X3,secondary education,0.185207337,NA
+B15767Z,eng lit and sociolgy,L3,applied sociology,0.230252101,NA
+B15781X,music,W3,music,0,NA
+B15805N,computer studies,I1,computer science,0.166666667,NA
+B15820M,british economic and soci,Q1,British Sign Language studies,0.266066411,NA
+B15835U,social scince,L0,social sciences,0.082905983,L0
+B15839Y,agricultural business,N1,agricultural sciences,0.113756614,NA
+B15841S,biology,C1,biology,0,NA
+B15850T,economics with acc  fina,L1,economics,0.208333333,NA
+B15851U,biology,C1,biology,0,NA
+B15852V,tropical environmental sc,F7,applied environmental sciences,0.256507937,NA
+B15857A,electrical and electronic,H6,electrical and electronic engineering,0.108108108,H6
+B15869E,residential dev,V2,Iberian studies,0.283838384,NA
+B15893E,sociology,L3,sociology,0,NA
+B15894F,management studies,N2,management studies,0,NA
+B15897J,accountancy,N4,accountancy,0,NA
+B15904Q,mechanical engineering,H3,mechanical engineering,0,NA
+B15914S,mechanical engineering,H3,mechanical engineering,0,NA
+B15915T,english and modern studie,Q3,English as a second language,0.239774436,NA
+B15918W,nursing professional prac,B7,nursing,0.24,B7
+B15924U,eng with qualified teach,W2,web and multimedia design,0.311732026,NA
+B15928Y,accountancy,N4,accountancy,0,NA
+B15929Z,chemistry,F1,chemistry,0,NA
+B15959F,mathematics,G1,mathematics,0,NA
+B15982E,history and english,V1,history of design,0.176057792,NA
+B16001N,engineering product desig,H1,engineering design,0.125185185,NA
+B16032V,social policy,L4,social policy,0,NA
+B16044Z,combined mathematicspsychology,C1,community ecology,0.248080065,NA
+B16047C,countryside management,D4,countryside management,0,D4
+B16070B,business  computer studi,N1,business computing,0.148148148,NA
+B16082F,physics and music,F3,physics,0.196078431,NA
+B16084H,drama,W4,drama,0,NA
+B16093J,politics,L2,politics,0,NA
+B16095L,applied social sciences,L3,applied social science,0.014492754,L3
+B16103T,food and catering managem,W5,dance,0.266666667,NA
+B16127B,economics,L1,economics,0,NA
+B16128C,biological sciences,C0,biological sciences,0,NA
+B16146E,geography,L7,geography,0,NA
+B16149H,modern studies,T4,Korean studies,0.123015873,NA
+B16152C,economics,L1,economics,0,NA
+B16154E,instumentation and contro,W3,instrumental or vocal performance,0.29158958,NA
+B16158J,geography,L7,geography,0,NA
+B16181H,education,X0,education policy,0.145833333,NA
+B16210V,applied ecology,C1,applied biology,0.088888889,F7
+B16219E,business studies,N1,business studies,0,NA
+B16255J,biochemistry,F6,biochemistry,0,NA
+B16262H,mathematics and economics,G1,mathematics,0.186666667,G1
+B16265L,primary education,X3,primary education,0,NA
+B16266M,graphic design,W2,graphic design,0,NA
+B16267N,biochemistry,F6,biochemistry,0,NA
+B16278R,mechanical engineering,H3,mechanical engineering,0,NA
+B16280K,accounting,N4,accounting,0,NA
+B16287S,mathematics,G1,mathematics,0,NA
+B16303Z,american studies,T7,American studies,0,T7
+B16304A,business law,N1,business law,0,NA
+B16307D,financial services,N3,financial risk,0.154863655,NA
+B16322C,interior designs,W2,interior design and architecture,0.197916667,NA
+B16323D,geography,L7,geography,0,NA
+B16339M,educationteaching,X1,adult education teaching,0.195261438,NA
+B16361K,finance,N3,finance,0,NA
+B16370L,metals jewellery design,W7,metal work,0.284057971,W7
+B16395V,business studiesmarketin,N1,business studies,0.111111111,NA
+B16397X,business studies,N1,business studies,0,NA
+B16405E,ecology and greography,F6,geological oceanography,0.216403162,NA
+B16413E,engineering and business,N1,engineering design,0.145152505,NA
+B16419L,fine art,W1,fine art,0,NA
+B16433J,computer studies,I1,computer science,0.166666667,NA
+B16437N,economics and politics,L1,economic policy,0.143434343,NA
+B16445N,geography,L7,geography,0,NA
+B16446P,in business administratio,N1,business information systems,0.295396825,NA
+B16457S,nurceing,B7,nursing,0.130952381,NA
+B16469W,marketing,N5,marketing,0,NA
+B16475U,manufacturing engineering,H7,manufacturing engineering,0,NA
+B16478X,business studies,N1,business studies,0,NA
+B16479Y,german and music,R2,German studies,0.205898268,NA
+B16482T,politics and law,L2,politics,0.166666667,L2
+B16486X,marine biology and oceano,C1,marine biology,0.146666667,NA
+B16489A,social science,F7,social sciences,0.022222222,L0
+B16493W,devevopmental biolagy,C1,developmental biology,0.177527151,NA
+B16501D,computer science,I1,computer science,0,NA
+B16511F,psychology,C8,psychology,0,NA
+B16524L,social work,L5,social work,0,NA
+B16532L,history,V1,history,0,NA
+B16545R,music,W3,music,0,NA
+B16551P,geography,L7,geography,0,NA
+B16561R,quantity surveying,K2,quantity surveying,0,NA
+B16565V,business with languages,N1,business law,0.201086957,NA
+B16570S,modern languages french,R1,modern languages,0.101449275,NA
+B16589D,cell and molecular biolog,C7,molecular biology,0.27502451,C7
+B16598E,quantity surveying,K2,quantity surveying,0,NA
+B16613L,psychology,C8,psychology,0,NA
+B16614M,electrical and electronic,H6,electrical and electronic engineering,0.108108108,H6
+B16621L,quantity surveying,K2,quantity surveying,0,NA
+B16625Q,environmental sciences,F7,environmental sciences,0,NA
+B16630M,industrial chemistry,F1,industrial chemistry,0,NA
+B16632P,communications enginearin,H6,mining engineering,0.211111111,NA
+B16633Q,civil engineering,H2,civil engineering,0,NA
+B16634R,dualhonst,B2,drug and alcohol studies,0.263888889,Y1
+B16636T,building surveying,K2,building surveying,0,NA
+B16641Q,engineering electronics,H1,engineering design,0.159319646,NA
+B16649Y,ordinary social science,L3,applied social science,0.188625384,L0
+B16654V,law llb,M1,law,0.19047619,M1
+B16659A,health studies,B9,health studies,0,B9
+B16663W,law,M0,law,0,NA
+B16670V,english german,R2,English law,0.17965368,NA
+B16671W,applied chemistry,F1,applied chemistry,0,NA
+B16679E,english and politics,Q3,English law,0.23030303,NA
+B16686D,mathematics,G1,mathematics,0,NA
+B16690Z,econ,L1,economics,0.185185185,NA
+B16696F,applied biology,C1,applied biology,0,NA
+B16711M,social sciences,L0,social sciences,0,L0
+B16713P,manufacturing systems and,H7,manufacturing engineering,0.24,NA
+B16750U,combined german and psych,R2,complementary medicines and therapies,0.268734822,NA
+B16752W,english lit,Q3,English law,0.121212121,NA
+B16756A,graphic design,W2,graphic design,0,NA
+B16780A,phyysical education,F0,physical sciences,0.222156069,C6
+B16812R,control instrumentation a,K2,construction management,0.252006102,NA
+B16814T,medicine,A0,medicine,0,A1
+B16827Y,history,V1,history,0,NA
+B16840V,management studies,N2,management studies,0,NA
+B16850X,fine art,W1,fine art,0,NA
+B16854B,european studies,R8,European studies,0,NA
+B16861A,bio physics and molecular,R7,Polish society and culture,0.244420024,NA
+B16865E,philosophy,V5,philosophy,0,NA
+B16866F,electricelectronic engin,H6,electrical engineering,0.144191919,NA
+B16874F,social sciences,L0,social sciences,0,L0
+B16875G,history,V1,history,0,NA
+B16878K,social policy and admin,L4,social policy,0.144927536,NA
+B16879L,textile and knitwear tech,W2,textile design,0.262619048,NA
+B16880D,history,V1,history,0,NA
+B16881E,business studies,N1,business studies,0,NA
+B16884H,history  education,V1,history of design,0.180516651,NA
+B16898P,fashion and textiles,W2,fashion design,0.191758242,W2
+B16930W,education,X0,education policy,0.145833333,NA
+B16932Y,social  political studie,L4,social policy,0.192307692,NA
+B16933Z,manfacturing engineering,H7,manufacturing engineering,0.048055556,NA
+B16942A,ecconomics with ecconomic,V3,economic history,0.307380952,NA
+B16943B,economics and accounts,L1,economics,0.196969697,NA
+B16944C,transport management,N8,hospitality management,0.174777184,NA
+B16980G,english literature,Q3,English literature,0,NA
+B16984L,applied physics and elect,F3,applied physics,0.133333333,NA
+B17002T,european business adminis,N1,European business studies,0.13047619,NA
+B17005W,three d ceramic design,H6,integrated circuit design,0.237272727,NA
+B17014X,mathamaticscomputing,I1,mathematics,0.23030303,NA
+B17021W,hnc in retail exhibition,B1,neurological rehabilitation,0.324074074,N2
+B17036D,sports studies,C6,sports studies,0,NA
+B17060D,medicine,A0,medicine,0,A1
+B17097S,mathematics,G1,mathematics,0,NA
+B17098T,german,R2,German studies,0.19047619,R2
+B17105Z,geography,L7,geography,0,NA
+B17114A,fine art,W1,fine art,0,NA
+B17124C,economics,L1,economics,0,NA
+B17162J,psychology,C8,psychology,0,NA
+B17175P,electrical and electronic,H6,electrical and electronic engineering,0.108108108,H6
+B17182N,community studies,L5,community justice,0.111764706,NA
+B17186S,business studies and mark,N1,business studies,0.12,NA
+B17195T,english and classics,Q3,English law,0.23030303,NA
+B17210Z,electronic engineering,H6,electronic engineering,0,NA
+B17211A,humanities,V1,humanities,0,NA
+B17212B,statistics,G3,statistics,0,NA
+B17226H,graphic design,W2,graphic design,0,NA
+B17232F,accounting and finance,N4,accounting,0.181818182,NA
+B17241G,englishhistory and frenc,V1,English history,0.213888889,NA
+B17267S,psychology sociology,C8,psychology,0.166666667,NA
+B17269U,housing and development,K4,housing,0.231884058,K4
+B17278V,pharmaceutical science,F1,pharmaceutical chemistry,0.141214779,NA
+B17290R,ancient history,V1,ancient history,0,NA
+B17295W,aerospace engineering,H4,aerospace engineering,0,NA
+B17297Y,business and finance,N1,business and management,0.176172208,NA
+B17320E,business studies with,N1,business studies,0.079365079,NA
+B17321F,business computing with f,N1,business computing,0.093333333,NA
+B17326L,film  radio and televisi,W2,interactive and electronic design,0.29520202,NA
+B17334L,religious education,V6,religious studies,0.16494668,NA
+B17348S,financial services,N3,financial risk,0.154863655,NA
+B17361P,accounts,N4,accounting,0.141666667,NA
+B17376W,chemistry,F1,chemistry,0,NA
+B17380S,estate management,W4,creative management,0.131613347,NA
+B17392W,psycholoogy,C8,psychology,0.03030303,NA
+B17404H,law,M0,law,0,NA
+B17411G,business studies,N1,business studies,0,NA
+B17413J,electronic and electrical,H6,electrical and electronic engineering,0.161441441,H6
+B17417N,computer science,I1,computer science,0,NA
+B17437S,mechanical engineering,H3,mechanical engineering,0,NA
+B17471U,english,Q3,English law,0.121212121,NA
+B17475Y,science with management s,N8,event management,0.198611111,NA
+B17479C,law,M0,law,0,NA
+B17497E,industrial economics,F1,industrial chemistry,0.154166667,NA
+B17506N,buisiness information sys,I2,business information systems,0.165119048,P1
+B17516Q,manufacturing engineering,H7,manufacturing engineering,0,NA
+B17518S,english,Q3,English law,0.121212121,NA
+B17521M,computing science,I1,mapping science,0.122875817,NA
+B17523P,acounting and finance,N4,accounting,0.223809524,NA
+B17529V,quantity surveying,K2,quantity surveying,0,NA
+B17532Q,history of art and archit,V1,history of art,0.146666667,NA
+B17534S,physics,F3,physics,0,NA
+B17536U,graphic design,W2,graphic design,0,NA
+B17540Q,media and art studies,T7,Latin American studies,0.200817701,P3
+B17552U,engineering manufacturin,H2,engineering surveying,0.232142857,NA
+B17555X,textile design,W2,textile design,0,NA
+B17556Y,occupational psychology,C8,occupational psychology,0,NA
+B17558A,criminal justice,L4,criminal justice,0,NA
+B17565Z,medaeval  modern history,V1,modern history,0.198412698,NA
+B17587F,accountancy and finance,N4,accountancy,0.173913043,NA
+B17594E,zoology and physiology,C3,zoology,0.227272727,C3
+B17614R,mathematics,G1,mathematics,0,NA
+B17621Q,theology,V6,theology,0,NA
+B17631S,european language,R2,German language,0.122875817,NA
+B17636X,mathematics,G1,mathematics,0,NA
+B17659E,primary teaching,X1,primary teaching,0,NA
+B17703R,hispanic studies,V6,Islamic studies,0.106944444,NA
+B17718Y,acconomics,L1,economics,0.103703704,NA
+B17738C,geography  geology,L7,geography,0.166666667,NA
+B17745B,ba in qts hoins in physic,W1,painting,0.336666667,NA
+B17767H,bed,Y0,combined studies,0.270833333,X0
+B17774G,law,M0,law,0,NA
+B17788N,medicine and surgery,A0,medicine,0.2,A1
+B17797P,french and linguistics,R1,French studies,0.211455211,NA
+B17798Q,applied geology,F6,applied geology,0,F6
+B17799R,ba history,V1,history,0.1,NA
+B17809A,sociology,L3,sociology,0,NA
+B17812V,modern languages  french,R1,modern languages,0.111111111,NA
+B17833A,geograpy,L7,geography,0.037037037,NA
+B17837E,economics,L1,economics,0,NA
+B17838F,european business adminis,N1,European business studies,0.13047619,NA
+B17851C,electronic engineering,H6,electronic engineering,0,NA
+B17858K,psychology,C8,psychology,0,NA
+B17860D,business studies,N1,business studies,0,NA
+B17861E,ecology and environmental,C1,ecology,0.24,NA
+B17873J,computer science,I1,computer science,0,NA
+B17875L,business studies,N1,business studies,0,NA
+B17883L,env studies,R1,French studies,0.125541126,F7
+B17901V,mathematics major with a comput,I1,mathematics,0.215053763,NA
+B17909D,history,V1,history,0,NA
+B17911X,microbiology,C1,microbiology,0,NA
+B17912Y,french linguistics,R1,French studies,0.214285714,NA
+B17921Z,physics,F3,physics,0,NA
+B17932C,art,N5,marketing,0.222222222,NA
+B17936G,french studies,R1,French studies,0,NA
+B17946J,accounting finance  ec,N4,accounting,0.181818182,NA
+B17950E,architecture,K1,architecture,0,NA
+B17963K,sovieteastr euro studies,Q3,Robert Louis Stevenson studies,0.236594203,NA
+B17986S,bat of  educat,X3,adult education,0.252380952,NA
+B18003Y,building services enginee,H1,building services engineering,0.045977011,H1
+B18025E,building surveying,K2,building surveying,0,NA
+B18031C,management science,N2,management studies,0.148148148,NA
+B18035G,jewellery design and craf,W2,design,0.308888889,NA
+B18044H,systems engineering,H6,systems engineering,0,NA
+B18051G,medicine,A0,medicine,0,A1
+B18069S,european business adminis,N1,European business studies,0.13047619,NA
+B18080M,education,X0,education policy,0.145833333,NA
+B18092R,community nursing,B7,community nursing,0,NA
+B18098X,environmental health,B9,environmental chemistry,0.136956522,NA
+B18104C,hispanic studiespolitics,V6,Islamic studies,0.197222222,NA
+B18105D,business studies,N1,business studies,0,NA
+B18110A,applied biology,C1,applied biology,0,NA
+B18112C,fine art valuation,W1,fine art,0.185185185,NA
+B18118J,business studies,N1,business studies,0,NA
+B18120C,leisure management,N8,tourism management,0.177777778,NA
+B18136L,arttextile design,W2,textile design,0.094537815,NA
+B18150J,enviromental studies,F7,environmental sciences,0.15516934,NA
+B18152L,law,M0,law,0,NA
+B18156Q,politics,L2,politics,0,NA
+B18176U,podiatry,B1,podiatry,0,NA
+B18193V,medicine and surgery,A0,medicine,0.2,A1
+B18200B,business studies,N1,business studies,0,NA
+B18202D,product design,W2,product design,0,NA
+B18243N,community nursing,B7,community nursing,0,NA
+B18257U,bsc in mathematics and computin,I1,computer animation and visual effects,0.28595757,NA
+B18260P,agricultural and enviromn,D4,agricultural machinery,0.178086124,NA
+B18264T,politics,L2,politics,0,NA
+B18266V,film and literature,Q2,Latin literature,0.146564327,P3
+B18267W,earth sciences,F6,earth sciences,0,NA
+B18273U,education and science,X0,education studies,0.193744164,X1
+B18307M,agriculture,D4,agriculture,0,NA
+B18335R,applied chemistry,F1,applied chemistry,0,NA
+B18338U,computing,I1,conducting,0.174074074,NA
+B18349X,elentronic engineering,H6,electronic engineering,0.117604618,NA
+B18356W,organic chemistry,F1,organic chemistry,0,NA
+B18375Z,spanish  psychology,C2,plant physiology,0.188909774,NA
+B18387D,social science,F7,social sciences,0.022222222,NA
+B18389F,botany,C2,astronomy,0.27037037,NA
+B18390Y,accountancy,N4,accountancy,0,NA
+B18391Z,history,V1,history,0,NA
+B18399H,business studies andfrenc,N1,business studies,0.12,NA
+B18402K,accountancy,N4,accountancy,0,NA
+B18418T,archeology and history,V1,oil and gas chemistry,0.26670062,NA
+B18422P,bichemistry and genitics,C7,biochemistry,0.208333333,C7
+B18437W,law,M0,law,0,NA
+B18487G,chemistry,F1,chemistry,0,NA
+B18488H,ecology,C1,ecology,0,NA
+B18493E,economics,L1,economics,0,NA
+B18507T,electronic engin eering,H6,electronic engineering,0.014492754,NA
+B18508U,english literatura and la,Q3,English literature,0.125185185,NA
+B18513R,business administartion,N1,business information systems,0.222049689,NA
+B18515T,environmental management,D4,environmental management,0,NA
+B18527X,english and politics,Q3,English law,0.23030303,NA
+B18532U,business studies,N1,business studies,0,NA
+B18543X,business studies,N1,business studies,0,NA
+B18546A,english,Q3,English law,0.121212121,NA
+B18549D,land economy law,M1,European Union law,0.309553872,NA
+B18551X,education  business stud,N1,education studies,0.165849673,NA
+B18569H,business studies,N1,business studies,0,NA
+B18595K,mathematics with computing,I1,mathematics,0.192307692,NA
+B18597M,physical education and en,F0,physical sciences,0.241204482,C6
+B18598N,psychology,C8,psychology,0,NA
+B18609Y,french and computer scien,R1,French society and culture,0.220610501,NA
+B18614V,biology,C1,biology,0,NA
+B18632X,german,R2,German studies,0.19047619,R2
+B18641Y,graduate diploma of music,H6,computer animation and visual effects,0.275981199,W3
+B18647E,primary education,X3,primary education,0,NA
+B18650Z,business studies,N1,business studies,0,NA
+B18655E,risk management,N3,risk management,0,N3
+B18658H,chemistry and biology,C1,chemistry,0.19047619,NA
+B18663E,nursing studies,Q3,Ruskin studies,0.11953602,NA
+B18667J,mathematics and chemistery,G1,mathematics,0.192307692,G1
+B18673G,engineering,H0,engineering design,0.12962963,NA
+B18683J,business studies,N1,business studies,0,NA
+B18701T,teaching studies and,Q6,Latin studies,0.186752137,NA
+B18710U,primary education,X3,primary education,0,NA
+B18712W,history of art,V1,history of art,0,NA
+B18721X,french and business studi,N1,French studies,0.209450549,NA
+B18723Z,fashion design,W2,fashion design,0,W2
+B18725B,anatomical science,N3,actuarial science,0.128104575,NA
+B18731Z,communications systems e,L5,community justice,0.230882353,NA
+B18739H,history,V1,history,0,NA
+B18745F,enviromental pollution,C1,environmental biology,0.198073169,NA
+B18747H,human environmental scien,C4,human genetics,0.247912088,NA
+B18748J,sociology,L3,sociology,0,NA
+B18759M,physical education,F0,physical sciences,0.209485504,C6
+B18764J,animal science,D3,animal science,0,NA
+B18776N,NA,M0,finance,0.238095238,NA
+B18786Q,graphic information desig,W2,graphic arts,0.201111111,W2
+B18796S,building engineering,H1,building services engineering,0.170114943,H2
+B18802X,accounting and finance,N4,accounting,0.181818182,NA
+B18807C,cultural studies,P3,cultural studies,0,NA
+B18830B,human resourses,N6,human resource management,0.204444444,NA
+B18835G,architecture,K1,architecture,0,NA
+B18872M,classics,J4,classical studies,0.176470588,NA
+B18884R,english,Q3,English law,0.121212121,NA
+B18885S,civil engineering,H2,civil engineering,0,NA
+B18889W,political studies,P2,publicity studies,0.141456583,NA
+B18898X,business studies,N1,business studies,0,NA
+B18899Y,english,Q3,English law,0.121212121,NA
+B18910A,three dimensional design,J2,materials engineering,0.26984127,W2
+B18929M,art,N5,marketing,0.222222222,NA
+B18934J,landscape articecture,K3,landscape architecture and design,0.137085137,NA
+B18940G,business studies,N1,business studies,0,NA
+B18972Q,drama,W4,drama,0,NA
+B18981R,gallery studies,Y0,general studies,0.14017094,W9
+B18983T,zoology,C3,zoology,0,C3
+B18988Y,managerial and admin,N2,management and organisation of education,0.288157895,NA
+B18990S,enginerring,H0,engineering design,0.178451178,NA
+B19004D,applied chemistry,F1,applied chemistry,0,NA
+B19022F,englishsociology,Q3,forensic biology,0.222222222,NA
+B19028M,computer science,I1,computer science,0,NA
+B19035L,geogrsphy,L7,geography,0.074074074,NA
+B19036M,law,M0,law,0,NA
+B19037N,bachelor of education,D4,crop production,0.237301587,NA
+B19040H,economics,L1,economics,0,NA
+B19056R,english literature,Q3,English literature,0,NA
+B19058T,physics and business stud,N1,physics,0.24,NA
+B19076V,town and country planning,L5,youth and community work,0.304027778,NA
+B19087Y,electronic engineering,H6,electronic engineering,0,NA
+B19092V,history,V1,history,0,NA
+B19098B,business studies,N1,business studies,0,NA
+B19108L,sport and human movement,N8,sports management,0.219771242,NA
+B19112G,combined studies,Y0,combined studies,0,NA
+B19114J,psychology,C8,psychology,0,NA
+B19120G,communication studies,W5,community dance,0.204761905,NA
+B19133M,graphic information desig,W2,graphic arts,0.201111111,W2
+B19145R,neurophysiology,C8,forensic psychology,0.217084378,NA
+B19175X,textile design and techno,W2,textile design,0.146666667,NA
+B19181V,ancient history archaeol,V1,ancient history,0.125,NA
+B19187B,medicine,A0,medicine,0,A1
+B19209Q,computer science,I1,computer science,0,NA
+B19210H,business studies,N1,business studies,0,NA
+B19236T,computer science,I1,computer science,0,NA
+B19244T,bed hons,V1,modern history,0.327380952,NA
+B19247W,drama,W4,drama,0,NA
+B19271W,graphic design,W2,graphic design,0,NA
+B19275A,history,V1,history,0,NA
+B19284B,computer science,I1,computer science,0,NA
+B19285C,accountancy,N4,accountancy,0,NA
+B19289G,european studies,R8,European studies,0,NA
+B19290Z,psychology,C8,psychology,0,NA
+B19323R,modern languagews and eur,R0,modern languages,0.12,R8
+B19333T,occupational therapy,B9,occupational therapy,0,NA
+B19340S,medicine,A0,medicine,0,A1
+B19361X,medical sciences,B1,medical sciences,0,B1
+B19376E,construction managenent,K2,construction management,0.044137022,NA
+B19377F,design and advertising,W2,design,0.242424242,NA
+B19399M,accounts and finance,N4,accountancy,0.196969697,NA
+B19401N,interior design,W2,interior design and architecture,0.177083333,NA
+B19416V,phsiology,B1,physiology,0.033333333,B1
+B19426X,sociology,L3,sociology,0,NA
+B19430T,english literature,Q3,English literature,0,NA
+B19432V,hotel and catering manage,B7,health and social care,0.265050505,N8
+B19445A,mechanical engineering,H3,mechanical engineering,0,NA
+B19447C,enviromental technology,J7,environmental biotechnology,0.158078368,J7
+B19470B,medicine,A0,medicine,0,A1
+B19482F,urban policy and race rel,K4,urban and regional planning,0.297037037,NA
+B19519B,ba with qualteaching s,W4,theatrical wardrobe design,0.30878925,NA
+B19533Z,business studies,N1,business studies,0,NA
+B19545D,social policy and sociolo,L4,social policy,0.16,NA
+B19547F,banking,N3,banking,0,N3
+B19552C,interier desighn,W2,internet technologies,0.240766178,NA
+B19569M,business and finance,N1,business and management,0.176172208,NA
+B19575K,mathematic and professio,G1,mathematics,0.180555556,G1
+B19580G,environmental science,F7,environmental sciences,0.015151515,NA
+B19588Q,art,N5,marketing,0.222222222,NA
+B19589R,music,W3,music,0,NA
+B19591K,applied biology,C1,applied biology,0,NA
+B19597R,economics,L1,economics,0,NA
+B19602V,medeiaval history,V1,medieval history,0.06127451,NA
+B19603W,combined science,F7,marine sciences,0.15,NA
+B19605Y,literae humaniores,Q2,Latin literature,0.270477208,Q8
+B19649L,transport and distributio,K4,transport planning,0.252592593,H2
+B19653G,geography,L7,geography,0,NA
+B19664K,sociology,L3,sociology,0,NA
+B19666M,architecture,K1,architecture,0,NA
+B19688T,mechanical engineering,H3,mechanical engineering,0,NA
+B19701X,law,M0,law,0,NA
+B19715D,interior design and techn,W2,interior design and architecture,0.124444444,W2
+B19729K,law,M0,law,0,NA
+B19763M,art and design foundation,N2,management and organisation of education,0.2925,W2
+B19772N,english,Q3,English law,0.121212121,NA
+B19774Q,management and administra,N2,management and organisation of education,0.202222222,NA
+B19789X,geography,L7,geography,0,NA
+B19796W,math phsycology biblical,C2,mycology,0.222222222,NA
+B19803C,b a education,X3,primary education,0.19923214,NA
+B19815G,law,M0,law,0,NA
+B19817J,eauropean studies with fr,R8,European studies,0.1825,R8
+B19821E,law and indonesian studie,I4,knowledge and information systems,0.26978355,NA
+B19834K,business studies,N1,business studies,0,NA
+B19836M,economics,L1,economics,0,NA
+B19843L,architecture,K1,architecture,0,NA
+B19846P,social anthropology,L6,social anthropology,0,NA
+B19856R,electronic and electrical,H6,electrical and electronic engineering,0.161441441,H6
+B19877W,psychology,C8,psychology,0,NA
+B19901D,education,X0,education policy,0.145833333,NA
+B19908L,chemistry,F1,chemistry,0,NA
+B19918N,law,M0,law,0,NA
+B19923K,psycology,C8,psychology,0.033333333,C8
+B19928Q,law,M0,law,0,NA
+B19933M,historyenglish,V1,history,0.166666667,NA
+B19942N,mathematicsphysics,G1,mathematics,0.12962963,G1
+B19967X,psychology,C8,psychology,0,NA
+B19968Y,historyenglish,V1,history,0.166666667,NA
+B19970S,computer science,I1,computer science,0,NA
+B19984Y,economics and finance,L1,economics,0.19047619,NA
+B20001T,business and computing,N1,business computing,0.134680135,NA
+B20005X,design technology with ed,W2,design,0.253333333,NA
+B20007Z,accounting  financial,N4,accounting,0.174603175,NA
+B20008A,building surveying,K2,building surveying,0,NA
+B20017B,engineering,H0,engineering design,0.12962963,NA
+B20030Y,mathematics  q t s,G1,mathematics,0.12962963,G1
+B20040A,medicine,A0,medicine,0,A1
+B20050C,physics,F3,physics,0,NA
+B20097T,mathematics,G1,mathematics,0,NA
+B20106B,computer systems engineer,I1,computer systems engineering,0.035714286,NA
+B20107C,electrical and electronic,H6,electrical and electronic engineering,0.108108108,H6
+B20113A,mechanical engineering,H3,mechanical engineering,0,NA
+B20124D,nursing,B7,nursing,0,NA
+B20150F,education,X0,education policy,0.145833333,NA
+B20162K,applied chemistry,F1,applied chemistry,0,NA
+B20214E,computer science,I1,computer science,0,NA
+B20233H,education,X0,education policy,0.145833333,NA
+B20236L,economics,L1,economics,0,NA
+B20237M,humanities,V1,humanities,0,NA
+B20243K,nursing,B7,nursing,0,NA
+B20291T,ecology,C1,ecology,0,NA
+B20295X,nutrition,B4,nutrition,0,NA
+B20298A,health and community stgu,N6,health and safety management,0.236904762,NA
+B20300B,law,M0,law,0,NA
+B20305G,chemistry,F1,chemistry,0,NA
+B20321G,geography,L7,geography,0,NA
+B20340K,music,W3,music,0,NA
+B20341L,history of art,V1,history of art,0,NA
+B20355S,marketing and french,R1,marketing,0.183333333,NA
+B20371S,psychology,C8,psychology,0,NA
+B20374V,materials technology,J5,minerals technology,0.124951267,NA
+B20375W,community health nursing,B7,community nursing,0.097222222,NA
+B20386Z,ba hons in psychology,C8,coaching psychology,0.194496658,C8
+B20387A,business computing,N1,business computing,0,NA
+B20395A,bachelor of education,D4,crop production,0.237301587,NA
+B20405K,business operation and co,N1,business information technology,0.216415771,NA
+B20415M,electronic and electrical,H6,electrical and electronic engineering,0.161441441,H6
+B20424N,biology science,C1,blood sciences,0.142063492,NA
+B20431M,law,M0,law,0,NA
+B20434Q,ordinary arts degree,K1,interior design and architecture,0.274890351,Y1
+B20458Y,sports science,D7,soil science,0.184126984,C6
+B20479D,social science,F7,social sciences,0.022222222,NA
+B20509S,estate management,W4,creative management,0.131613347,NA
+B20510K,computer science,I1,computer science,0,NA
+B20512M,silversmith and metal wor,W7,silversmithing and goldsmithing,0.24327957,NA
+B20517S,humanities,V1,humanities,0,NA
+B20519U,biology,C1,biology,0,NA
+B20525S,bachelor of medicine,B3,herbal medicine,0.205555556,NA
+B20537W,bchd,L5,child care,0.316666667,NA
+B20538X,land economy,B8,dental technology,0.251485443,NA
+B20547Y,english lit,Q3,English law,0.121212121,NA
+B20549A,film studies,P3,film studies,0,NA
+B20574B,NA992,N3,finance,0.438095238,NA
+B20577E,business studies,N1,business studies,0,NA
+B20582B,land economy,B8,dental technology,0.251485443,NA
+B20586F,b a natural sciences,B0,natural sciences,0.139583333,B0
+B20607T,natural sciences,C1,natural sciences,0,NA
+B20610N,dentistry,A0,dentistry,0,A4
+B20625V,geography,L7,geography,0,NA
+B20635X,chemistry,F1,chemistry,0,NA
+B20642W,medicine,A0,medicine,0,A1
+B20649D,engineering,H0,engineering design,0.12962963,NA
+B20650W,medicine,A0,medicine,0,A1
+B20658E,combined health studies,Y0,combined studies,0.153532609,B0
+B20662A,astrophysics,F5,astrophysics,0,NA
+B20667F,lawenglish llb,Q3,law,0.261904762,NA
+B20678J,accounting and management,N4,accounting,0.2,NA
+B20682E,molecular biology,C1,molecular biology,0,NA
+B20695K,librsry  information std,I2,business information systems,0.294973545,P1
+B20721U,art and design and qts,L2,war and peace studies,0.279076479,NA
+B20724X,politics and history,V1,politics,0.2,NA
+B20729C,electronics engineering,H6,electronic engineering,0.014492754,NA
+B20740X,ecconomics,L1,economics,0.033333333,L1
+B20747E,law,M0,law,0,NA
+B20749G,engineering,H0,engineering design,0.12962963,NA
+B20765G,economics,L1,economics,0,NA
+B20785L,morsemathematics operational s,F7,atmosphere-ocean interactions,0.256082375,NA
+B20803V,philosophy  literature,V5,philosophy,0.181818182,NA
+B20805X,politics and sociology,L3,political sociology,0.152223994,NA
+B20813X,teachingsports science,F4,forensic science,0.204671717,NA
+B20825B,psychology,C8,psychology,0,NA
+B20841B,urban studies,K4,urban studies,0,NA
+B20848J,bachelor of education,D4,crop production,0.237301587,NA
+B20856J,english studies,Q3,English studies,0,NA
+B20868N,environmental health,B9,environmental chemistry,0.136956522,NA
+B20877P,general engineering,H1,energy engineering,0.102625846,NA
+B20892N,computer science,I1,computer science,0,NA
+B20910X,information systems,I2,information systems,0,NA
+B20921A,psychology and it,C8,psychology,0.137254902,NA
+B20923C,busines management,N9,business and management,0.146537842,NA
+B20930B,mathematicval astatistics,G3,mathematics,0.186666667,NA
+B20943G,theatre with film and tv,W4,theatre studies,0.31489899,W4
+B20946K,geography,L7,geography,0,NA
+B20948M,environmental management,D4,environmental management,0,NA
+B20951G,chemistry,F1,chemistry,0,NA
+B20953J,biochemistry,F6,biochemistry,0,NA
+B20963L,international relations,L2,international relations,0,NA
+B20973N,beed,I3,object-oriented programming,0.283950617,X1
+B20988V,medicine,A0,medicine,0,A1
+B20992R,prot design,W2,product design,0.116883117,NA
+B21014C,computer science,I1,computer science,0,NA
+B21017F,humanities,V1,humanities,0,NA
+B21023D,engineeringautomotive de,H3,automotive engineering,0.194444444,NA
+B21025F,physical electronics with,F0,physical sciences,0.202107843,H6
+B21029K,art,N5,marketing,0.222222222,W1
+B21038L,politics,L2,politics,0,NA
+B21041F,history and art,V1,history of art,0.142063492,NA
+B21045K,history,V1,history,0,NA
+B21057P,mathematics,G1,mathematics,0,NA
+B21086U,fashion design and manafa,W2,fashion design,0.146666667,W2
+B21094U,economics,L1,economics,0,NA
+B21096W,societyeconomy and socia,L3,socio-economics,0.268253968,NA
+B21098Y,business and economics wi,N1,business economics,0.13037037,NA
+B21100Z,business administration,N1,business information systems,0.222049689,NA
+B21102B,social policy,L4,social policy,0,NA
+B21129N,modern languages with int,R0,modern languages,0.12,R0
+B21140H,economics,L1,economics,0,NA
+B21168V,economics  sociology,L1,economic policy,0.146031746,NA
+B21174T,psycology,C8,psychology,0.033333333,C8
+B21177W,design  media management,N6,human resource management,0.222962963,NA
+B21191U,natural sciences,C1,natural sciences,0,NA
+B21195Y,chemistry,F1,chemistry,0,NA
+B21198B,civil engineering,H2,civil engineering,0,NA
+B21212G,eng lang and lit,Q3,English as a second language,0.303571429,NA
+B21226N,medicine,A0,medicine,0,A1
+B21228Q,poloitics,L2,politics,0.037037037,NA
+B21229R,sociology,L3,sociology,0,NA
+B21236Q,pharmacy,B2,pharmacy,0,NA
+B21248U,geophysics and planetary,F3,geophysics,0.194444444,F3
+B21272U,electrical engineering,H6,electrical engineering,0,NA
+B21290W,german,R2,German studies,0.19047619,R2
+B21309Q,engineering,H0,engineering design,0.12962963,NA
+B21310H,nursing,B7,nursing,0,NA
+B21322M,history,V1,history,0,NA
+B21329U,enviromental sciences,F7,environmental sciences,0.11038961,NA
+B21330M,fine art,W1,fine art,0,NA
+B21331N,physics,F3,physics,0,NA
+B21336T,phylosophy,V5,philosophy,0.066666667,NA
+B21351S,rural estate management,D4,rural estate management,0,NA
+B21357Y,medicine,A0,medicine,0,A1
+B21362V,economics,L1,economics,0,NA
+B21371W,musiceducation,W3,music education and teaching,0.166666667,NA
+B21374Z,history,V1,history,0,NA
+B21381Y,music,W3,music,0,NA
+B21385C,english,Q3,English law,0.121212121,NA
+B21391A,managment sciencemarketi,N8,event management,0.245833333,NA
+B21407R,german and russian,R2,German studies,0.214285714,NA
+B21409T,health studies,B9,health studies,0,B9
+B21429X,pharmacology,B2,pharmacology,0,NA
+B21454Y,social policy,L4,social policy,0,NA
+B21462Y,management science,N2,management studies,0.148148148,NA
+B21473B,economics,L1,economics,0,NA
+B21479H,consumer sciences,I0,computer science,0.160014006,N1
+B21481B,landscape architecture,K3,landscape architecture and design,0.111111111,NA
+B21482C,international business an,N1,international business,0.04,NA
+B21499M,manufacturing systems eng,H7,manufacturing engineering,0.214444444,NA
+B21507U,economics,L1,economics,0,NA
+B21530T,history,V1,history,0,NA
+B21541W,psychology,C8,psychology,0,NA
+B21549E,psychology,C8,psychology,0,NA
+B21571C,electrical and electronic,H6,electrical and electronic engineering,0.108108108,H6
+B21585J,mathematics  computer science,I1,mathematics,0.206896552,NA
+B21588M,app chem,F1,applied chemistry,0.259803922,NA
+B21589N,b eng in engineering,C4,genetic engineering,0.181798246,NA
+B21598P,urban land economics,K4,urban studies,0.276923077,NA
+B21606W,product designmarketing,W2,product design,0.130434783,NA
+B21614W,mathematics and theoretic,G1,mathematics,0.186666667,G1
+B21620U,physics,F3,physics,0,NA
+B21623X,accoiunting,N4,accounting,0.096969697,NA
+B21640Y,ecology,C1,ecology,0,NA
+B21644C,b s c nursing,B7,school nursing,0.222161172,NA
+B21645D,chemistry,F1,chemistry,0,NA
+B21647F,electrical and electronic,H6,electrical and electronic engineering,0.108108108,H6
+B21656G,english and education,Q3,English language,0.227945665,NA
+B21657H,accountancy,N4,accountancy,0,NA
+B21665H,chemistry,F1,chemistry,0,NA
+B21670E,law,M0,law,0,NA
+B21677M,bsc in speech pathology a,H4,space technology,0.220833333,NA
+B21681H,optomitary,B5,optometry,0.103703704,NA
+B21682J,banking insurance and fi,N3,banking,0.236111111,NA
+B21689R,business administration,N1,business information systems,0.222049689,NA
+B21710V,psychology,C8,psychology,0,NA
+B21718D,geology,F6,geology,0,F6
+B21735E,art  drama with qts,V6,the Qur'an and Islamic texts,0.303295002,NA
+B21741C,pharmacology,B2,pharmacology,0,NA
+B21742D,psycology,C8,psychology,0.033333333,C8
+B21764K,accounting and finance,N4,accounting,0.181818182,NA
+B21765L,history,V1,history,0,NA
+B21783N,business information syst,N1,business information systems,0.035714286,NA
+B21785Q,business studies with mar,N1,business studies,0.12,NA
+B21787S,computer science,I1,computer science,0,NA
+B21795S,business studies,N1,business studies,0,NA
+B21799W,welsh,Q5,Welsh studies,0.205128205,Q5
+B21811Z,ba in business stud,N1,British Sign Language studies,0.264351012,NA
+B21821B,architecture,K1,architecture,0,NA
+B21848N,classics,J4,classical studies,0.176470588,NA
+B21849P,mathematics,G1,mathematics,0,NA
+B21854L,social policy and adminis,L4,social policy,0.16,NA
+B21858Q,bachelor of medicine,B3,herbal medicine,0.205555556,NA
+B21861K,medicine,A0,medicine,0,A1
+B21862L,business studies,N1,business studies,0,NA
+B21864N,fashion and textiles,W2,fashion design,0.191758242,W2
+B21878U,economics,L1,economics,0,NA
+B21890Q,law,M0,law,0,NA
+B21893T,education and art,X0,education studies,0.223856209,X1
+B21896W,business studies,N1,business studies,0,NA
+B21906F,bio chemistry,C7,biochemistry,0.025641026,C7
+B21919L,european economics,L2,European Union politics,0.204830918,NA
+B21925J,public admin,L2,public administration,0.142857143,NA
+B21927L,veterinary medicine,D1,veterinary medicine,0,D1
+B21934K,archaeology,V4,archaeology,0,NA
+B21939Q,english literature,Q3,English literature,0,NA
+B21941J,timber technology,H3,turbine technology,0.15039488,NA
+B21942K,applied biology,C1,applied biology,0,NA
+B21972R,medicine,A0,medicine,0,D1
+B21981S,english literature,Q3,English literature,0,NA
+B21986X,social admin,L2,socialism,0.189814815,NA
+B21988Z,humanities,V1,humanities,0,NA
+B21994X,information technology,I1,information technology,0,I1
+B22002C,music and education,X3,secondary education,0.184795322,NA
+B22004E,business computing,N1,business computing,0,NA
+B22012E,business studies,N1,business studies,0,NA
+B22032J,economics and accounts,L1,economics,0.196969697,NA
+B22042L,engineering manufacturing,H2,engineering surveying,0.209374416,NA
+B22061P,business studies,N1,business studies,0,NA
+B22079Z,business and finance,N1,business and management,0.176172208,NA
+B22089B,mathematics,G1,mathematics,0,NA
+B22102F,history,V1,history,0,NA
+B22114K,mechanical engineering,H3,mechanical engineering,0,NA
+B22133N,mathematics and management sc,G1,mathematics,0.206896552,G1
+B22137S,natural science,B0,natural sciences,0.020833333,B1
+B22163U,english,Q3,English law,0.121212121,NA
+B22180V,sports studies,C6,sports studies,0,NA
+B22189E,furniture and product des,W2,furniture design and making,0.278518519,W2
+B22193A,computer science,I1,computer science,0,NA
+B22201H,business inf and manageme,N1,business and management,0.152977602,NA
+B22210J,biological sciences,C0,biological sciences,0,NA
+B22216Q,politics and history,V1,politics,0.2,NA
+B22221M,architecture,K1,architecture,0,NA
+B22243T,english,Q3,English law,0.121212121,NA
+B22258A,law,M0,law,0,NA
+B22260U,sociology,L3,sociology,0,NA
+B22267B,law,M0,law,0,NA
+B22269D,fine art and design,W1,fine art,0.192982456,NA
+B22279F,english,Q3,English law,0.121212121,NA
+B22285D,geography,L7,geography,0,NA
+B22293D,business studies,N1,business studies,0,NA
+B22298J,hotel management,C3,pest management,0.13258547,NA
+B22299K,social science,F7,social sciences,0.022222222,NA
+B22315S,music,W3,music,0,NA
+B22317U,urban studies,K4,urban studies,0,NA
+B22341U,pharmacy,B2,pharmacy,0,NA
+B22348B,environmental science,F7,environmental sciences,0.015151515,NA
+B22349C,business studies,N1,business studies,0,NA
+B22374D,occupational therapy,B9,occupational therapy,0,NA
+B22382D,business studies,N1,business studies,0,NA
+B22400N,law,M0,law,0,NA
+B22419Z,aeronautical engineering,H4,aeronautical engineering,0,NA
+B22421T,philosophy,V5,philosophy,0,NA
+B22428A,language and linguistics,T7,Latin American studies,0.282828283,Q1
+B22434Y,physics,F3,physics,0,NA
+B22441X,bsc,C5,blood sciences,0.261904762,Y1
+B22455D,construction managerment,K2,construction management,0.013888889,NA
+B22474G,english with history,V1,English history,0.127777778,NA
+B22496N,product management,N2,project management,0.074074074,NA
+B22505W,bio  ch,C7,biochemistry,0.28968254,C7
+B22512V,business managemnet,N1,business and management,0.119374523,NA
+B22526B,podiatry,B1,podiatry,0,NA
+B22528D,physics with laser physic,F3,physics,0.24,NA
+B22533A,law,M0,law,0,NA
+B22535C,architecture,K1,architecture,0,NA
+B22549J,business,N1,e-business,0.066666667,NA
+B22555G,chemistry,F1,chemistry,0,NA
+B22558K,comptor  studies,C6,sports studies,0.214285714,NA
+B22560D,accounting and economics,N4,accounting,0.194444444,NA
+B22566K,mathematics,G1,mathematics,0,NA
+B22577N,quantity surveying,K2,quantity surveying,0,NA
+B22579Q,criminal justice and poli,L4,criminal justice,0.12,NA
+B22595Q,mathamatics,G1,mathematics,0.093939394,NA
+B22599U,pharmacology,B2,pharmacology,0,NA
+B22620Y,bsc in computer science,I1,computer science,0.257699275,NA
+B22671K,business studies,N1,business studies,0,NA
+B22673M,computing and business,N1,computing and information technology,0.251683502,NA
+B22680L,business studies,N1,business studies,0,NA
+B22696U,hotel and catering and,F1,oil and gas chemistry,0.267965368,N8
+B22700X,modern history,V1,modern history,0,NA
+B22714D,sociology,L3,sociology,0,NA
+B22719J,theology,V6,theology,0,NA
+B22731E,accounting and finance,N4,accounting,0.181818182,NA
+B22734H,pharmacy,B2,pharmacy,0,NA
+B22736K,social policy  administr,L4,social policy,0.152777778,NA
+B22738M,astro physics,F5,astrophysics,0.025641026,NA
+B22750H,psychology,C8,psychology,0,NA
+B22764P,law,M0,law,0,NA
+B22766R,theatre design,W4,textile design,0.142857143,NA
+B22775S,agriculture,D4,agriculture,0,NA
+B22777U,nutritian,B4,nutrition,0.074074074,NA
+B22779W,marine biology,C1,marine biology,0,NA
+B22830G,accountancy finance,N4,accountancy,0.140350877,NA
+B22835M,health  social welfare,L5,health and welfare,0.180029461,NA
+B22836N,combined studies,Y0,combined studies,0,NA
+B22843M,biomedical science,F1,biomedical sciences,0.01754386,NA
+B22846Q,engineering,H0,engineering design,0.12962963,NA
+B22847R,law,M0,law,0,NA
+B22853P,ba hons graphic design,W2,graphic design,0.287878788,NA
+B22857T,german,R2,German studies,0.19047619,R2
+B22874U,biological science,C0,biological sciences,0.01754386,NA
+B22876W,socioligy,L3,sociology,0.074074074,NA
+B22881T,economics and politics,L1,economic policy,0.143434343,NA
+B22883V,genetics,C4,genetics,0,NA
+B22893X,english,Q3,English law,0.121212121,NA
+B22901E,chemical engineering,H8,chemical engineering,0,NA
+B22908M,quantity surveying,K2,quantity surveying,0,NA
+B22921J,education in art and,X0,education studies,0.233559578,X1
+B22926P,environmental health,B9,environmental chemistry,0.136956522,NA
+B22934P,international transport,L2,international relations,0.136956522,NA
+B22940M,art education studies,L2,international studies,0.176003735,X1
+B22949W,phsychology,C8,psychology,0.096969697,NA
+B22964V,economic and sociology bs,L1,economic policy,0.192698413,NA
+B22973W,management  politics,N2,management studies,0.197883598,NA
+B22975Y,medicine,A0,medicine,0,A1
+B22985A,manufacturing engineering,H7,manufacturing engineering,0,NA
+B22996D,physics,F3,physics,0,NA
+B22997E,business studies,N1,business studies,0,NA
+B23003H,electrical enigineer,H6,electrical engineering,0.08030303,NA
+B23006L,building surveying bsc ho,K2,building surveying,0.093333333,NA
+B23011H,accounting,N4,accounting,0,NA
+B23029T,public relationa and film,P2,public relations,0.154166667,NA
+B23038U,interior design,W2,interior design and architecture,0.177083333,NA
+B23039V,agriculture,D4,agriculture,0,NA
+B23057X,accounting and finance,N4,accounting,0.181818182,NA
+B23078C,bsc speech  therapy,C6,sports therapy,0.287537024,NA
+B23104M,public policy,L4,public policy,0,NA
+B23119U,chemistry,F1,chemistry,0,NA
+B23123Q,electronic engineering,H6,electronic engineering,0,NA
+B23137W,natural sciences,C1,natural sciences,0,NA
+B23158B,biology and education,C1,secondary education,0.209857978,NA
+B23168D,french,R1,French studies,0.19047619,R1
+B23170X,info technology,J9,audio technology,0.106944444,NA
+B23172Z,housing management and de,N9,business and management,0.235144928,NA
+B23185E,diagnostic radiography,B8,diagnostic imaging,0.219095719,NA
+B23189J,biology,C1,biology,0,NA
+B23193E,french,R1,French studies,0.19047619,R1
+B23198K,geography,L7,geography,0,NA
+B23200L,mechanical engineering,H3,mechanical engineering,0,NA
+B23203P,applied biology,C1,applied biology,0,NA
+B23205R,psychology,C8,psychology,0,NA
+B23211P,law  llb,M1,law,0.208333333,M1
+B23242W,microbiology,C1,microbiology,0,NA
+B23244Y,business studies,N1,business studies,0,NA
+B23262A,cell biology,C1,cell biology,0,NA
+B23263B,quantity surveying,K2,quantity surveying,0,NA
+B23267F,french and spanish,R1,French studies,0.231361231,NA
+B23282E,archeaology and anthropol,V4,archaeology,0.216969697,NA
+B23293H,geography,L7,geography,0,NA
+B23302R,biochemistry,F6,biochemistry,0,NA
+B23303S,information systems engin,I2,information systems,0.08,I2
+B23319A,history,V1,history,0,NA
+B23322V,computer studies,I1,computer science,0.166666667,NA
+B23367J,medicine,A0,medicine,0,A1
+B23369L,industrial design,F1,industrial chemistry,0.182633053,NA
+B23375J,applied social studies,L3,applied social science,0.121212121,L3
+B23379N,quantity surveying,K2,quantity surveying,0,NA
+B23380F,social psychology and soc,C8,social psychology,0.106666667,NA
+B23382H,geography,L7,geography,0,NA
+B23387N,marketting with french,R1,marketing,0.196969697,NA
+B23391J,electronics engineering,H6,electronic engineering,0.014492754,NA
+B23392K,medicine,A0,medicine,0,A1
+B23396P,english studies,Q3,English studies,0,NA
+B23409B,engineering,H0,engineering design,0.12962963,NA
+B23417B,hotel and catering manage,B7,health and social care,0.265050505,NA
+B23427D,south east asian studies,T4,South East Asian studies,0,NA
+B23432A,englishdramamediaphyco,Q3,drama,0.257575758,NA
+B23443D,biological with health sc,C0,biological sciences,0.225730994,B1
+B23447H,b eng,D6,brewing,0.20952381,NA
+B23457K,politics,L2,politics,0,NA
+B23458L,geography and archeology,L7,geography,0.208333333,NA
+B23461F,fashion textiles,W2,fashion,0.1875,NA
+B23467M,history and econoomics,V1,history of science,0.190446128,NA
+B23470G,sociology,L3,sociology,0,NA
+B23479R,drama and film,W4,drama,0.214285714,NA
+B23487R,physiological sciences,F0,physical sciences,0.144385027,B1
+B23492N,pharmacy,B2,pharmacy,0,NA
+B23496S,quantity surveying,K2,quantity surveying,0,NA
+B23503Y,french and spanish,R1,French studies,0.231361231,NA
+B23509E,mathematics  computing,I1,mathematics,0.166666667,NA
+B23512Z,graphic design,W2,graphic design,0,NA
+B23526F,business studies,N1,business studies,0,NA
+B23530B,chemistry,F1,chemistry,0,NA
+B23549N,law,M0,law,0,NA
+B23568R,systems analysis and desi,I2,systems analysis and design,0.024691358,NA
+B23579U,physics,F3,physics,0,NA
+B23613D,engineering design,H1,engineering design,0,NA
+B23632G,geographymanagement,L7,geography,0.175438596,NA
+B23645M,theology,V6,theology,0,NA
+B23684U,medicine,A0,medicine,0,A1
+B23686W,applied biology,C1,applied biology,0,NA
+B23691T,b eng in materials and,B8,biomaterials,0.27020202,H8
+B23695X,accounts,N4,accounting,0.141666667,NA
+B23699B,ba archiology,C5,bacteriology,0.165811966,NA
+B23703E,zoology,C3,zoology,0,C3
+B23706H,history and politics,V1,history of art,0.208730159,NA
+B23709L,architecture,K1,architecture,0,NA
+B23728P,health,N6,health risk,0.151515152,NA
+B23732K,aeronautical engineering,H4,aeronautical engineering,0,NA
+B23738R,acrchitecural studies,F6,quaternary studies,0.206349206,NA
+B23753Q,sociology and internation,L3,sociology,0.213333333,L3
+B23765U,mathematics,G1,mathematics,0,NA
+B23785Y,computer science,I1,computer science,0,NA
+B23800E,bmed science,D6,meat science,0.111111111,NA
+B23802G,fashion design ba hons,W2,fashion design,0.121212121,W2
+B23813K,construction management,K2,construction management,0,NA
+B23815M,geographical information,F8,geographical information systems,0.083333333,NA
+B23840N,geography bsc,L7,geography,0.102564103,NA
+B23843R,phycology,B1,psychology,0.088888889,C3
+B23846U,applied geology,F6,applied geology,0,F6
+B23895D,socialogy history,V1,social history,0.154061625,NA
+B23903L,mechanical engineer,H3,mechanical engineering,0.045454545,NA
+B23906P,applied physics,F3,applied physics,0,NA
+B23908R,quantity surveying,K2,quantity surveying,0,NA
+B23909S,chemistry with polymer sc,F1,chemistry,0.213333333,F1
+B23912M,law,M0,law,0,NA
+B23919U,zoology,C3,zoology,0,C3
+B23929W,politicssociology,L3,political sociology,0.134739422,NA
+B23963Y,electrical and electronic,H6,electrical and electronic engineering,0.108108108,H6
+B23968D,food marketing,D6,food marketing,0,NA
+B23975C,french,R1,French studies,0.19047619,R1
+B23986F,fine art,W1,fine art,0,NA
+B23996H,chemical engineering,H8,chemical engineering,0,NA
+B24009T,management sciences,N2,management studies,0.125730994,NA
+B24035V,psychology,C8,psychology,0,NA
+B24053X,chemistry,F1,chemistry,0,NA
+B24055Z,sports studies,C6,sports studies,0,NA
+B24077F,engand history,V1,German history,0.150793651,NA
+B24078G,hotel managementand hhos,C3,pest management,0.222863248,NA
+B24100M,history and american stud,V1,history of music,0.235952381,NA
+B24103Q,law and international pol,L4,international social policy,0.27808642,NA
+B24134X,mathematics  computer science,I1,mathematics,0.206896552,NA
+B24142X,economics,L1,economics,0,NA
+B24145A,mathematics,G1,mathematics,0,NA
+B24161A,history,V1,history,0,NA
+B24166F,natural sciences,C1,natural sciences,0,NA
+B24176H,housing studies,Q3,Ruskin studies,0.114285714,NA
+B24183G,computer science,I1,computer science,0,NA
+B24190F,hotel management,C3,pest management,0.13258547,NA
+B24201R,history,V1,history,0,NA
+B24215X,constructiuon management,K2,construction management,0.013888889,NA
+B24227B,leisure studies,T6,Turkish studies,0.188888889,N8
+B24241Z,law,M0,law,0,NA
+B24269M,biochemistry,F6,biochemistry,0,NA
+B24275K,teacher training mathematics,G1,financial mathematics,0.270467836,X1
+B24291K,economics,L1,economics,0,NA
+B24296Q,geography,L7,geography,0,NA
+B24304X,graphic design,W2,graphic design,0,NA
+B24320X,business studies,N1,business studies,0,NA
+B24333C,business administration,N1,business information systems,0.222049689,NA
+B24343E,history of design,V1,history of design,0,NA
+B24364K,mechanical engineering,H3,mechanical engineering,0,NA
+B24367N,building surveying,K2,building surveying,0,NA
+B24372K,computer studies,I1,computer science,0.166666667,NA
+B24387S,leisure management,N8,tourism management,0.177777778,NA
+B24394R,modern languages  inform,R0,modern languages,0.111111111,R0
+B24403Z,micro biology,C1,microbiology,0.025641026,NA
+B24413B,modern languages  politi,R0,modern languages,0.111111111,R0
+B24432E,computing and finance,I1,computing and information technology,0.178571429,NA
+B24434G,philosphy and theology,C2,plant physiology,0.215909091,NA
+B24443H,geography,L7,geography,0,NA
+B24445K,art and design,K3,garden design,0.198468198,NA
+B24450G,business studies,N1,business studies,0,NA
+B24459R,business studies,N1,business studies,0,NA
+B24469T,chemical physics,F3,chemical physics,0,NA
+B24477T,applied chemical sciences,L3,applied social science,0.163722944,F1
+B24501A,performing arts,W3,performing arts,0,W3
+B24503C,electronics,W3,electronic music,0.104166667,H6
+B24521E,english and education,Q3,English language,0.227945665,NA
+B24522F,engineering physics,F3,engineering physics,0,NA
+B24558T,busines and finance,N9,business and management,0.195747521,NA
+B24568V,polymor science and techn,J4,polymer science and technology,0.191111111,J4
+B24576V,engineering,H0,engineering design,0.12962963,NA
+B24585W,mathematics,G1,mathematics,0,NA
+B24586X,business economics and ac,N1,business economics,0.093333333,NA
+B24588Z,hotel and catering,F1,oil and gas chemistry,0.244708995,N8
+B24589A,physiotherapy,B1,physiotherapy,0,NA
+B24617M,governmet,L2,UK government/parliamentary studies,0.247619048,NA
+B24623K,textile design,W2,textile design,0,NA
+B24668Y,computer science,I1,computer science,0,NA
+B24682W,geography,L7,geography,0,NA
+B24688C,chem,F1,chemistry,0.185185185,F1
+B24712K,computer and electronic e,I1,computer science,0.209722222,NA
+B24717Q,education and social stud,X0,education studies,0.202107843,X1
+B24732P,business and social studi,N1,business studies,0.220833333,NA
+B24735S,quantity surveying,K2,quantity surveying,0,NA
+B24744T,mathematics,G1,mathematics,0,NA
+B24763W,law,M0,law,0,NA
+B24765Y,physiology  pharmacology,B1,physiology,0.194444444,NA
+B24773Y,bds  dentistry,A0,dentistry,0.211640212,A4
+B24779E,internantional disaster e,L2,international studies,0.165873016,N2
+B24788F,thre dimentional design,N5,promotion and advertising,0.278321892,NA
+B24819V,biological sciences,C0,biological sciences,0,NA
+B24835V,sports science,D7,soil science,0.184126984,C6
+B24842U,english literature,Q3,English literature,0,NA
+B24867D,music,W3,music,0,NA
+B24868E,english literature,Q3,English literature,0,NA
+B24882C,education,X0,education policy,0.145833333,NA
+B24884E,business admin  language,N1,business and management,0.180047038,NA
+B24906T,civil engineering,H2,civil engineering,0,NA
+B24915U,fine art,W1,fine art,0,NA
+B24932V,computing,I1,conducting,0.174074074,NA
+B24960Z,business studies and tour,N1,business studies,0.12,NA
+B24964D,business administration,N1,business information systems,0.222049689,NA
+B24985J,fine art,W1,fine art,0,NA
+B24992H,banking and finance,N3,banking,0.210526316,NA
+B25007V,fashion design and textil,W2,fashion design,0.146666667,W2
+B25015V,mechanical engineering,H3,mechanical engineering,0,NA
+B25026Y,business computing,N1,business computing,0,NA
+B25045B,printing and photography,F3,photonics and optical physics,0.280878201,NA
+B25068J,electroacoustics,W3,electronic music,0.222222222,NA
+B25081F,jewellery,A1,allergy,0.31005291,W7
+B25095M,chemical bioprocess eng,F3,chemical physics,0.219720497,NA
+B25098Q,info tech,I1,information technology,0.234006734,I1
+B25100R,social anthropology,L6,social anthropology,0,NA
+B25105W,law,M0,law,0,NA
+B25107Y,nursing studies,Q3,Ruskin studies,0.11953602,NA
+B25108Z,digital sytems engineerin,H6,digital circuit engineering,0.244753086,NA
+B25157J,business administration w,N1,business information systems,0.223968254,NA
+B25182K,accounting and statistics,N4,accounting,0.2,NA
+B25185N,mathematics,G1,mathematics,0,NA
+B25196R,general arts,Q9,liberal arts,0.166666667,Q9
+B25221Z,sociology,L3,sociology,0,NA
+B25223B,bachelor of ed in geograp,C8,psychology of memory and learning,0.253910534,NA
+B25236G,building environmental,K2,building surveying,0.242905243,NA
+B25243F,combine arts,W3,sonic arts,0.172222222,NA
+B25258N,media studies,P3,radio studies,0.148018648,NA
+B25270J,english language and lite,Q3,English language,0.12,NA
+B25280L,computer studies,I1,computer science,0.166666667,NA
+B25288U,classical civilisation,Q8,classical reception,0.198458267,NA
+B25308F,mathematics and education,G1,mathematics,0.186666667,G1
+B25328K,hospitaliy management,N8,hospitality management,0.015151515,NA
+B25329L,ba business management,N1,business and management,0.194930673,NA
+B25333G,engineering technology,F6,engineering geology,0.124446217,NA
+B25348P,history,V1,history,0,NA
+B25363N,law,M0,law,0,NA
+B25365Q,business studies,N1,business studies,0,NA
+B25367S,business and marketing,N1,business and management,0.138513279,NA
+B25370M,chemistry,F1,chemistry,0,NA
+B25374R,lingistics,Q1,linguistics,0.03030303,NA
+B25382R,advance professional prac,W3,instrumental or vocal performance,0.301529582,NA
+B25391S,religious educationsocio,V6,religious studies,0.172385621,NA
+B25394V,education,X0,education policy,0.145833333,NA
+B25395W,landscape architecture,K3,landscape architecture and design,0.111111111,NA
+B25402C,manufacturing engineering,H7,manufacturing engineering,0,NA
+B25410C,economics and geography,L7,economic geography,0.128019324,NA
+B25429P,european engineering,H2,energy engineering,0.166203704,H2
+B25434L,financial services,N3,financial risk,0.154863655,NA
+B25463R,mathematics,G1,mathematics,0,NA
+B25485X,english literature,Q3,English literature,0,NA
+B25487Z,electricalelectrical eng,H6,electrical engineering,0.199494949,NA
+B25488A,economics,L1,economics,0,NA
+B25526P,b a in three dimen desig,W2,web and multimedia design,0.316111111,NA
+B25528R,computing,I1,conducting,0.174074074,NA
+B25540M,biology and statistics,C1,applied statistics,0.206060606,NA
+B25543Q,teaching,W7,acting,0.166666667,NA
+B25544R,teaching and re,W5,dance and culture,0.251990493,NA
+B25545S,biomedical science,F1,biomedical sciences,0.01754386,NA
+B25551Q,chemistry,F1,chemistry,0,NA
+B25556V,mathematics,G1,mathematics,0,NA
+B25568Z,bmedsci,A0,medicine,0.286904762,B1
+B25574X,electronic systems design,W3,electronic music,0.212142857,NA
+B25577A,classical music,Q0,classical studies,0.148516843,W3
+B25579C,music,W3,music,0,NA
+B25586B,englishclassic joint hon,Q3,English law,0.274747475,NA
+B25595C,mbchb,C7,metabolic biochemistry,0.339393939,NA
+B25625R,physics with eltrinics,F3,physics,0.227272727,NA
+B25629V,engineering with business,N1,engineering design,0.188287037,NA
+B25640Q,buisness studies and fina,N1,business studies,0.140833333,N1
+B25654W,natural sciences,C1,natural sciences,0,NA
+B25664Y,history,V1,history,0,NA
+B25672Y,mechanical engineering,H3,mechanical engineering,0,NA
+B25680Y,mathematics and computer,I1,mathematics,0.180555556,NA
+B25691B,hospitallity maagement,N8,hospitality management,0.077922078,NA
+B25715S,electrical and electronic,H6,electrical and electronic engineering,0.108108108,H6
+B25728X,business studies,N1,business studies,0,NA
+B25748B,business studies,N1,business studies,0,NA
+B25753Y,political science,C0,biological sciences,0.142724458,L2
+B25772B,geology,F6,geology,0,F6
+B25776F,bathchelers degree miechu,B3,Chinese medical techniques,0.344045584,NA
+B25795J,law,M0,law,0,NA
+B25811R,politics,L2,politics,0,NA
+B25817X,ss,M1,Scots law,0.259259259,NA
+B25838C,chemical engineerimg,H8,chemical engineering,0.033333333,NA
+B25842Y,law,M0,law,0,NA
+B25855D,english  politics,Q3,English history,0.206372549,NA
+B25879M,metalogy,J2,metallurgy,0.141666667,NA
+B25894L,management science,N2,management studies,0.148148148,NA
+B25898Q,information technology,I1,information technology,0,I1
+B25900R,humanities,V1,humanities,0,NA
+B25916Z,mechanical engineering,H3,mechanical engineering,0,NA
+B25923Y,business administration,N1,business information systems,0.222049689,NA
+B25924Z,mechanical engineering,H3,mechanical engineering,0,NA
+B25930X,history,V1,history,0,NA
+B25931Y,history,V1,history,0,NA
+B25937E,chemical engineeering,H8,chemical engineering,0.015873016,NA
+B25939G,civil engineering,H2,civil engineering,0,NA
+B25950B,industrial design,F1,industrial chemistry,0.182633053,NA
+B25964H,architecture,K1,architecture,0,NA
+B25969N,modern languages and ling,R0,modern languages,0.12,Q1
+B25970F,fashion,W2,fashion,0,NA
+B25985N,bio chemistry,C7,biochemistry,0.025641026,C7
+B25992M,bachelor of dental surger,R1,French society and culture,0.283778677,NA
+B25998T,occupational therapy,B9,occupational therapy,0,NA
+B25999U,batchlor of dental surger,K1,architectural design,0.284117647,NA
+B26001T,chemical engineering,H8,chemical engineering,0,NA
+B26011V,philosophy politics and e,V5,philosophy of science,0.196507937,NA
+B26031Z,sociology,L3,sociology,0,NA
+B26037F,quantity survey,K2,quantity surveying,0.055555556,NA
+B26040A,applied language studies,Q1,applied linguistics,0.19499269,NA
+B26051D,dance  drama,W5,dance,0.194444444,NA
+B26055H,physics with astrophysics,F3,physics,0.24,NA
+B26074L,international business an,N1,international business,0.04,NA
+B26075M,english literature,Q3,English literature,0,NA
+B26079R,nutrician,B4,nutrition,0.148148148,NA
+B26094Q,business and information,N1,business and management,0.202093398,NA
+B26096S,community studies,L5,community justice,0.111764706,NA
+B26115C,leisure management,N8,tourism management,0.177777778,NA
+B26129J,biological  medicinal ch,C0,biological sciences,0.184576023,B1
+B26173N,mathematicscomputer stud,I1,mathematics,0.180555556,NA
+B26179U,history,V1,history,0,NA
+B26181N,politics and sociology,L3,political sociology,0.152223994,NA
+B26186T,accountaqncy,N4,accountancy,0.027777778,NA
+B26201Z,applied psychology scien,C8,applied psychology,0.083333333,NA
+B26204C,dance and history,V1,dance and culture,0.196078431,NA
+B26224G,chembio chem,C7,metabolic biochemistry,0.255050505,NA
+B26231F,bsc technology and busine,J9,music technology,0.2225,I1
+B26240G,european languages and in,R7,Estonian language,0.22929972,NA
+B26246N,mathematics,G1,mathematics,0,NA
+B26266S,applied statistics,G3,applied statistics,0,NA
+B26270N,english and french,R1,English law,0.227272727,NA
+B26271P,business adminstration,N1,business information systems,0.217207792,NA
+B26272Q,fine art  ba,W1,fine art,0.111111111,NA
+B26277V,physics and electronics,F0,physical sciences,0.175191816,F3
+B26282S,greek,Q7,classical Greek studies,0.260869565,NA
+B26286W,food and consumer studies,D6,food and beverage studies,0.230175439,NA
+B26287X,manufacturing and computi,I1,manufacturing engineering,0.24,NA
+B26291T,french german,R2,French language,0.200777001,NA
+B26293V,mechanical engineering,H3,mechanical engineering,0,NA
+B26296Y,maphilosophyfilmtv,V5,philosophy,0.148148148,NA
+B26356T,construcion managemnt qnd,K2,construction management,0.082318841,NA
+B26388B,medicine,A0,medicine,0,A1
+B26391W,photography,W6,photography,0,NA
+B26392X,spanish with theology,C2,plant pathology,0.237301587,NA
+B26424N,hopsitality management,N8,hospitality management,0.015151515,NA
+B26444S,occupational therapy,B9,occupational therapy,0,NA
+B26453T,chemistry,F1,chemistry,0,NA
+B26476A,english studies ba,Q3,English studies,0.055555556,NA
+B26505N,history,V1,history,0,NA
+B26510K,scince and computer scien,I1,computer science,0.27625,NA
+B26516R,historical studies,V6,Christian studies,0.129561547,NA
+B26525S,english lit,Q3,English law,0.121212121,NA
+B26539Y,human organisations,R7,Hungarian studies,0.206066637,NA
+B26543U,computering,I1,computer vision,0.141414141,NA
+B26547Y,pharmacy,B2,pharmacy,0,NA
+B26557A,b of mechanical engineer,H3,mechanical engineering,0.211390218,NA
+B26566B,french spanish and busin,R1,French studies,0.26984127,NA
+B26575C,chemichal and pharmaceuti,F1,medicinal chemistry,0.287214912,NA
+B26606S,economics,L1,economics,0,NA
+B26612Q,history and economics,V1,history of science,0.178902116,NA
+B26656C,mechanical engineering,H3,mechanical engineering,0,NA
+B26658E,urban estate management,D4,rural estate management,0.07384403,NA
+B26678J,history and politics,V1,history of art,0.208730159,NA
+B26699P,corporate communications,N5,corporate image,0.222863248,NA
+B26705U,historical studies,V6,Christian studies,0.129561547,NA
+B26706V,economics,L1,economics,0,NA
+B26710R,information systems,I2,information systems,0,NA
+B26718Z,philosphy and pshycology,V5,philosophy,0.241666667,V5
+B26731W,astrophysics,F5,astrophysics,0,NA
+B26738D,phsical education,X3,primary education,0.233785822,NA
+B26754D,classics  english,Q3,classical Greek studies,0.19960216,NA
+B26768K,nursing,B7,nursing,0,NA
+B26773G,english litriture,Q3,English literature,0.108728214,NA
+B26797Q,agricultural  marketing,D4,agricultural machinery,0.138513279,NA
+B26802U,media and cultural studie,P0,media and communication studies,0.200542755,P1
+B26809B,engineering and business,N1,engineering design,0.145152505,NA
+B26810U,computing and electronic,I1,computing and information technology,0.218013468,NA
+B26832A,elec systmcontrl eng,F8,remote sensing,0.292063492,H6
+B26844E,pharmacy,B2,pharmacy,0,NA
+B26849K,environmental engineering,H2,environmental engineering,0,NA
+B26850C,accountingeconomics,N4,accounting,0.157894737,NA
+B26870G,accounting,N4,accounting,0,NA
+B26873K,chemistry,F1,chemistry,0,NA
+B26876N,business information syst,N1,business information systems,0.035714286,NA
+B26883M,mathematics,G1,mathematics,0,NA
+B26884N,french and german,R2,French language,0.19248366,NA
+B26894Q,batchelor of dentist surg,Q3,Walter Scott studies,0.30372549,NA
+B26902X,architecture,K1,architecture,0,NA
+B26923C,social policy and adminis,L4,social policy,0.16,NA
+B26941E,english with media studie,Q3,English literature,0.188888889,NA
+B26975Q,biology,C1,biology,0,NA
+B26980M,veterinary science,D1,veterinary medicine,0.110501949,D1
+B26981N,environmental science,F7,environmental sciences,0.015151515,NA
+B26984R,physcology,B1,psychology,0.05,NA
+B26992R,biology,C1,biology,0,NA
+B26993S,chemistry,F1,chemistry,0,NA
+B27002Y,education,X0,education policy,0.145833333,NA
+B27019H,physics,F3,physics,0,NA
+B27032E,apploied social sciences,L3,applied social science,0.073232323,L3
+B27034G,english literature,Q3,English literature,0,NA
+B27041F,french,R1,French studies,0.19047619,R1
+B27059R,business studies,N1,business studies,0,NA
+B27069T,modern languages,R0,modern languages,0,R0
+B27095V,electronics,W3,electronic music,0.104166667,NA
+B27110B,mathematics,G1,mathematics,0,NA
+B27121E,psychology,C8,psychology,0,NA
+B27122F,pharmacy,B2,pharmacy,0,NA
+B27135L,marine biology,C1,marine biology,0,NA
+B27142K,english,Q3,English law,0.121212121,NA
+B27147Q,business studies,N1,business studies,0,NA
+B27152M,chemistry,F1,chemistry,0,NA
+B27168V,languages  it,T6,Arabic languages,0.291812354,NA
+B27170P,english literature and am,Q3,English literature,0.093333333,NA
+B27173S,mathematics operational researc,G1,mathematics,0.215053763,G1
+B27179Y,agricultural engineering,H4,aeronautical engineering,0.177777778,NA
+B27192V,quantity surveying,K2,quantity surveying,0,NA
+B27208L,eduction ba,L4,education policy,0.25530303,NA
+B27213H,geography with pe and spo,L7,geography,0.213333333,NA
+B27247T,physics,F3,physics,0,NA
+B27279B,modern history ba,V1,modern history,0.058823529,NA
+B27290W,business computing,N1,business computing,0,NA
+B27300F,fine art  sculpture,W1,fine art,0.192982456,NA
+B27301G,chemistry applied,F1,chemistry,0.156862745,F1
+B27306M,history with assoc drama,V1,history of art,0.21504884,NA
+B27310H,geography,L7,geography,0,NA
+B27329U,agriculture,D4,agriculture,0,NA
+B27337U,history,V1,history,0,NA
+B27348X,computer science,I1,computer science,0,NA
+B27359A,graphic design  illustra,W2,graphic design,0.138888889,NA
+B27365Y,music,W3,music,0,NA
+B27367A,social studies with outdo,R7,Polish studies,0.262619048,NA
+B27371W,geography,L7,geography,0,NA
+B27386D,surveying,H2,surveying,0,K2
+B27405P,business studies,N1,business studies,0,NA
+B27417T,bedsports studies,C6,sports studies,0.058823529,NA
+B27419V,applied chemistry,F1,applied chemistry,0,NA
+B27422Q,environmental science,F7,environmental sciences,0.015151515,NA
+B27430Q,quantity surveying,K2,quantity surveying,0,NA
+B27433T,chemistry,F1,chemistry,0,NA
+B27470Y,politics and modern histo,L2,politics,0.226666667,L2
+B27491D,psychology and sociology,C8,psychology of religion,0.19023569,C8
+B27496J,combined studies with,Y0,combined studies,0.079365079,NA
+B27499M,construction management,K2,construction management,0,NA
+B27500M,economics,L1,economics,0,NA
+B27513S,visual communication,W2,visual communication,0,NA
+B27514T,education,X0,education policy,0.145833333,NA
+B27528Z,major law minor accountin,W3,instrumental or vocal performance,0.309466089,NA
+B27531U,aplied chemisry,F1,applied chemistry,0.039215686,NA
+B27532V,dentistry,A0,dentistry,0,A4
+B27539C,physics,F3,physics,0,NA
+B27564D,law,M0,law,0,NA
+B27565E,design representation,W2,design,0.238095238,NA
+B27573E,chemistry,F1,chemistry,0,NA
+B27592H,history,V1,history,0,NA
+B27593J,english,Q3,English law,0.121212121,NA
+B27594K,drama,W4,drama,0,NA
+B27598P,economics,L1,economics,0,NA
+B27600Q,accountancy,N4,accountancy,0,NA
+B27611T,english and philosphy,Q3,English history,0.197069597,NA
+B27615X,education,X0,education policy,0.145833333,NA
+B27632Y,french and swedish double,R1,French society and culture,0.248690958,NA
+B27638E,medicine,A0,medicine,0,A1
+B27641Z,mechanical enignering,H3,mechanical engineering,0.031024531,NA
+B27649H,home economics and resour,L1,economics,0.305925926,NA
+B27690J,mathematics,G1,mathematics,0,NA
+B27698S,bioltechnology,J7,biotechnology,0.113553114,NA
+B27703W,sports management,N8,sports management,0,NA
+B27725C,sociology,L3,sociology,0,NA
+B27729G,social science,F7,social sciences,0.022222222,NA
+B27752F,mathematics and business studie,N1,mathematics,0.215053763,NA
+B27767N,furnature design,W2,stage design,0.213888889,NA
+B27768P,german  european studies,R2,German studies,0.21031746,NA
+B27769Q,land economy,B8,dental technology,0.251485443,NA
+B27784P,arts  design,V3,history of design,0.175727867,NA
+B27815D,music,W3,music,0,NA
+B27821B,business studies,N1,business studies,0,NA
+B27827H,biochemistry,F6,biochemistry,0,NA
+B27834G,batchelor of education,P3,television production,0.245743146,NA
+B27843H,medicine,A0,medicine,0,A1
+B27845K,bio chemistry,C7,biochemistry,0.025641026,C7
+B27854L,information technology,I1,information technology,0,I1
+B27858Q,mathematicscomputing,I1,mathematics,0.15,NA
+B27886U,dance and society,W5,dance and culture,0.182503771,NA
+B27894U,commu7nication studies,W5,community dance,0.214862915,P3
+B27905E,media production design,P3,media production,0.101449275,P3
+B27919L,bsc sports science,F5,space science,0.241517742,NA
+B27920D,law and decision making,W2,web and multimedia design,0.276908213,NA
+B27929N,mathematics and education,G1,mathematics,0.186666667,G1
+B27932H,mathematics,G1,mathematics,0,NA
+B27949S,history,V1,history,0,NA
+B27955Q,geog,F6,geology,0.142857143,NA
+B27965S,anatomy,B1,anatomy,0,NA
+B27972R,american studies,T7,American studies,0,T7
+B27990T,estate management,W4,creative management,0.131613347,NA
+B27992V,mathematical sciences,G1,mathematics,0.158730159,G1
+B27993W,town planning,K4,transport planning,0.206196581,K4
+B28007H,physics,F3,physics,0,NA
+B28009K,economics,L1,economics,0,NA
+B28026L,physic,F3,physics,0.047619048,NA
+B28033K,drama,W4,drama,0,NA
+B28067V,geograpy,L7,geography,0.037037037,NA
+B28083V,chemistry,F1,chemistry,0,NA
+B28103G,pyschology,C8,psychology,0.033333333,NA
+B28137S,english language and lite,Q3,English language,0.12,NA
+B28148V,mathematics,G1,mathematics,0,NA
+B28153S,biological sciences,C0,biological sciences,0,NA
+B28157W,mathematical studies,G1,mathematics,0.15,G1
+B28172V,combined art and english,Q3,combined studies,0.204365079,NA
+B28176Z,estate management,W4,creative management,0.131613347,NA
+B28186B,economics,L1,economics,0,NA
+B28187C,bsc astronomy and astro p,F5,astronomy,0.25037037,NA
+B28194B,accountancy,N4,accountancy,0,NA
+B28218S,social science,F7,social sciences,0.022222222,NA
+B28230N,computer science,I1,computer science,0,NA
+B28231P,law,M0,law,0,NA
+B28266A,computer aided engineeeri,I1,computer aided engineering,0.038974359,NA
+B28272Y,law,M0,law,0,NA
+B28300K,historyeconomics,V1,microeconomics,0.172619048,NA
+B28301L,sport science,D7,soil science,0.132478632,C6
+B28310M,electronic engineering,H6,electronic engineering,0,NA
+B28312P,spanish french,R1,Spanish studies,0.252380952,NA
+B28314R,biological sciences,C0,biological sciences,0,NA
+B28317U,social and political scie,L4,social policy,0.198974359,NA
+B28322R,economics,L1,economics,0,NA
+B28329Y,llb,M0,cell biology,0.25,NA
+B28367E,civil and transportation,W1,fine art conservation,0.24894958,NA
+B28381C,quantity surveying,K2,quantity surveying,0,NA
+B28388K,business economics and pm,N1,business economics,0.093333333,NA
+B28405T,english and history,V1,English history,0.070175439,NA
+B28411R,geography,L7,geography,0,NA
+B28412S,medicine,A0,medicine,0,A1
+B28419Z,politics,L2,politics,0,NA
+B28469K,law,M0,law,0,NA
+B28485K,ba hons in english with,Q3,banking,0.293995859,NA
+B28487M,french and german,R2,French language,0.19248366,NA
+B28517A,economics,L1,economics,0,NA
+B28520V,civil engineering,H2,civil engineering,0,NA
+B28533A,art and three dimensional,V2,Latin American history,0.274309764,NA
+B28535C,psychology,C8,psychology,0,NA
+B28541A,law,M0,law,0,NA
+B28548H,early childhood ba,X3,early childhood studies,0.138486312,X3
+B28557J,clothing management and t,W4,technical stage management,0.252356532,NA
+B28563G,business studies,N1,business studies,0,NA
+B28568M,music,W3,music,0,NA
+B28589S,social science,F7,social sciences,0.022222222,NA
+B28599U,fashion,W2,fashion,0,NA
+B28601V,bi medical sciences,F1,biomedical sciences,0.109161793,NA
+B28606A,psychology,C8,psychology,0,NA
+B28611X,psychology,C8,psychology,0,NA
+B28620Y,dev studies  spanish,T4,East Asian studies,0.283333333,NA
+B28622A,mathmatics for business a,N1,mathematics,0.23030303,NA
+B28639K,physics and electronic en,F0,physical sciences,0.233357843,F3
+B28643F,electroaccoustics,W3,electronic music,0.209150327,NA
+B28647K,information technology,I1,information technology,0,I1
+B28654J,geography geology,L7,geography,0.156862745,NA
+B28660G,batchelor of education,P3,television production,0.245743146,NA
+B28677R,electcomp enginering,H8,petroleum engineering,0.145767196,NA
+B28682N,accounting and finance,N4,accounting,0.181818182,NA
+B28688U,mathematics,G1,mathematics,0,NA
+B28690N,computer studies,I1,computer science,0.166666667,NA
+B28699X,health studies,B7,health studies,0,B2
+B28706D,geography and psychology,L7,geography,0.208333333,NA
+B28716F,art,N5,marketing,0.222222222,NA
+B28723E,eng lit,Q3,English studies,0.249206349,Q3
+B28724F,computing,I1,conducting,0.174074074,NA
+B28730D,media production,P3,media production,0,NA
+B28763N,archaeology,V4,archaeology,0,NA
+B28779W,osteopathy,B3,osteopathy,0,NA
+B28781Q,hairdressing,N5,advertising,0.218013468,NA
+B28812E,tapestry,A0,dentistry,0.25,W7
+B28817K,linguistics,Q1,linguistics,0,NA
+B28846Q,combined english lit  hi,Q3,combined studies,0.266559829,NA
+B28850L,south east asian,T4,South East Asian studies,0.111111111,T4
+B28875V,development economics,L7,development in the Americas,0.195767196,NA
+B28883V,media and design ba,B7,medical nursing,0.259542796,NA
+B28895Z,computer animation and vi,I1,computer animation and visual effects,0.108108108,NA
+B28921J,biological sciences,C0,biological sciences,0,NA
+B28922K,french russian and busine,R1,French studies,0.276507937,NA
+B28923L,latin,W4,acting,0.177777778,NA
+B28927Q,technologybusiness studi,N1,ecology,0.236111111,NA
+B28932M,electronic engineering,H6,electronic engineering,0,NA
+B28934P,media and cultural studie,P3,media and communication studies,0.200542755,P3
+B28939U,psychology with history,V1,psychology,0.188405797,NA
+B28941N,music and education,X3,secondary education,0.184795322,NA
+B28945S,town and regioal planning,K4,urban and regional planning,0.253243547,NA
+B28946T,fasion  textiles,W2,fashion design,0.253571429,W2
+B28957W,business studies,N1,business studies,0,NA
+B28963U,pharmacy,B2,pharmacy,0,NA
+B28982X,graphic design and advert,W2,graphic design,0.146666667,NA
+B28991Y,politics and history,V1,politics,0.2,NA
+B28998F,business politics,N1,business computing,0.168611889,NA
+B29015M,engineering,H0,engineering design,0.12962963,NA
+B29026Q,anatomy and cell biology,C1,developmental biology,0.229341737,NA
+B29041P,ba in education,X3,primary education,0.206372549,NA
+B29050Q,soiology,L3,sociology,0.037037037,L3
+B29053T,communication arts,B7,community nursing,0.222306016,NA
+B29055V,economics,L1,economics,0,NA
+B29068A,management,N2,risk management,0.111111111,N2
+B29070U,civil engineering,H2,civil engineering,0,NA
+B29073X,accountancy,N4,accountancy,0,NA
+B29077B,sociology,L3,sociology,0,NA
+B29101J,french and italian,R1,French literature,0.277579719,NA

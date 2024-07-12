@@ -1,0 +1,1571 @@
+﻿subject_code,subject_label
+A100,Pre-clinical medicine
+A200,Pre-clinical dentistry
+A300,Clinical medicine
+A400,Clinical dentistry
+A900,Others in medicine & dentistry
+A990,Medicine & dentistry not elsewhere classified
+A000,Medicine & dentistry
+B100,"Anatomy, physiology & pathology"
+B110,Anatomy
+B120,Physiology
+B121,Clinical physiology
+B130,Pathology
+B131,Cellular pathology
+B132,Pathobiology
+B140,Neuroscience
+B160,Physiotherapy
+B170,Podiatry
+B190,"Anatomy, physiology & pathology not elsewhere classified"
+B200,"Pharmacology, toxicology & pharmacy"
+B210,Pharmacology
+B220,Toxicology
+B230,Pharmacy
+B290,"Pharmacology, toxicology & pharmacy not elsewhere classified"
+B300,"Complementary medicines, therapies & well-being"
+B310,Osteopathy
+B320,Chiropractic
+B340,Alternative medicine & therapies
+B341,Chinese
+B342,Herbalism
+B343,Acupuncture
+B344,Aromatherapy
+B345,Hypnotherapy
+B346,Reflexology
+B350,Hair & beauty science
+B351,Hair services
+B352,Beauty therapies
+B353,Make-up
+B360,Spa & water-based therapies
+B390,"Complementary medicines, therapies & well-being not elsewhere classified"
+B400,Nutrition
+B410,Dietetics
+B490,Nutrition not elsewhere classified
+B500,Ophthalmics
+B510,Optometry
+B520,Orthoptics
+B590,Ophthalmics not elsewhere classified
+B600,Aural & oral sciences
+B610,Audiology
+B620,Speech science
+B630,Language pathology
+B690,Aural & oral sciences not elsewhere classified
+B700,Nursing
+B701,Palliative care nursing
+B702,Clinical practice nursing
+B710,Community nursing
+B712,Health visiting
+B713,School nursing
+B714,Practice nursing
+B720,Midwifery
+B730,Children's nursing
+B731,Neonatal care
+B740,Adult nursing
+B741,Older people nursing
+B750,Dental nursing
+B760,Mental health nursing
+B761,Learning disability nursing
+B770,Medical nursing
+B771,Critical care nursing
+B772,Surgical nursing
+B773,Emergency nursing
+B790,Nursing not elsewhere classified
+B800,Medical technology
+B810,Cardiography
+B820,Radiology
+B821,"Radiography, diagnostic"
+B822,"Radiography, therapeutic"
+B830,Biomechanics & prosthetics (non-clinical)
+B840,Dental technology
+B850,Mortuary technology
+B890,Medical technology not elsewhere classified
+B900,Others in subjects allied to medicine
+B910,Environmental health
+B920,Occupational health
+B930,Occupational therapy
+B940,Counselling
+B950,Paramedical science
+B960,Physician assistant studies
+B990,Subjects allied to medicine not elsewhere classified
+B000,Subjects allied to medicine
+C100,Biology
+C110,Applied biology
+C111,Parasitology
+C120,Behavioural biology
+C130,Cell biology
+C131,Applied cell biology
+C140,Developmental/Reproductive biology
+C141,Developmental biology
+C142,Reproductive biology
+C150,Environmental biology
+C160,Marine/Freshwater biology
+C161,Marine biology
+C162,Freshwater biology
+C170,Population biology
+C180,Ecology
+C181,Biodiversity
+C182,Evolution
+C183,Community ecology
+C184,Conservation ecology
+C185,Ecosystem ecology & land use
+C186,Population ecology
+C187,Ecotoxicology
+C190,Biology not elsewhere classified
+C191,Biometry
+C200,Botany
+C210,Applied botany
+C220,Mycology
+C230,Plant biotechnology
+C240,Plant cell science
+C250,Plant pathology
+C260,Plant physiology
+C270,Developmental & reproductive plant biology
+C280,Systematic botany
+C290,Botany not elsewhere classified
+C300,Zoology
+C310,Applied zoology
+C320,Cell zoology
+C330,Developmental & reproductive zoology
+C340,Entomology
+C350,Marine zoology
+C360,Pest science
+C380,Systematic zoology
+C390,Zoology not elsewhere classified
+C400,Genetics
+C410,Applied genetics
+C420,Human genetics
+C430,Medical & veterinary genetics
+C431,Medical genetics
+C432,Veterinary genetics
+C440,Molecular genetics
+C441,Transcriptomics
+C450,Genomics
+C451,Functional genomics
+C452,Genome organisation
+C460,Genetic engineering
+C470,Population genetics & evolution
+C490,Genetics not elsewhere classified
+C500,Microbiology
+C510,Applied microbiology
+C520,Medical & veterinary microbiology
+C521,Medical microbiology
+C522,Veterinary microbiology
+C530,Bacteriology
+C540,Virology
+C550,Immunology
+C570,Serology
+C590,Microbiology not elsewhere classified
+C600,Sport & exercise science
+C610,Sport coaching
+C620,Sport development
+C630,"Sport conditioning, rehabilitation & therapy"
+C640,Sport studies
+C650,Sport technology
+C690,Sport & exercise science not elsewhere classified
+C700,"Molecular biology, biophysics & biochemistry"
+C710,"Applied molecular biology, biophysics & biochemistry"
+C720,Biological chemistry
+C730,Metabolic biochemistry
+C740,Medical & veterinary biochemistry
+C741,Medical biochemistry
+C742,Veterinary biochemistry
+C750,Plant biochemistry
+C760,Biomolecular science
+C770,Biophysical science
+C790,"Molecular biology, biophysics & biochemistry not elsewhere classified"
+C800,Psychology
+C810,Applied psychology
+C811,Occupational psychology
+C812,Educational psychology
+C813,Sport psychology
+C814,Organisational psychology
+C815,Business psychology
+C816,Forensic psychology
+C820,Developmental psychology
+C821,Child psychology
+C822,The psychology of ageing
+C830,Methodological & conceptual issues in psychology
+C831,Research methods in psychology
+C832,Quantitative psychology
+C833,Qualitative psychology
+C834,History of psychology
+C835,Philosophy of psychology
+C840,Psychology in health & medicine
+C841,Health psychology
+C842,Clinical psychology
+C843,Counselling psychology
+C844,Psychotherapy
+C845,Clinical neuropsychology
+C846,Community psychology
+C847,Psychoanalytical studies
+C848,Psychology of mental health
+C850,Cognitive & affective psychology
+C851,Psychological modelling
+C852,Psychology of communication
+C853,Psychology of memory & learning
+C854,Psychology of perception
+C855,Psychology of higher cognitive processes
+C856,Experimental psychology
+C857,Affective psychology
+C858,Transpersonal psychology
+C860,Psychobiology
+C861,Cognitive neuroscience
+C862,Affective neuroscience
+C863,Psychopharmacology
+C864,Evolutionary psychology
+C865,Animal psychology
+C870,Personality & individual differences
+C871,Psychometrics
+C872,Psychology of gender
+C873,Cross-cultural psychology
+C880,Social psychology
+C881,Social cognition
+C890,Psychology not elsewhere classified
+C900,Others in Biological Sciences
+C910,Applied biological sciences
+C990,Biological sciences not elsewhere classified
+C000,Biological sciences
+D100,Pre-clinical veterinary medicine
+D190,Pre-clinical veterinary medicine not elsewhere classified
+D200,Clinical veterinary medicine & dentistry
+D210,Clinical veterinary medicine
+D220,Clinical veterinary dentistry
+D290,Clinical veterinary medicine & dentistry not elsewhere classified
+D300,Animal science
+D310,Veterinary nursing
+D320,Animal health
+D321,Animal anatomy
+D322,Animal physiology
+D323,Animal pathology
+D324,Animal pharmacology
+D325,Animal toxicology
+D326,Animal pharmacy
+D327,Animal nutrition
+D328,Animal welfare
+D330,Veterinary public health
+D340,Overseas veterinary development
+D390,Animal sciences not elsewhere classified
+D400,Agriculture
+D410,Arable & fruit farming
+D411,Agricultural pests & diseases
+D412,Crop physiology
+D413,Crop nutrition
+D414,Crop protection
+D415,Crop production
+D416,Glasshouse culture
+D417,Amenity horticulture
+D418,Exotic plants & crops
+D420,Livestock
+D421,Livestock husbandry
+D422,Equine studies
+D423,Poultry keeping
+D424,Game keeping
+D425,Exotic livestock
+D430,Fish farming
+D431,Fish husbandry
+D432,Freshwater fish
+D433,Saltwater fish
+D434,Ornamental fish
+D435,Aquaculture
+D440,Rural estate management
+D441,Farm management
+D442,Game keeping management
+D443,Water resource management
+D444,Land management for recreation
+D445,Biological heritage site management
+D446,Wilderness management
+D447,Environmental conservation
+D448,Sustainable agricultural & landscape development
+D450,International agriculture
+D460,Organic farming
+D461,Organic arable & fruit farming
+D462,Organic livestock
+D463,Organic fish farming
+D470,Agricultural technology
+D471,Agricultural machinery
+D472,Agricultural irrigation & drainage
+D490,Agriculture not elsewhere classified
+D500,Forestry & arboriculture
+D510,Trees & shrubs
+D511,Forestry pests & diseases
+D512,Tree physiology
+D513,Tree nutrition
+D514,Tree protection
+D515,Tree production
+D516,Timber production
+D517,Community forestry
+D520,International forestry
+D530,Organic forestry
+D540,Forestry technology
+D541,Forestry irrigation & drainage
+D590,Forestry not elsewhere classified
+D600,Food & beverage studies
+D610,Food science
+D611,Meat science
+D612,Cereal science
+D613,Vegetable science
+D614,Fruit science
+D620,Food hygiene
+D630,Food & beverage production
+D631,Food & beverage manufacture
+D632,Food & beverage processing
+D633,Food & beverage technology
+D634,Industrial baking
+D635,Industrial brewing
+D640,Food & beverages for the consumer
+D641,Food & beverage packaging
+D642,Food & beverage delivery
+D690,Food & beverage studies not elsewhere classified
+D700,Agricultural sciences
+D710,Agricultural biology
+D711,Agricultural microbiology
+D720,Agricultural chemistry
+D721,Agricultural biochemistry
+D730,Agricultural botany
+D740,Agricultural zoology
+D750,Soil as an agricultural medium
+D790,Agricultural sciences not elsewhere classified
+D900,"Others in veterinary sciences, agriculture & related subjects"
+D990,"Veterinary sciences, agriculture & related subjects not elsewhere classified"
+D000,"Veterinary sciences, agriculture & related subjects"
+F100,Chemistry
+F110,Applied chemistry
+F111,Industrial chemistry
+F112,Colour chemistry
+F120,Inorganic chemistry
+F130,Structural chemistry
+F131,Crystallography
+F140,Environmental chemistry
+F141,Marine chemistry
+F150,Medicinal chemistry
+F151,Pharmaceutical chemistry
+F160,Organic chemistry
+F161,Organometallic chemistry
+F162,Polymer chemistry
+F163,Bio-organic chemistry
+F164,Petrochemical chemistry
+F165,Biomolecular chemistry
+F170,Physical chemistry
+F180,Analytical chemistry
+F190,Chemistry not elsewhere classified
+F200,Materials science
+F290,Materials science not elsewhere classified
+F300,Physics
+F310,Applied physics
+F311,Engineering physics
+F320,Chemical physics
+F321,Solid-state physics
+F330,Environmental physics
+F331,Atmospheric physics
+F332,Marine physics
+F340,Mathematical & theoretical physics
+F341,Electromagnetism
+F342,Quantum mechanics
+F343,Computational physics
+F350,Medical physics
+F351,Radiation physics
+F360,Optical physics
+F361,Laser physics
+F370,Nuclear & particle physics
+F380,Acoustics
+F390,Physics not elsewhere classified
+F400,Forensic & archaeological sciences
+F410,Forensic science
+F420,Archaeological science
+F490,Forensic & archaeological sciences not elsewhere classified
+F500,Astronomy
+F510,Astrophysics
+F520,Space & planetary sciences
+F521,Space science
+F522,Planetary science
+F530,Solar & solar terrestrial physics
+F540,Astronomy observation
+F550,Astronomy theory
+F590,Astronomy not elsewhere classified
+F600,Geology
+F610,Applied geology
+F611,Industrial geology
+F612,Engineering geology
+F620,Mining geology
+F621,Exploration geology
+F630,Geotechnology
+F631,Marine geotechnology
+F640,Earth science
+F641,Palaeontology
+F642,Geoscience
+F643,Quaternary studies
+F644,Hydrogeology
+F645,Mantle & core processes
+F646,Land-atmosphere interactions
+F650,Geological oceanography
+F660,Geophysics
+F661,Exploration geophysics
+F670,Geochemistry
+F680,Geohazards
+F681,Seismology & tectonics
+F682,Vulcanology
+F690,Geology not elsewhere classified
+F700,Science of aquatic & terrestrial environments
+F710,Marine sciences
+F720,Hydrography
+F730,Ocean sciences
+F731,Ocean circulation
+F732,Oceanographic survey & monitoring
+F733,Land-ocean interaction
+F734,Atmosphere-ocean interactions
+F750,Environmental sciences
+F751,Applied environmental sciences
+F752,Hydrology
+F753,Pollution control
+F754,Biogeochemical cycles
+F755,Environmental informatics
+F756,Environmental physiology
+F760,Climatology
+F761,Meteorology
+F762,Large-scale atmospheric dynamics & transport
+F763,Boundary-layer meteorology
+F764,Climate & climate change
+F765,Radiative processes & effects
+F770,Soil science
+F780,Glaciology & cryospheric systems
+F790,Science of aquatic & terrestrial environments not elsewhere classified
+F800,Physical geographical sciences
+F810,Environmental geography
+F811,Biogeography
+F840,Physical geography
+F841,Maritime geography
+F842,Geomorphology
+F843,Topography
+F844,Cartography
+F845,Remote sensing
+F846,Geographical information systems
+F890,Physical geographical sciences not elsewhere classified
+F900,Others in physical sciences
+F990,Physical sciences not elsewhere classified
+F000,Physical sciences
+G100,Mathematics
+G110,Pure mathematics
+G120,Applied mathematics
+G121,Mechanics (mathematical)
+G130,Mathematical methods
+G140,Numerical analysis
+G150,Mathematical modelling
+G160,Engineering/industrial mathematics
+G170,Computational mathematics
+G190,Mathematics not elsewhere classified
+G200,Operational research
+G290,Operational research not elsewhere classified
+G300,Statistics
+G310,Applied statistics
+G311,Medical statistics
+G320,Probability
+G330,Stochastic processes
+G340,Statistical modelling
+G350,Mathematical statistics
+G390,Statistics not elsewhere classified
+G900,Others in mathematical sciences
+H100,General engineering
+H110,Integrated engineering
+H120,Safety engineering
+H121,Fire safety engineering
+H122,Water quality control
+H123,Public health engineering
+H130,Computer-aided engineering
+H131,Automated engineering design
+H140,Mechanics
+H141,Fluid mechanics
+H142,Solid mechanics
+H143,Structural mechanics
+H150,Engineering design
+H160,"Bioengineering, biomedical engineering & clinical engineering"
+H161,Biomaterials
+H162,Biomechanics (including fluid & solid mechanics)
+H163,Bioelectronics & bioelectricity
+H164,Rehabilitation engineering
+H165,Tissue engineering & regenerative medicine
+H166,Imaging
+H167,Biosensors
+H168,Medical devices & instrumentation
+H169,Neural engineering
+H190,General engineering not elsewhere classified
+H200,Civil engineering
+H210,Structural engineering
+H220,Environmental engineering
+H221,Energy resources
+H222,Coastal decay
+H223,Environmental impact assessment
+H230,Transport engineering
+H231,Permanent way engineering
+H232,Pavement engineering
+H240,Surveying science
+H241,General practice surveying
+H242,Engineering surveying
+H250,Geotechnical engineering
+H290,Civil engineering not elsewhere classified
+H300,Mechanical engineering
+H310,Dynamics
+H311,Thermodynamics
+H320,Mechanisms & machines
+H321,Turbine technology
+H330,Automotive engineering
+H331,Road vehicle engineering
+H332,Rail vehicle engineering
+H333,Ship propulsion engineering
+H340,Acoustics & vibration
+H341,Acoustics
+H342,Vibration
+H350,Offshore engineering
+H360,Electromechanical engineering
+H390,Mechanical engineering not elsewhere classified
+H400,Aerospace engineering
+H410,Aeronautical engineering
+H411,Air passenger transport engineering
+H412,Air freight transport engineering
+H413,Air combat engineering
+H420,Astronautical engineering
+H430,Avionics
+H440,Aerodynamics
+H441,Flight mechanics
+H450,Propulsion systems
+H460,Aviation studies
+H490,Aerospace engineering not elsewhere classified
+H500,Naval architecture
+H510,Shipbuilding
+H511,Surface passenger ship building
+H512,Surface freight ship building
+H513,Surface combat ship building
+H514,Submarine building
+H520,Ship design
+H521,Surface passenger ship design
+H522,Surface freight ship design
+H523,Surface combat ship design
+H524,Submarine design
+H590,Naval architecture not elsewhere classified
+H600,Electronic & electrical engineering
+H610,Electronic engineering
+H611,Microelectronic engineering
+H612,Integrated circuit design
+H620,Electrical engineering
+H630,Electrical power
+H631,Electrical power generation
+H632,Electrical power distribution
+H640,Communications engineering
+H641,Telecommunications engineering
+H642,Broadcast engineering
+H643,Satellite engineering
+H644,Microwave engineering
+H650,Systems engineering
+H651,Digital circuit engineering
+H652,Analogue circuit engineering
+H660,Control systems
+H661,Instrumentation control
+H662,Control by light systems
+H670,Robotics & cybernetics
+H671,Robotics
+H672,Cybernetics
+H674,Virtual reality engineering
+H680,Optoelectronic engineering
+H690,Electronic & electrical engineering not elsewhere classified
+H700,Production & manufacturing engineering
+H710,Manufacturing systems engineering
+H711,Manufacturing systems design
+H712,Manufacturing installation systems
+H713,Production processes
+H714,Manufacturing systems maintenance
+H720,Quality assurance engineering
+H730,Mechatronics
+H790,Production & manufacturing engineering not elsewhere classified
+H800,"Chemical, process & energy engineering"
+H810,Chemical engineering
+H811,Biochemical engineering
+H812,Pharmaceutical engineering
+H820,Atomic engineering
+H821,Nuclear engineering
+H830,Chemical process engineering
+H831,Bioprocess engineering
+H840,Gas engineering
+H850,Petroleum engineering
+H890,"Chemical, process & energy engineering not elsewhere classified"
+H900,Others in engineering
+H990,Engineering not elsewhere classified
+H000,Engineering
+I100,Computer science
+I110,Computer architectures & operating systems
+I111,Computer architectures
+I112,Operating systems
+I113,Displays & imaging
+I114,High end computing
+I115,Parallel computing
+I120,Networks & communications
+I130,Computational science foundations
+I140,Human-computer interaction
+I150,Multimedia computing science
+I160,Internet
+I161,e-business
+I190,Computer science not elsewhere classified
+I200,Information systems
+I210,Information modelling
+I220,Systems design methodologies
+I230,Systems analysis & design
+I240,Databases
+I250,Systems auditing
+I260,Data management
+I270,Intelligent & expert systems
+I290,Systems analysis & design not elsewhere classified
+I300,Software engineering
+I310,Software design
+I320,Programming
+I321,Procedural programming
+I322,Object-oriented programming
+I323,Declarative programming
+I390,Software engineering not elsewhere classified
+I400,Artificial intelligence
+I410,Speech & natural language processing
+I420,Knowledge representation
+I430,Neural computing
+I440,Computer vision
+I450,Cognitive modelling
+I460,Machine learning
+I461,Automated reasoning
+I490,Artificial intelligence not elsewhere classified
+I500,Health informatics
+I510,Health technologies
+I520,Bioinformatics
+I530,Tele healthcare
+I590,Health informatics not elsewhere classified
+I600,Games
+I610,Computer games programming
+I620,Computer games design
+I630,Computer games graphics
+I700,Computer generated visual & audio effects
+I710,Computer generated imagery
+I900,Others in Computer sciences
+I990,Computer sciences not elsewhere classified
+J100,Minerals technology
+J110,Mining
+J120,Quarrying
+J130,Rock mechanics
+J140,Minerals processing
+J150,Minerals surveying
+J160,Petrochemical technology
+J190,Minerals technology not elsewhere classified
+J200,Metallurgy
+J210,Applied metallurgy
+J220,Metallic fabrication
+J221,Pattern making
+J230,Corrosion technology
+J290,Metallurgy not elsewhere classified
+J300,Ceramics & glass
+J310,Ceramics
+J320,Glass technology
+J390,Ceramics & glass not elsewhere classified
+J400,Polymers & textiles
+J410,Polymers technology
+J411,Plastics
+J420,Textiles technology
+J421,Textile chemistry
+J422,Dying & colouring of textiles
+J430,Leather technology
+J431,Tanning
+J440,Clothing production
+J441,Machine knitting
+J442,Commercial tailoring
+J443,Pattern cutting
+J444,Millinery
+J445,Footwear production
+J490,Polymers & textiles not elsewhere classified
+J500,Materials technology not otherwise specified
+J510,Materials technology
+J511,Engineering materials
+J512,Paper technology
+J513,Furniture technology
+J520,Printing
+J521,Offset lithography
+J522,Photo-lithography
+J523,Reprographic techniques
+J524,Screen process printing
+J530,Gemmology
+J590,Materials technology not elsewhere classified
+J600,Maritime technology
+J610,Marine technology
+J611,Marine navigation
+J612,Marine radar
+J613,Marine radio
+J614,Marine plumbing
+J690,Maritime technology not elsewhere classified
+J700,Biotechnology
+J710,"Plant biotechnology (crops, trees, shrubs etc.)"
+J720,Animal biotechnology
+J730,Environmental biotechnology
+J740,Industrial biotechnology
+J750,Medical biotechnology
+J790,Biotechnology not elsewhere classified
+J900,Others in technology
+J910,Energy technologies
+J920,Ergonomics
+J930,Audio technology
+J931,Music recording
+J940,Machinery maintenance
+J941,Office machinery maintenance
+J942,Industrial machinery maintenance
+J950,Musical instrument technology
+J960,Transport logistics
+J970,Emergency & disaster technologies
+J990,Technologies not elsewhere classified
+J000,Technologies
+K100,Architecture
+K110,Architectural design theory
+K120,Interior architecture
+K130,Architectural technology
+K190,Architecture not elsewhere classified
+K200,Building
+K210,Building technology
+K220,Construction management
+K230,Building surveying
+K240,Quantity surveying
+K250,Conservation of buildings
+K251,Property development
+K290,Building not elsewhere classified
+K300,Landscape & garden design
+K310,Landscape architecture
+K320,Landscape studies
+K330,Landscape design
+K340,Garden design
+K341,Garden horticulture
+K390,Landscape & garden design not elsewhere classified
+K400,"Planning (urban, rural & regional)"
+K410,Regional planning
+K420,Urban & rural planning
+K421,Urban planning
+K422,Rural planning
+K430,Planning studies
+K440,Urban studies
+K450,Housing
+K460,Transport planning
+K490,"Planning (urban, rural & regional) not elsewhere classified"
+K900,"Others in architecture, building & planning"
+K990,"Architecture, building & planning not elsewhere classified"
+K000,"Architecture, building & planning"
+L100,Economics
+L110,Applied economics
+L111,Financial economics
+L112,Agricultural economics
+L113,Economic policy
+L120,Microeconomics
+L130,Macroeconomics
+L140,Econometrics
+L150,Political economics
+L160,International economics
+L170,Economic systems
+L171,Capitalism
+L172,Monetarism
+L173,Keynesianism
+L174,Collectivism
+L190,Economics not elsewhere classified
+L200,Politics
+L210,Political theories
+L211,Liberalism
+L212,Conservatism
+L213,Socialism
+L214,Nationalism
+L215,Fascism
+L216,Feminism
+L217,Environmentalism
+L218,Anarchism
+L220,Political systems
+L221,Autocracy
+L222,Democracy
+L223,Plutocracy
+L224,Oligarchy
+L230,UK government/parliamentary studies
+L231,Public administration
+L232,UK constitutional studies
+L240,International politics
+L241,European Union politics
+L242,Commonwealth politics
+L243,Politics of a specific country/region
+L244,International constitutional studies
+L250,International relations
+L251,Strategic studies
+L252,War & peace studies
+L253,International criminology
+L260,Comparative politics
+L290,Politics not elsewhere classified
+L300,Sociology
+L310,Applied sociology
+L311,Applied criminology
+L312,Victimology
+L320,Gender studies
+L321,Women's studies
+L322,Men's studies
+L330,Ethnic studies
+L340,Disability in society
+L350,Religion in society
+L360,Socio-economics
+L370,Social theory
+L371,Social hierarchy
+L380,Political sociology
+L390,Sociology not elsewhere classified
+L391,Sociology of science & technology
+L400,Social policy
+L410,UK social policy
+L420,International social policy
+L430,Public policy
+L431,Health policy
+L432,Welfare policy
+L433,Education policy
+L434,Transport policy
+L435,Security policy
+L436,Emergency services policy
+L437,Criminal justice policy
+L490,Social policy not elsewhere classified
+L500,Social work
+L510,Health & welfare
+L520,Child care
+L530,Youth work
+L540,Community work
+L541,Community justice
+L550,Careers guidance
+L560,Probation/after-care
+L590,Social work not elsewhere classified
+L600,Anthropology
+L610,Social & cultural anthropology
+L611,Criminological theory
+L620,Physical & biological anthropology
+L690,Anthropology not elsewhere classified
+L700,Human & social geography
+L710,Human & social geography by area
+L711,Human & social geography of Europe
+L712,Human & social geography of Asia
+L713,Human & social geography of Africa
+L714,Human & social geography of Australasia
+L715,Human & social geography of the Americas
+L716,Human & social geography of the Arctic/Antarctic
+L720,Human & social geography by topic
+L721,Economic geography
+L722,Urban geography
+L723,Political geography
+L724,Transport geography
+L725,Historical geography
+L726,Cultural geography
+L727,Agricultural geography
+L728,Human Demography
+L790,Human & social geography not elsewhere classified
+L800,Development studies
+L900,Others in social studies
+L990,Social studies not elsewhere classified
+L000,Social studies
+M100,Law by area
+M110,UK legal systems
+M111,English law
+M112,Welsh law
+M113,Northern Irish law
+M114,Scottish law
+M120,European Union law
+M130,Public international law
+M140,Comparative law
+M190,Law by area not elsewhere classified
+M200,Law by topic
+M210,Public law
+M211,Criminal law
+M220,Private law
+M221,Business & commercial law
+M222,Contract law
+M223,Property law
+M224,Torts
+M240,Jurisprudence
+M250,Legal practice
+M260,Medical law
+M270,Sociology of law
+M290,Law by topic not elsewhere classified
+M900,Others in law
+M990,Law not elsewhere classified
+M000,Law
+N100,Business studies
+N110,European business studies
+N120,International business studies
+N190,Business studies not elsewhere classified
+N200,Management studies
+N210,Management techniques
+N211,Strategic management
+N212,Creative management
+N213,Project management
+N214,Change management
+N215,Organisational development
+N220,Institutional management
+N223,Domestic management
+N224,Management & organisation of education
+N225,Criminal justice management
+N230,Land & property management
+N231,Land management
+N232,Property management
+N234,Property valuation & auctioneering
+N240,Retail management
+N250,Emergency & disaster management
+N251,Emergency services management
+N252,Disaster management
+N290,Management studies not elsewhere classified
+N300,Finance
+N310,Banking
+N320,Investment & insurance
+N321,Investment
+N322,Insurance
+N323,Actuarial science
+N330,Taxation
+N340,Financial management
+N341,Financial risk
+N390,Finance not elsewhere classified
+N400,Accounting
+N410,Accountancy
+N411,Cost & management accountancy
+N412,Public accountancy
+N413,Book keeping
+N420,Accounting theory
+N421,Auditing of accounts
+N422,Financial reporting
+N490,Accounting not elsewhere classified
+N500,Marketing
+N510,Market research
+N520,Sales management
+N530,Distribution
+N550,International marketing
+N560,Promotion & advertising
+N561,Advertising
+N562,Corporate image
+N563,Sponsorship
+N590,Marketing not elsewhere classified
+N600,Human resource management
+N611,Industrial relations
+N612,Staff development
+N613,Training methods
+N614,Recruitment methods
+N620,Health & safety issues
+N690,Human resources management not elsewhere classified
+N700,Office skills
+N710,Office administration
+N720,Secretarial & typing skills
+N721,Audio typing
+N722,Shorthand & shorthand transcription
+N790,Office skills not elsewhere classified
+N800,"Hospitality, leisure, sport, tourism & transport"
+N810,Travel management
+N820,Event management
+N830,Tourism
+N831,Tourism studies
+N832,Tourism management
+N850,Transport studies
+N851,Land travel
+N852,Sea travel
+N853,Air travel
+N860,Hospitality
+N861,Hospitality studies
+N862,Hospitality management
+N870,Recreation & leisure studies
+N871,Spa management
+N872,Salon management
+N880,Sport management
+N890,"Hospitality, leisure, sport, tourism & transport not elsewhere classified"
+N900,Others in business & administrative studies
+N990,Business & administrative studies not elsewhere classified
+N000,Business & administrative studies
+P100,Information services
+P110,Information management
+P120,Librarianship
+P121,Library studies
+P130,Curatorial studies
+P131,Museum studies
+P132,Archive studies
+P190,Information services not elsewhere classified
+P200,Publicity studies
+P210,Public relations
+P290,Publicity studies not elsewhere classified
+P300,Media studies
+P301,Television studies
+P302,Radio studies
+P303,Film studies
+P304,Electronic media studies
+P305,Paper-based media studies
+P310,Media production
+P311,Television production
+P312,Radio production
+P313,Film production
+P390,Media studies not elsewhere classified
+P400,Publishing
+P410,Electronic publishing
+P411,Publishing on audio/video tape
+P412,Publishing on CD-ROM
+P413,Publishing via the World Wide Web
+P420,Multimedia publishing
+P430,Interactive publishing
+P490,Publishing not elsewhere classified
+P500,Journalism
+P510,Factual reporting
+P590,Journalism not elsewhere classified
+P900,Others in mass communications & documentation
+P990,Mass communications & documentation not elsewhere classified
+P000,Mass communications & documentation
+Q100,Linguistics
+Q110,Applied linguistics
+Q120,Historical linguistics
+Q130,Phonetics & phonology
+Q131,Phonetics
+Q132,Phonology
+Q140,Sociolinguistics
+Q150,Psycholinguistics
+Q160,British Sign Language
+Q190,Linguistics not elsewhere classified
+Q200,Comparative literary studies
+Q210,Literature in translation
+Q220,Literature in its original language
+Q290,Comparative literary studies not elsewhere classified
+Q300,English studies
+Q310,English language
+Q320,English literature
+Q321,English literature by period
+Q322,English literature by author
+Q323,English literature by topic
+Q330,English as a second language
+Q340,English literature written as a second language
+Q350,Scots language
+Q360,Scots literature
+Q370,Irish language
+Q380,Irish literature
+Q390,English studies not elsewhere classified
+Q400,Ancient language studies
+Q410,Ancient Egyptian
+Q411,Coptic
+Q420,Classical Arabic
+Q430,Akkadian
+Q440,Sumerian
+Q450,Sanskrit
+Q460,Prakrit
+Q470,Aramaic
+Q480,Hebrew
+Q490,Ancient language studies not elsewhere classified
+Q500,Celtic studies
+Q510,Ancient Celtic studies
+Q520,Modern Celtic studies
+Q521,Goidelic group of languages
+Q522,Brythonic group of languages
+Q530,Scottish Gaelic
+Q531,Scottish Gaelic literature
+Q540,Irish Gaelic
+Q541,Irish Gaelic literature
+Q550,Manx
+Q551,Manx literature
+Q560,Welsh
+Q561,Welsh literature
+Q570,Cornish
+Q571,Cornish literature
+Q580,Breton
+Q581,Breton literature
+Q590,Celtic studies not elsewhere classified
+Q600,Latin studies
+Q610,Latin language
+Q611,Church Latin
+Q612,Medieval Latin
+Q620,Latin literature
+Q630,Latin literature in translation
+Q690,Latin studies not elsewhere classified
+Q700,Classical Greek studies
+Q710,Classical Greek language
+Q711,Classical Church Greek
+Q712,Late Greek
+Q720,Classical Greek literature
+Q730,Classical Greek literature in translation
+Q790,Classical Greek studies not elsewhere classified
+Q800,Classical studies
+Q810,Classical reception
+Q890,Classical studies not elsewhere classified
+Q900,"Others in linguistics, classics & related subjects"
+Q910,Translation studies
+Q920,Translation theory
+Q990,"Linguistics, classics & related subjects not elsewhere classified"
+Q000,"Linguistics, classics & related subjects"
+R100,French studies
+R110,French language
+R120,French literature
+R130,French society & culture
+R190,French studies not elsewhere classified
+R200,German studies
+R210,German language
+R220,German literature
+R230,German society & culture
+R290,German studies not elsewhere classified
+R300,Italian studies
+R310,Italian language
+R320,Italian literature
+R330,Italian society & culture
+R390,Italian studies not elsewhere classified
+R400,Spanish studies
+R410,Spanish language
+R411,Spanish languages in other countries
+R420,Spanish literature
+R430,Spanish society & culture
+R490,Spanish studies not elsewhere classified
+R500,Portuguese studies
+R510,Portuguese language
+R511,Portuguese languages in other countries
+R520,Portuguese literature
+R530,Portuguese society & culture
+R590,Portuguese studies not elsewhere classified
+R600,Scandinavian studies
+R610,Scandinavian languages
+R611,Swedish language
+R612,Norwegian language
+R613,Finnish language
+R614,Danish language
+R620,Scandinavian literature
+R621,Swedish literature
+R622,Norwegian literature
+R623,Finnish literature
+R624,Danish literature
+R630,Scandinavian society & culture
+R631,Swedish society & culture
+R632,Norwegian society & culture
+R633,Finnish society & culture
+R634,Danish society & culture
+R690,Scandinavian studies not elsewhere classified
+R700,Russian & East European studies
+R701,Russian studies
+R702,Czech studies
+R703,Polish studies
+R704,Belarusian studies
+R705,Bulgarian studies
+R706,Hungarian studies
+R707,Romanian studies
+R708,Slovak studies
+R709,Ukrainian studies
+R710,Russian & East European languages
+R711,Russian language
+R712,Polish language
+R713,Czech language
+R720,Russian & east European Literature
+R721,Russian literature
+R722,Polish literature
+R723,Czech literature
+R730,Russian & east European society & culture
+R731,Russian society & culture
+R732,Polish society & culture
+R733,Czech society & culture
+R790,Russian & east European studies not elsewhere classified
+R800,European studies
+R900,"Others in European languages, literature & related subjects"
+R910,Other European languages
+R911,Dutch
+R912,Flemish
+R920,Other European literature
+R930,Other European societies & cultures
+R990,"European languages, literature & related subjects not elsewhere classified"
+R000,"European languages, literature & related subjects"
+T100,Chinese studies
+T110,Chinese language studies
+T120,Chinese literature studies
+T130,Chinese society & culture studies
+T190,Chinese studies not elsewhere classified
+T200,Japanese studies
+T210,Japanese language studies
+T220,Japanese literature studies
+T230,Japanese society & culture studies
+T290,Japanese studies not elsewhere classified
+T300,South Asian studies
+T310,South Asian language studies
+T311,Indian language studies
+T312,Pakistani language studies
+T313,Sri Lankan language studies
+T314,Bangladeshi language studies
+T315,Nepali language studies
+T320,South Asian literature studies
+T321,Indian literature studies
+T322,Pakistani literature studies
+T323,Sri Lankan literature studies
+T324,Bangladeshi literature studies
+T325,Nepali literature studies
+T330,South Asian society & culture studies
+T331,Indian society & culture studies
+T332,Pakistani society & culture studies
+T333,Sri Lankan society & culture studies
+T334,Bangladeshi society & culture studies
+T335,Nepali society & culture studies
+T390,South Asian studies not elsewhere classified
+T400,Other Asian studies
+T410,Other Asian language studies
+T411,East Asian language studies
+T412,South East Asian language studies
+T420,Other Asian literature studies
+T421,East Asian literature studies
+T422,South East Asian literature studies
+T430,Other Asian society & culture studies
+T431,East Asian society & culture studies
+T432,South East Asian society & culture studies
+T490,Other Asian studies not elsewhere classified
+T500,African studies
+T510,African language studies
+T511,Eastern African language studies
+T512,Central African language studies
+T513,Northern African language studies
+T514,Southern African language studies
+T515,Western African language studies
+T520,African literature studies
+T521,Eastern African literature studies
+T522,Central African literature studies
+T523,Northern African literature studies
+T524,Southern African literature studies
+T525,Western African literature studies
+T530,African society & culture studies
+T531,Eastern African society & culture studies
+T532,Central African society & culture studies
+T533,Northern African society & culture studies
+T534,Southern African society & culture studies
+T535,Western African society & culture studies
+T590,African studies not elsewhere classified
+T600,Modern Middle Eastern studies
+T610,Modern Middle Eastern language studies
+T611,Arabic language studies
+T612,Modern Standard Arabic language studies
+T613,Persian language studies
+T614,Modern Hebrew language studies
+T615,Kurdish language studies
+T616,Turkish language studies
+T620,Modern Middle Eastern literature studies
+T621,Arabic literature studies
+T623,Persian literature studies
+T624,Modern Hebrew literature studies
+T625,Kurdish literature studies
+T626,Turkish literature studies
+T630,Modern Middle Eastern society & culture studies
+T631,Arab society & culture studies
+T633,Persian society & culture studies
+T634,Modern Hebrew society & culture studies
+T635,Kurdish society & culture studies
+T636,Turkish society & culture studies
+T690,Modern Middle Eastern studies not elsewhere classified
+T700,American studies
+T710,American language studies
+T711,Latin American language studies
+T712,United States language studies
+T713,Canadian language studies
+T714,Caribbean language studies
+T720,American literature studies
+T721,Latin American literature studies
+T722,United States literature studies
+T723,Canadian literature studies
+T724,Caribbean literature studies
+T730,American society & culture studies
+T731,Latin American society & culture studies
+T732,United States society & culture studies
+T733,Canadian society & culture studies
+T734,Caribbean society & culture studies
+T790,American studies not elsewhere classified
+T800,Australasian studies
+T810,Australasian language studies
+T820,Australasian literature studies
+T830,Australasian society & culture studies
+T890,Australasian studies not elsewhere classified
+T900,"Others in Eastern, Asiatic, African, American & Australasian languages, literature & related subjects"
+T910,"Others in Eastern, Asiatic, African, American & Australasian languages"
+T920,"Others in Eastern, Asiatic, African, American & Australasian literature"
+T930,"Others in Eastern, Asiatic, African, American & Australasian societies & culture"
+T990,"Eastern, Asiatic, African, American & Australasian languages, literature"
+T000,"Eastern, Asiatic, African, American & Australasian languages, literature & related subjects"
+V100,History by period
+V140,Modern history
+V141,Modern history 1500-1599
+V142,Modern history 1600-1699
+V143,Modern history 1700-1799
+V144,Modern history 1800-1899
+V145,Modern history 1900-1919
+V146,Modern history 1920-1949
+V147,Modern history 1950-1999
+V148,Modern history 2000-2099
+V150,Medieval history
+V160,Ancient history
+V161,Late Antique history
+V190,History by period not elsewhere classified
+V200,History by area
+V210,British history
+V211,Irish history
+V212,Scottish history
+V213,Welsh history
+V214,English history
+V220,European history
+V221,French history
+V222,German history
+V223,Italian history
+V224,Iberian history
+V225,Russian history
+V230,American history
+V231,Canadian history
+V232,USA history
+V233,South American history
+V234,Central American history
+V240,Asian history
+V241,Chinese history
+V242,Indian history
+V243,South East Asian history
+V244,Byzantine History
+V250,African history
+V251,North African history
+V252,Central African history
+V253,Southern African history
+V254,East African history
+V255,West African history
+V260,Australasian history
+V261,Australian history
+V262,New Zealand history
+V270,World history
+V271,International history
+V290,History by area not elsewhere classified
+V300,History by topic
+V310,Economic history
+V320,Social history
+V321,Local history
+V322,Oral history
+V323,Family history
+V324,Crime history
+V330,History of religions
+V340,Intellectual history
+V350,History of art
+V360,History of architecture
+V370,History of design
+V380,History of science
+V381,History of physics
+V382,History of chemistry
+V383,History of mathematics
+V384,History of medicine
+V390,History by topic not elsewhere classified
+V391,Military history
+V400,Archaeology
+V410,Egyptology
+V420,Stone Age
+V430,Bronze Age
+V440,Iron Age
+V450,Archaeological conservation
+V460,Archaeological techniques
+V470,Classical art & archaeology
+V471,Roman art & archaeology
+V472,Greek art & archaeology
+V490,Archaeology not elsewhere classified
+V500,Philosophy
+V510,Metaphysics
+V511,Epistemology
+V520,Moral philosophy
+V530,Scholastic philosophy
+V540,Social philosophy
+V550,Philosophy of science
+V560,Mental philosophy
+V590,Philosophy not elsewhere classified
+V600,Theology & religious studies
+V610,Theology
+V620,Religious studies
+V621,Christian studies
+V622,Islamic studies
+V623,Judaism
+V624,Hinduism
+V625,Buddhism
+V626,Other Asian religious studies
+V627,Comparative religious studies
+V630,Divinity
+V640,Religious writings
+V641,The Bible & Christian texts
+V642,The Qur'an & Islamic texts
+V643,The Torah & Judaic texts
+V644,Asian religious texts
+V645,Comparative religious texts
+V650,Pastoral studies
+V690,Theology & religious studies not elsewhere classified
+V700,Heritage studies
+V710,Heritage theory
+V720,Heritage site management
+V730,Natural heritage
+V731,Coastal heritage management
+V740,Visitor management including interpretation
+V750,"Oral history, heritage & genealogy"
+V900,Others in historical & philosophical studies
+V990,Historical & philosophical studies not elsewhere classified
+V000,Historical & philosophical studies
+W100,Fine art
+W110,Drawing
+W120,Painting
+W130,Sculpture
+W140,Printmaking
+W150,Calligraphy
+W160,Fine art conservation
+W190,Fine art not elsewhere classified
+W200,Design studies
+W210,Graphic design
+W211,Typography
+W212,Multimedia design
+W213,Visual communication
+W220,Illustration
+W230,Clothing/fashion design
+W231,Textile design
+W240,Industrial/product design
+W250,Interior design
+W260,Furniture design
+W270,Ceramics design
+W280,Interactive & electronic design
+W290,Design studies not elsewhere classified
+W300,Music
+W310,Musicianship/performance studies
+W311,Instrumental or vocal performance
+W312,Musical theatre
+W313,Conducting
+W314,Jazz performance
+W315,Popular music performance
+W316,Electronic/electro-acoustic music performance
+W317,Historical performance practice
+W320,Music education/teaching
+W330,History of music
+W340,Types of music
+W341,Popular music
+W342,Film music/screen music
+W343,Jazz
+W344,Folk music
+W345,Opera
+W346,Sacred music
+W350,Musicology
+W351,Ethnomusicology/world music
+W352,Community music
+W353,Music & gender
+W354,"Philosophy, aesthetics & criticism of music"
+W355,Music psychology
+W356,Music theory & analysis
+W357,Sociology of music
+W360,Musical instrument history
+W370,Music technology & industry
+W371,Sound design/commercial music recording
+W372,Creative music technology
+W373,Electro-acoustic studies
+W374,Music production
+W375,Music management/music industry management/arts management
+W376,Music marketing
+W380,Composition
+W381,Electracoustic composition/acousmatic composition
+W382,Sonic arts
+W383,Electronic music
+W384,Applied music/musicianship
+W385,Commercial music composition
+W386,Multimedia music composition
+W387,Jazz composition
+W388,Popular music composition
+W390,Music not elsewhere classified
+W400,Drama
+W410,Acting
+W420,Directing for theatre
+W430,Producing for theatre
+W440,Theatre studies
+W441,Theatre & professional practice
+W442,Contemporary theatre
+W443,Technical arts & special effects for theatre
+W450,Stage management
+W451,Theatrical wardrobe design
+W452,Theatrical make-up
+W453,Technical stage management
+W460,Theatre design
+W461,Stage design
+W470,Performance & live arts
+W471,European/world theatre arts
+W472,Circus arts
+W473,Community theatre
+W490,Drama not elsewhere classified
+W500,Dance
+W510,Choreography
+W520,Body awareness
+W530,History of dance
+W531,Dance & culture
+W532,Community dance
+W540,Types of dance
+W541,Ballet
+W542,Dance theatre
+W543,Contemporary dance
+W544,Jazz dance
+W550,Dance performance
+W590,Dance not elsewhere classified
+W600,Cinematics & photography
+W610,Moving image techniques
+W611,Directing motion pictures
+W612,Producing motion pictures
+W613,Film & sound recording
+W614,Visual & audio effects
+W615,Animation techniques
+W620,Cinematography
+W630,History of cinematics & photography
+W631,History of cinematics
+W632,History of photography
+W640,Photography
+W690,Cinematics & photography not elsewhere classified
+W700,Crafts
+W710,Fabric & leather crafts
+W711,Needlecraft
+W712,Dressmaking
+W713,Soft furnishing
+W714,Weaving
+W715,Leatherwork
+W720,Metal crafts
+W721,Silversmithing/goldsmithing
+W722,Blacksmithing
+W723,Clock/watchmaking
+W730,Wood crafts
+W731,Carpentry/joinery
+W732,Cabinet making
+W733,Marquetry & inlaying
+W734,Veneering
+W740,Surface decoration
+W750,Clay & stone crafts
+W751,Pottery
+W752,Tile making
+W753,Stone crafts
+W760,Reed crafts
+W761,Basketry
+W762,Thatching
+W770,Glass crafts
+W771,Glassblowing
+W780,Paper crafts
+W781,Bookbinding
+W782,Origami
+W790,Crafts not elsewhere classified
+W800,Imaginative writing
+W810,Scriptwriting
+W820,Poetry writing
+W830,Prose writing
+W890,Imaginative writing not elsewhere classified
+W900,Others in creative arts & design
+W990,Creative arts & design not elsewhere classified
+W000,Creative arts & design
+X100,Training teachers
+X110,Training teachers - nursery
+X120,Training teachers - primary
+X121,Training teachers - infant (key stage 1)
+X122,Training teachers - junior (key stage 2)
+X130,Training teachers - secondary
+X131,Training teachers - key stage 3
+X132,Training teachers - key stage 4
+X140,Training teachers - tertiary
+X141,Training teachers - further education
+X142,Training teachers - higher education
+X150,Training teachers - adult education
+X151,Training teachers - coaching
+X160,Training teachers - specialist
+X161,Training teachers - special needs
+X162,Teaching English as a Foreign Language (TEFL)
+X190,Training teachers not elsewhere classified
+X200,Research & study skills in education
+X210,Research skills
+X220,Study skills
+X290,Research & study skills in education not elsewhere classified
+X300,Academic studies in education
+X310,Academic studies in nursery education
+X320,Academic studies in primary education
+X330,Academic studies in secondary education
+X340,Academic studies in tertiary education
+X341,Academic studies in further education
+X342,Academic studies in higher education
+X350,Academic studies in adult education
+X360,Academic studies in specialist education
+X370,Academic studies in education (across phases)
+X390,Academic studies in education not elsewhere classified
+X900,Others in education
+X990,Education not elsewhere classified
+X000,Education
+Y000,Combined/general subject unspecified
